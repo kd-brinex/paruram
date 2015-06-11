@@ -1,0 +1,4591 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//calend.ru/russtate///NONSGML iCalcreator 2.6//
+VERSION:2.0
+X-WR-CALNAME:Calend.ru - Праздники России 2015
+X-WR-CALDESC:Calend.ru - Праздники России 2015
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:20150401T000119CEST-3870xUjudD@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/293/
+DESCRIPTION:В России\, со времени введения христианства\, начинали летоисчи
+ сление или с марта\, или со дня святой Пасхи. В 1492 году великий князь Ио
+ анн III утвердил постановление Московского собора считать за начало года 1
+  сентября. \n\nКроме того\,...
+DTSTART;VALUE=DATE:20150101
+RRULE:FREQ=YEARLY
+SUMMARY:Новый год
+URL:http://www.calend.ru/holidays/0/0/293/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3882UZKT8N@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2/
+DESCRIPTION:В ночь с 6 на 7 января православные России отмечают праздник Ро
+ ждества Христова. Как известно\, в нашей стране церковь в начале 20 века н
+ е перешла с Юлианского календаря на новый григорианский\, вследствие чего 
+ календарь на 13 дней отличается от...
+DTSTART;VALUE=DATE:20150107
+RRULE:FREQ=YEARLY
+SUMMARY:Рождество Христово
+URL:http://www.calend.ru/holidays/0/0/2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3895Nb77RF@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/199/
+DESCRIPTION:Ежегодно 11 января в нашей стране отмечается День заповедников 
+ и национальных парков.\n\nЗаповедники и национальные парки — особо охраняе
+ мые природные территории — сегодня\, пожалуй\, единственный способ уберечь
+  от гибели хотя бы небольшую...
+DTSTART;VALUE=DATE:20150111
+RRULE:FREQ=YEARLY
+SUMMARY:День заповедников и национальных парков России
+URL:http://www.calend.ru/holidays/0/0/199/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3906JWVbwa@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3/
+DESCRIPTION:День работника прокуратуры Российской Федерации отмечается с 19
+ 96 года по Указу Президента Российской Федерации № 1329 от 29 декабря 1995
+  года «Об установлении Дня работника прокуратуры Российской Федерации».\n
+ \n12 января 1722 года...
+DTSTART;VALUE=DATE:20150112
+RRULE:FREQ=YEARLY
+SUMMARY:День работника прокуратуры Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3920H8LAju@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/4/
+DESCRIPTION:13 января в России отмечается День российской печати. Именно в 
+ этот день в 1703 году в России по указу Петра I вышел в свет первый номер 
+ российской газеты «Ведомости». \n\nПервый номер газеты носил название «Вед
+ омости о военных и иных...
+DTSTART;VALUE=DATE:20150113
+RRULE:FREQ=YEARLY
+SUMMARY:День российской печати
+URL:http://www.calend.ru/holidays/0/0/4/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3931MtuzWP@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/5/
+DESCRIPTION:Через две недели после празднования Нового года\, в ночь с 13 н
+ а 14 января\, ежегодно Новый год снова стучится к нам в дверь\, только под
+  другим названием — Старый Новый год. \n\nСтарый Новый год — это редкий ис
+ торический феномен\,...
+DTSTART;VALUE=DATE:20150114
+RRULE:FREQ=YEARLY
+SUMMARY:Старый Новый год
+URL:http://www.calend.ru/holidays/0/0/5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3944AeNaXR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1731/
+DESCRIPTION:14 января свой профессиональный праздник отмечают Трубопроводны
+ е войска России.\n\n22 ноября 1951 года Председатель Совета Министров И.В.
+  Сталин подписал Постановление об изготовлении опытного образца трубопрово
+ да нового поколения....
+DTSTART;VALUE=DATE:20150114
+RRULE:FREQ=YEARLY
+SUMMARY:День создания трубопроводных войск России
+URL:http://www.calend.ru/holidays/0/0/1731/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3958t49EDM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3029/
+DESCRIPTION:15 января 2011 года вступил в силу Федеральный закон «О Следств
+ енном комитете Российской Федерации»\, подписанный 28 декабря 2010 года. Э
+ то стало поводом внести в календарь еще одну праздничную дату - День образ
+ ования Следственного комитета...
+DTSTART;VALUE=DATE:20150115
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Следственного комитета Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/3029/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3970oDuCnW@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/171/
+DESCRIPTION:Крещение Господне\, или Богоявление\, празднуется Русской Право
+ славной церковью 19 января по новому стилю. \n\nЭто один из самых древних 
+ праздников христианской Церкви\, и его установление относится еще ко време
+ нам апостолов. Он посвящен...
+DTSTART;VALUE=DATE:20150119
+RRULE:FREQ=YEARLY
+SUMMARY:Крещение Господне (Святое Богоявление) у восточных христиан
+URL:http://www.calend.ru/holidays/0/0/171/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3987SLflCT@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/697/
+DESCRIPTION:Автономная Республика Крым расположена на большей части полуост
+ рова Крым\, который расположен в северной части Чёрного моря. У Республики
+  есть и собственная символика — герб и флаг Автономной Республики Крым. Ст
+ олица Республики Крым — город...
+DTSTART;VALUE=DATE:20150120
+RRULE:FREQ=YEARLY
+SUMMARY:День Автономной Республики Крым
+URL:http://www.calend.ru/holidays/0/0/697/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-3999O9jjsI@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/8/
+DESCRIPTION:День инженерных войск установлен Указом Президента Российской Ф
+ едерации от 18 сентября 1996 года\, учитывая их вклад в развитие оборонног
+ о потенциала страны и исторических традиций. Приказом Министра обороны РФ 
+ от 23 сентября 1996 года предписано...
+DTSTART;VALUE=DATE:20150121
+RRULE:FREQ=YEARLY
+SUMMARY:День инженерных войск в России
+URL:http://www.calend.ru/holidays/0/0/8/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4107pFF3W5@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3226/
+DESCRIPTION:Сегодня\, 25 января 2015 года\, нашему проекту Calend.ru исполн
+ яется 10 лет!\n\n25 января 2005 года был зарегистрирован домен Calend.ru. 
+ Именно эта дата официально считается Днем рождения проекта.\n\nОснователь 
+ проекта – Максим...
+DTSTART;VALUE=DATE:20150125
+RRULE:FREQ=YEARLY
+SUMMARY:День рождения Calend.ru
+URL:http://www.calend.ru/holidays/0/0/3226/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-41271k45L9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/9/
+DESCRIPTION:25 января в России отмечается День студентов (Татьянин день).\n
+ \nТак случилось\, что именно в Татьянин день\, который по новому стилю отм
+ ечается 25 января\, в 1755 году императрица Елизавета Петровна подписала у
+ каз «Об учреждении...
+DTSTART;VALUE=DATE:20150125
+RRULE:FREQ=YEARLY
+SUMMARY:День студентов (Татьянин день)
+URL:http://www.calend.ru/holidays/0/0/9/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-41425v22xt@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/197/
+DESCRIPTION:Ежегодно 25 января в России отмечается профессиональный праздни
+ к - День штурманов Военно-Морского Флота Российской Федерации - военнослуж
+ ащих\, чья деятельность напрямую связана с прокладкой курсов кораблей\, су
+ дов и авиации ВМФ\, исчислением...
+DTSTART;VALUE=DATE:20150125
+RRULE:FREQ=YEARLY
+SUMMARY:День штурмана ВМФ РФ
+URL:http://www.calend.ru/holidays/0/0/197/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-41586lDGC7@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/636/
+DESCRIPTION:День воинской славы России — День полного освобождения советски
+ ми войсками города Ленинграда от блокады его немецко-фашистскими войсками 
+ (1944 год) — отмечается в соответствии с Федеральным законом от 13 марта 1
+ 995 года № 32-ФЗ «О днях воинской...
+DTSTART;VALUE=DATE:20150127
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День полного освобождения города Ленин
+ града от блокады (1944 год)
+URL:http://www.calend.ru/holidays/0/0/636/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4171AFFnbK@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1307/
+DESCRIPTION:27 января 1945 года советские войска освободили заключенных одн
+ ого из самых жестоких концлагерей фашизма Освенцима. Эта дата стала памятн
+ ой — Днем памяти жертв холокоста.\n\n«Холокост — это трагедия не только ев
+ рейского народа\, но и...
+DTSTART;VALUE=DATE:20150127
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти жертв Холокоста
+URL:http://www.calend.ru/holidays/0/0/1307/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-41906ipU40@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2886/
+DESCRIPTION:31 января во всем мире свой профессиональный праздник - Междуна
+ родный день ювелира - отмечают мастера\, что делают нашу жизнь прекрасней.
+ \n\nПрофессия ювелира – одна из самых древних\, ведь украшать себя люди лю
+ били всегда. Первые...
+DTSTART;VALUE=DATE:20150131
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день ювелира
+URL:http://www.calend.ru/holidays/0/0/2886/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4204b0Xgps@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2343/
+DESCRIPTION:Считаю\, впрочем\, не лишним заметить\,\nчто рассмотрение совок
+ упности ныне\nизвестных фактов\, относящихся к\nнеопределенным химическим 
+ соединениям\,\nприводит меня к убеждению о том\, что\nопределенные химичес
+ кие...
+DTSTART;VALUE=DATE:20150131
+RRULE:FREQ=YEARLY
+SUMMARY:День рождения русской водки
+URL:http://www.calend.ru/holidays/0/0/2343/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4221aInxMU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1869/
+DESCRIPTION:2 февраля в России отмечается один из дней воинской славы — Ден
+ ь разгрома советскими войсками немецко-фашистских войск в Сталинградской б
+ итве в 1943 году. Он установлен Федеральным законом № 32-ФЗ от 13 марта 19
+ 95 года «О днях воинской славы...
+DTSTART;VALUE=DATE:20150202
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы в Сталинградской битве в 1
+ 943 году
+URL:http://www.calend.ru/holidays/0/0/1869/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4238EFREnZ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3228/
+DESCRIPTION:Сегодня существует большое количество зимних видов спорта и спо
+ собов активного отдыха\, которые весьма популярны в нашей стране. К тому ж
+ е российские спортсмены на протяжении многих десятилетий показывают своё м
+ астерство на соревнованиях различных...
+DTSTART;VALUE=DATE:20150207
+RRULE:FREQ=YEARLY
+SUMMARY:День зимних видов спорта в России
+URL:http://www.calend.ru/holidays/0/0/3228/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4252vl7xNP@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/12/
+DESCRIPTION:Ежегодно 8 февраля отечественное научное сообщество отмечает св
+ ой профессиональный праздник - День российской науки\, учреждённый указом 
+ президента РФ в 1999 году.\n\n8 февраля 1724 года (28 января по старому ст
+ илю) Указом...
+DTSTART;VALUE=DATE:20150208
+RRULE:FREQ=YEARLY
+SUMMARY:День российской науки
+URL:http://www.calend.ru/holidays/0/0/12/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4264owutgz@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2918/
+DESCRIPTION:Ежегодно в России 8 февраля отмечается День военного топографа.
+  Официально этот профессиональный праздник отмечается с 2004 года\, поскол
+ ьку в феврале 2003 года приказом министра обороны №395 была установлена да
+ та праздника - 8 февраля\, которая была...
+DTSTART;VALUE=DATE:20150208
+RRULE:FREQ=YEARLY
+SUMMARY:День военного топографа в России
+URL:http://www.calend.ru/holidays/0/0/2918/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4275b65ojU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2995/
+DESCRIPTION:Сегодня в России отмечается День гражданской авиации. Именно в 
+ этот день в 1923 году в нашей стране появился воздушный флот\, в чьи задач
+ и вошло перевозить пассажиров\, путешествующих по служебным или личным дел
+ ам\, почту и разного рода грузы. 9...
+DTSTART;VALUE=DATE:20150209
+RRULE:FREQ=YEARLY
+SUMMARY:День гражданской авиации России
+URL:http://www.calend.ru/holidays/0/0/2995/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4286oGgnLI@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/13/
+DESCRIPTION:Профессиональный праздник дипломатических работников\, отмечаем
+ ый в нашей стране ежегодно 10 февраля\, установлен Указом президента Росси
+ йской Федерации № 1279 от 31 октября 2002 года в ознаменование 200-летнего
+  юбилея Министерства иностранных дел...
+DTSTART;VALUE=DATE:20150210
+RRULE:FREQ=YEARLY
+SUMMARY:День дипломатического работника
+URL:http://www.calend.ru/holidays/0/0/13/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4300PdUCTV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/15/
+DESCRIPTION:Этот романтический праздник - День святого Валентина - влюбленн
+ ые пары отмечают по всему свету 14 февраля. \n\nКак известно\, имя этому п
+ разднику дал простой христианский священник Валентин\, который тайно венча
+ л влюбленных легионеров\, за...
+DTSTART;VALUE=DATE:20150214
+RRULE:FREQ=YEARLY
+SUMMARY:День Святого Валентина (День всех влюбленных)
+URL:http://www.calend.ru/holidays/0/0/15/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-43161wd1nb@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2717/
+DESCRIPTION:Начиная с 2011 года в России отмечается важная памятная дата — 
+ День памяти о россиянах\, исполнявших служебный долг за пределами Отечеств
+ а. Этот день утвержден Федеральным законом № 320-ФЗ «О внесении изменений 
+ в статью 1.1 Федерального закона «О...
+DTSTART;VALUE=DATE:20150215
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти о россиянах\, исполнявших служебный долг за пределами О
+ течества
+URL:http://www.calend.ru/holidays/0/0/2717/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4331lSMEpt@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1246/
+DESCRIPTION:Масленица — праздник\, сохранившийся с языческих времен. Отмеча
+ ется в течение недели перед Великим постом.\n\nОбычай праздновать маслениц
+ у берет свое начало с древнейших времен — с греческих и римских вакханалий
+  и сатурналий....
+DTSTART;VALUE=DATE:20150216
+RDATE;VALUE=DATE:20050307,20060227,20070212,20080303,20090223,20100208,2011
+ 0228,20120220,20130311,20140224,20150216,20160307,20170220,20180212,201903
+ 04,20200224
+SUMMARY:Масленица — начало масленичной недели
+URL:http://www.calend.ru/holidays/0/0/1246/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4342izakFh@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3067/
+DESCRIPTION:16 февраля в нашей стране отмечается День архива Минэнерго Росс
+ ии.\n\nПо мнению специалистов\, история российской энергетики начинается с
+  1801 года — в начале 19 века в России разрабатываются 25 угольных месторо
+ ждений. Впоследствии...
+DTSTART;VALUE=DATE:20150216
+RRULE:FREQ=YEARLY
+SUMMARY:День архива Минэнерго России
+URL:http://www.calend.ru/holidays/0/0/3067/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4355GZ0C0M@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2889/
+DESCRIPTION:Служба горючего Вооруженных Сил Российской Федерации — одна из 
+ самых молодых служб Тыла Вооруженных Сил России. Ее история началась 17 фе
+ враля 1936 года\, когда по Приказу Народного Комиссара Обороны Союза ССР №
+  024 было создано Управление по...
+DTSTART;VALUE=DATE:20150217
+RRULE:FREQ=YEARLY
+SUMMARY:День Службы горючего Вооруженных Сил России
+URL:http://www.calend.ru/holidays/0/0/2889/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4367cGu26D@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/201/
+DESCRIPTION:18 февраля в России отмечают День транспортной полиции. Это нео
+ фициальный профессиональный праздник сотрудников подразделения МВД\, отвеч
+ ающих за обеспечение правопорядка на транспорте («Главное управление на тр
+ анспорте»). \n\nИсторию...
+DTSTART;VALUE=DATE:20150218
+RRULE:FREQ=YEARLY
+SUMMARY:День транспортной полиции России
+URL:http://www.calend.ru/holidays/0/0/201/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4458BUJuEA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3229/
+DESCRIPTION:Ежегодно в феврале в Москве проходит церемония вручения Высшей 
+ юридической премии «Фемида». В 2015 году она состоится в 19-й раз и пройде
+ т в Камерном зале Московского международного Дома музыки.\n\nВысшая юридич
+ еская премия «Фемида» –...
+DTSTART;VALUE=DATE:20150219
+RDATE;VALUE=DATE:20150219
+SUMMARY:Церемония вручения Высшей юридической премии «Фемида»
+URL:http://www.calend.ru/holidays/0/0/3229/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-44705Prf5s@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1860/
+DESCRIPTION:Каждый народ — это неповторимая культура\, история\, традиции\,
+  образ жизни. И\, конечно же\, язык. Сберечь языковую базу и большого наро
+ да\, и самой малочисленной народности — очень важная задача. \n\nМеждунаро
+ дный день родного языка\,...
+DTSTART;VALUE=DATE:20150221
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день родного языка
+URL:http://www.calend.ru/holidays/0/0/1860/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4483hiJcSn@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/941/
+DESCRIPTION:Последний день Масленицы - прощеное воскресенье\, или проводы. 
+ \n\nЗаканчивается гулянье\, сжигается чучело Масленицы\, на ледяных горках
+  разводят костры\, чтобы лед растопить\, холод уничтожить. \n\nРаньше в эт
+ от день было...
+DTSTART;VALUE=DATE:20150222
+RDATE;VALUE=DATE:20080309,20090301,20100214,20110306,20120226,20130317,2014
+ 0302,20150222,20160313,20170226,20180218,20190310,20200301
+SUMMARY:Прощеное воскресенье
+URL:http://www.calend.ru/holidays/0/0/941/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4499We5nu7@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/16/
+DESCRIPTION:Свою историю праздник\, отмечаемый в нашей стране 23 февраля\, 
+ ведет с 1920-х годов. И независимо от названия\, в этот день всегда чество
+ вали настоящих мужчин - защитников своей Родины.\n\n10 февраля 1995 года Г
+ осударственная Дума России...
+DTSTART;VALUE=DATE:20150223
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День защитника Отечества
+URL:http://www.calend.ru/holidays/0/0/16/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4510zD9lf3@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3230/
+DESCRIPTION:С 2015 года в России учрежден новый профессиональный праздник &
+ ndash\; День Сил специальных операций. \n\nУказ об этом был подписан Прези
+ дентом России Владимиром Путиным 26 февраля 2015 года.\n\n«Установить День
+  Сил...
+DTSTART;VALUE=DATE:20150227
+RRULE:FREQ=YEARLY
+SUMMARY:День Сил специальных операций
+URL:http://www.calend.ru/holidays/0/0/3230/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4524UiMSeG@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3096/
+DESCRIPTION:Административный центр — Чита\n\n1 марта 2008 года на карте Рос
+ сии появился новый регион — Забайкальский край. Он вошел в состав Сибирско
+ го федерального округа\, административным центром стал город Чита. Забайка
+ льский край граничит с...
+DTSTART;VALUE=DATE:20150301
+RRULE:FREQ=YEARLY
+SUMMARY:День Забайкальского края
+URL:http://www.calend.ru/holidays/0/0/3096/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-45376F2CMP@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2585/
+DESCRIPTION:Ежегодно 1 марта неофициально отмечается профессиональный празд
+ ник сотрудников всех экспертно-криминалистических подразделений Министерст
+ ва внутренних дел России - День эксперта-криминалиста МВД России. \n\nИмен
+ но 1 марта 1919 года в...
+DTSTART;VALUE=DATE:20150301
+RRULE:FREQ=YEARLY
+SUMMARY:День эксперта-криминалиста МВД России
+URL:http://www.calend.ru/holidays/0/0/2585/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4548g0S95v@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2919/
+DESCRIPTION:В 2011 году у людей и организаций\, чья деятельность связана с 
+ Интернетом\, появился новый праздник\, получивший название «День хостинг-п
+ ровайдера». Сейчас хостеры России смогут отмечать профессиональную дату 1 
+ марта каждого...
+DTSTART;VALUE=DATE:20150301
+RRULE:FREQ=YEARLY
+SUMMARY:День хостинг-провайдера в России
+URL:http://www.calend.ru/holidays/0/0/2919/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4562kTKn2u@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1902/
+DESCRIPTION:— Ах\, — сказала Кошка\, слушая их разговор\, —\nэта Женщина оч
+ ень умна\, но\, конечно\, не умнее меня.\nР.Киплинг\, «Кошка\, которая гул
+ яла сама по себе»\n\n\nВ первый день первого весеннего месяца по стихийно.
+ ..
+DTSTART;VALUE=DATE:20150301
+RRULE:FREQ=YEARLY
+SUMMARY:День кошек в России
+URL:http://www.calend.ru/holidays/0/0/1902/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4573XIkUF5@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2921/
+DESCRIPTION:В 2009 году Государственный драматический театр «Приют комедиан
+ та»\, который находится в Санкт-Петербурге\, предложил отмечать новый проф
+ ессиональный праздник — День театрального кассира. Эту инициативу поддержа
+ ли руководители других театров. С тех...
+DTSTART;VALUE=DATE:20150302
+RRULE:FREQ=YEARLY;BYDAY=1MO;BYMONTH=3
+SUMMARY:День театрального кассира
+URL:http://www.calend.ru/holidays/0/0/2921/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4588mjpvhb@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/18/
+DESCRIPTION:Впервые Международный женский день был отмечен в 1911 году в че
+ тырех странах — Австрии\, Германии\, Дании и Швейцарии — в разные дни. В 1
+ 912 году женский день отмечался все тем же «узким кругом» стран и снова в 
+ разные дни.\n\nВ 1913 году...
+DTSTART;VALUE=DATE:20150308
+RRULE:FREQ=YEARLY
+SUMMARY:Международный женский день
+URL:http://www.calend.ru/holidays/0/0/18/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4602eJE94f@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/134/
+DESCRIPTION:Каждое второе воскресенье марта геодезисты и картографы России 
+ отмечают свой профессиональный праздник — День работников геодезии и карто
+ графии. Праздник был установлен Указом Президента Российской Федерации № 1
+ 867 «О Дне работников геодезии и...
+DTSTART;VALUE=DATE:20150308
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+SUMMARY:День работников геодезии и картографии в России
+URL:http://www.calend.ru/holidays/0/0/134/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4615JVKwjK@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/669/
+DESCRIPTION:10 марта ежегодно в России отмечается День архивов. Пока это ли
+ шь неофициальный профессиональный праздник работников архивов\, поскольку 
+ он был учрежден только Решением коллегии Федеральной архивной службы Росси
+ и 5 марта 2003 года\, и не прошел полную...
+DTSTART;VALUE=DATE:20150310
+RRULE:FREQ=YEARLY
+SUMMARY:День архивов в России
+URL:http://www.calend.ru/holidays/0/0/669/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4626PwMtFu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3097/
+DESCRIPTION:Праздник — День народного подвига по формированию Уральского до
+ бровольческого танкового корпуса в годы Великой Отечественной войны — еще 
+ один\, отмечающий подвиг советского народа в годы войны\, — появился в кал
+ ендаре в 2012 году\, когда губернатор...
+DTSTART;VALUE=DATE:20150311
+RRULE:FREQ=YEARLY
+SUMMARY:День народного подвига по формированию Уральского добровольческого 
+ танкового корпуса в годы Великой Отечественной войны
+URL:http://www.calend.ru/holidays/0/0/3097/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4640u42Xbe@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2392/
+DESCRIPTION:11 марта в России отмечается профессиональный праздник - День р
+ аботника органов наркоконтроля\, установленный Указом Президента РФ № 205 
+ «О Дне работника органов наркоконтроля» от 16 февраля 2008 года.\n\n11 мар
+ та было выбрано датой...
+DTSTART;VALUE=DATE:20150311
+RRULE:FREQ=YEARLY
+SUMMARY:День работника органов наркоконтроля России
+URL:http://www.calend.ru/holidays/0/0/2392/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-46518AxXEd@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2987/
+DESCRIPTION:11 марта 1992 года в России был принят закон «О частной детекти
+ вной и охранной деятельности». В честь этой даты сотрудники охранных агент
+ ств и частные детективы учредили собственный профессиональный праздник - Д
+ ень сотрудников частных охранных...
+DTSTART;VALUE=DATE:20150311
+RRULE:FREQ=YEARLY
+SUMMARY:День сотрудников частных охранных агентств
+URL:http://www.calend.ru/holidays/0/0/2987/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4663MTMLVM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/19/
+DESCRIPTION:Ежегодно 12 марта в нашей стране отмечается профессиональный пр
+ аздник работников уголовно-исполнительной системы Министерства юстиции Рос
+ сийской Федерации. \n\nДата для его учреждения была выбрана не случайно. 1
+ 2 марта 1879 года...
+DTSTART;VALUE=DATE:20150312
+RRULE:FREQ=YEARLY
+SUMMARY:День работников уголовно-исполнительной системы Министерства юстици
+ и России
+URL:http://www.calend.ru/holidays/0/0/19/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4676nvpCLj@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/635/
+DESCRIPTION:Сегодня свой профессиональный праздник - День работников бытово
+ го обслуживания населения и жилищно-коммунального хозяйства - отмечают люд
+ и\, чья работа связана с различной сферой обслуживания\, в том числе и раб
+ отники ЖКХ.\n\nЭтот праздник...
+DTSTART;VALUE=DATE:20150315
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=3
+SUMMARY:День работников бытового обслуживания населения и жилищно-коммуналь
+ ного хозяйства
+URL:http://www.calend.ru/holidays/0/0/635/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4688ij0fcO@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1920/
+DESCRIPTION:Сотрудники и ветераны МВД\, те\, кто по долгу службы ведут борь
+ бу с экономической преступностью\, отмечают сегодня свой профессиональный 
+ праздник — День образования подразделений экономической безопасности в сис
+ теме МВД.\n\nПредшественником...
+DTSTART;VALUE=DATE:20150316
+RRULE:FREQ=YEARLY
+SUMMARY:День образования подразделений экономической безопасности в системе
+  МВД России
+URL:http://www.calend.ru/holidays/0/0/1920/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4701s9U2gD@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/23/
+DESCRIPTION:Ежегодно 19 марта в России отмечается День моряка-подводника - 
+ профессиональный праздник военнослужащих и гражданского персонала подводны
+ х сил Военно-Морского Флота Российской Федерации\, установленный Главкомом
+  ВМФ РФ в 1996 году.\n\nВ...
+DTSTART;VALUE=DATE:20150319
+RRULE:FREQ=YEARLY
+SUMMARY:День моряка-подводника в России
+URL:http://www.calend.ru/holidays/0/0/23/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4714mggx1u@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/450/
+DESCRIPTION:Ежегодно 22 марта в мире отмечается Всемирный день водных ресур
+ сов (World Day for Water или World Water Day). Идея его проведения впервые
+  прозвучала на Конференции ООН по охране окружающей среды и развитию (ЮНСЕ
+ Д)\, которая состоялась в 1992 году в...
+DTSTART;VALUE=DATE:20150322
+RRULE:FREQ=YEARLY
+SUMMARY:Всемирный день водных ресурсов
+URL:http://www.calend.ru/holidays/0/0/450/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-47291HBVRJ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3200/
+DESCRIPTION:Ежегодно 23 марта специалисты гидрометеорологической службы Рос
+ сии отмечают свой профессиональный праздник. Он был учрежден Указом Презид
+ ента Российской Федерации № 812 «О Дне работников гидрометеорологической с
+ лужбы» от 19 мая 2008 года и приурочен...
+DTSTART;VALUE=DATE:20150323
+RRULE:FREQ=YEARLY
+SUMMARY:День работников гидрометеорологической службы России
+URL:http://www.calend.ru/holidays/0/0/3200/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4740nCxVDc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3095/
+DESCRIPTION:В 2000 году в нашем календаре праздников появился День штурмана
+  Военно-воздушных сил России. Приказом Главнокомандующего ВВС Российской Ф
+ едерации от 2 августа 2000 года датой праздника был установлен день 24 мар
+ та. В этот день в 1916 году начальник...
+DTSTART;VALUE=DATE:20150324
+RRULE:FREQ=YEARLY
+SUMMARY:День штурманской службы ВВС России
+URL:http://www.calend.ru/holidays/0/0/3095/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4752VR3TUG@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2257/
+DESCRIPTION:Культура родилась из культа.\nНиколай Бердяев\n\n27 августа 200
+ 7 года Президент России Владимир Путин подписал Указ № 1111 «О Дне работни
+ ка культуры»\, согласно которому этот профессиональный праздник ежегодно о
+ тмечается 25...
+DTSTART;VALUE=DATE:20150325
+RRULE:FREQ=YEARLY
+SUMMARY:День работника культуры России
+URL:http://www.calend.ru/holidays/0/0/2257/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4767tvX6jc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/26/
+DESCRIPTION:Ежегодно 27 марта все работники театров и поклонники театрально
+ го искусства в России\, как и во многих других странах\, отмечают Всемирны
+ й день театра\, установленный в 1961 году IX конгрессом Международного инс
+ титута театра.\n\nРусская...
+DTSTART;VALUE=DATE:20150327
+RRULE:FREQ=YEARLY
+SUMMARY:Всемирный день театра
+URL:http://www.calend.ru/holidays/0/0/26/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4780Siiusm@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/27/
+DESCRIPTION:27 марта в нашей стране ежегодно отмечается День внутренних вой
+ ск МВД России - профессиональный праздник всех военнослужащих и гражданско
+ го персонала Внутренних войск Министерства внутренних дел Российской Федер
+ ации (ВВ МВД РФ).\n\n19...
+DTSTART;VALUE=DATE:20150327
+RRULE:FREQ=YEARLY
+SUMMARY:День внутренних войск МВД России
+URL:http://www.calend.ru/holidays/0/0/27/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4792C2Z9uv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1486/
+DESCRIPTION:Ежегодно 29 марта отмечается День специалиста юридической служб
+ ы в Вооруженных Силах России - профессиональный праздник военных юристов\,
+  установленный Указом Президента РФ № 549 от 31 мая 2006 года «Об установл
+ ении профессиональных праздников и...
+DTSTART;VALUE=DATE:20150329
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста юридической службы в Вооруженных Силах России
+URL:http://www.calend.ru/holidays/0/0/1486/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4802A8a6DL@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/28/
+DESCRIPTION:Сегодня в России\, как и во всем мире\, отмечается веселый праз
+ дник - День смеха или День дурака.\n\nВ России первоапрельские розыгрыши у
+ твердились уже к концу 17 века. Также известно\, что в царствование Петра 
+ I труппа немецких актеров...
+DTSTART;VALUE=DATE:20150401
+RRULE:FREQ=YEARLY
+SUMMARY:День смеха (День дурака)
+URL:http://www.calend.ru/holidays/0/0/28/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4814c4mmc3@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/200/
+DESCRIPTION:2 апреля отмечается День единения народов Белоруссии и России. 
+ Именно в этот день в 1996 году президенты России и Белоруссии Борис Ельцин
+  и Александр Лукашенко подписали в Москве Договор «Об образовании Сообщест
+ ва России и Белоруссии»....
+DTSTART;VALUE=DATE:20150402
+RRULE:FREQ=YEARLY
+SUMMARY:День единения народов Беларуси и России
+URL:http://www.calend.ru/holidays/0/0/200/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4833fuvvhn@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3141/
+DESCRIPTION:Столица — Элиста\n\n5 апреля 1994 года в Калмыкии было принято 
+ Степное Уложение (Конституция) Республики\, являющееся Основным законом Ка
+ лмыкии. Эта дата стала официальным государственным праздником\, который тр
+ адиционно объявляется в...
+DTSTART;VALUE=DATE:20150405
+RRULE:FREQ=YEARLY
+SUMMARY:День принятия Степного Уложения (Конституции) Республики Калмыкия
+URL:http://www.calend.ru/holidays/0/0/3141/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4847OLVoFp@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1008/
+DESCRIPTION:Ежегодно 6 апреля в нашей стране отмечается профессиональный пр
+ аздник работников следственного аппарата в органах внутренних дел Российск
+ ой Федерации.\n\nУказом Президиума Верховного Совета СССР от 6 апреля 1963
+  года право производства...
+DTSTART;VALUE=DATE:20150406
+RRULE:FREQ=YEARLY
+SUMMARY:День работников следственных органов МВД РФ
+URL:http://www.calend.ru/holidays/0/0/1008/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4860UouLww@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2403/
+DESCRIPTION:7 апреля отмечается знаменательная для всех пользователей русск
+ оязычного интернета дата — День рождения Рунета (RuNet). \n\n7 апреля 1994
+  года для России был зарегистрирован домен — .Ru — и внесен в международну
+ ю базу данных национальных...
+DTSTART;VALUE=DATE:20150407
+RRULE:FREQ=YEARLY
+SUMMARY:День рождения Рунета
+URL:http://www.calend.ru/holidays/0/0/2403/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4872gVgkVG@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2687/
+DESCRIPTION:Трагические события\, уносящие жизни десятков и сотен защитнико
+ в Отечества\, не должны быть забыты. Более того\, трагические даты должны 
+ быть увековечены\, как была увековечена дата 7 апреля - день гибели экипаж
+ а атомной подводной лодки Северного флота...
+DTSTART;VALUE=DATE:20150407
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти погибших подводников
+URL:http://www.calend.ru/holidays/0/0/2687/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4885ZNPEFp@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/794/
+DESCRIPTION:Защита Отечества является долгом\nи обязанностью гражданина Рос
+ сийской Федерации.\nКонституция РФ\, ст. 59\, 1\n\n8 апреля в России отмеч
+ ается профессиональный праздник — День сотрудников военных комиссариатов.
+ \n
+DTSTART;VALUE=DATE:20150408
+RRULE:FREQ=YEARLY
+SUMMARY:День сотрудников военных комиссариатов
+URL:http://www.calend.ru/holidays/0/0/794/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4897UX0Jrn@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/32/
+DESCRIPTION:12 апреля в России отмечают День космонавтики в ознаменование п
+ ервого космического полета\, совершенного Юрием Гагариным. Первоначально э
+ та памятная дата была установлена Указом Президиума Верховного Совета СССР
+  № 3018-Х от 1 октября 1980 года «О...
+DTSTART;VALUE=DATE:20150412
+RRULE:FREQ=YEARLY
+SUMMARY:День космонавтики
+URL:http://www.calend.ru/holidays/0/0/32/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4911f53k4J@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/182/
+DESCRIPTION:В христианской традиции Пасха занимает особое место — место Пра
+ здника праздников. Подготовка к этому светлому событию предполагает послед
+ овательное соблюдение ряда религиозных предписаний. Упорядочивая социальну
+ ю действительность\, религиозные обряды...
+DTSTART;VALUE=DATE:20150412
+RDATE;VALUE=DATE:20050501,20060423,20070408,20080427,20090419,20100404,2011
+ 0424,20120415,20130505,20140420,20150412,20160501,20170416,20180408,201904
+ 28,20200419
+SUMMARY:Пасха
+URL:http://www.calend.ru/holidays/0/0/182/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4926Oe9bRz@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/138/
+DESCRIPTION:Согласно Указу Президента Российской Федерации № 549 от 31 мая 
+ 2006 года «Об установлении профессиональных праздников и памятных дней в В
+ ооруженных Силах Российской Федерации» ежегодно во второе воскресенье апре
+ ля отмечается День войск...
+DTSTART;VALUE=DATE:20150412
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=4
+SUMMARY:День войск противовоздушной обороны (День войск ПВО) России
+URL:http://www.calend.ru/holidays/0/0/138/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-49400FGRea@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3032/
+DESCRIPTION:Ежегодно 13 апреля в России отмечают День мецената и благотвори
+ теля. Дата праздника связана с днем рождения Гая Цильния Мецената (Gaius C
+ ilnius Maecenas\, 13 апреля 70 года до н.э. — ? октября 8 года до н.э.) — 
+ известного римского аристократа\,...
+DTSTART;VALUE=DATE:20150413
+RRULE:FREQ=YEARLY
+SUMMARY:День мецената и благотворителя в России
+URL:http://www.calend.ru/holidays/0/0/3032/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4953Ma66XU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/682/
+DESCRIPTION:День специалиста по радиоэлектронной борьбе отмечается в нашей 
+ стране ежегодно 15 апреля. Этот профессиональный праздник был установлен У
+ казом Президента РФ № 549 от 31 мая 2006 года «Об установлении профессиона
+ льных праздников и памятных дней в...
+DTSTART;VALUE=DATE:20150415
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста по радиоэлектронной борьбе
+URL:http://www.calend.ru/holidays/0/0/682/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4964ajOaVH@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3100/
+DESCRIPTION:Ветераны органов внутренних дел и внутренних войск отмечают сво
+ й профессиональный праздник с 2011 года\, с тех пор как глава МВД Рашид Ну
+ ргалиев подписал соответствующий приказ. Дату праздника приурочили к 20-ле
+ тию создания Общественной организации...
+DTSTART;VALUE=DATE:20150417
+RRULE:FREQ=YEARLY
+SUMMARY:День ветеранов органов внутренних дел и внутренних войск
+URL:http://www.calend.ru/holidays/0/0/3100/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4977BI5wJD@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2222/
+DESCRIPTION:18 апреля в нашей стране отмечается День воинской славы России 
+ — День победы русских воинов князя Александра Невского над немецкими рыцар
+ ями на Чудском озере (Ледовое побоище\, 1242 год). Праздник учрежден Федер
+ альным законом № 32-ФЗ от 13 марта 1995...
+DTSTART;VALUE=DATE:20150418
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — Ледовое побоище (1242)
+URL:http://www.calend.ru/holidays/0/0/2222/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-4991nxZcns@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2689/
+DESCRIPTION:Сегодня большой отряд энтузиастов-радиолюбителей во всем мире о
+ тмечает свой «профессиональный» праздник — Всемирный день радиолюбителя (W
+ orld Amateur Radio Day). \n\nОбщества\, секции\, кружки радиолюбителей в Р
+ оссии также принимают...
+DTSTART;VALUE=DATE:20150418
+RRULE:FREQ=YEARLY
+SUMMARY:Всемирный день радиолюбителя
+URL:http://www.calend.ru/holidays/0/0/2689/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5002hPeEVZ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3014/
+DESCRIPTION:День работника ломоперерабатывающей отрасли невозможно найти в 
+ перечне профессиональных праздников России. Однако предприятия\, утилизиру
+ ющие металлические отходы\, самостоятельно назначили в качестве такой даты
+  19 апреля. \n\nВ этот день...
+DTSTART;VALUE=DATE:20150419
+RRULE:FREQ=YEARLY
+SUMMARY:День работника ломоперерабатывающей отрасли России
+URL:http://www.calend.ru/holidays/0/0/3014/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5017rTuZ33@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2900/
+DESCRIPTION:Сегодня в России отмечается один из важных социальных празднико
+ в — Национальный день донора. Этот День посвящен\, в первую очередь\, сами
+ м донорам — людям\, которые безвозмездно сдают свою кровь во благо здоровь
+ я и жизни совершенно незнакомых людей....
+DTSTART;VALUE=DATE:20150420
+RRULE:FREQ=YEARLY
+SUMMARY:Национальный день донора в России
+URL:http://www.calend.ru/holidays/0/0/2900/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5028nuu2Bh@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3169/
+DESCRIPTION:21 апреля свой профессиональный праздник отмечают финансовые ге
+ нии любых организаций — главные бухгалтеры. День Главбуха (День главного б
+ ухгалтера) был учрежден несколько лет назад редакцией специализированного 
+ журнала «Главбух».\n\nЦель...
+DTSTART;VALUE=DATE:20150421
+RRULE:FREQ=YEARLY
+SUMMARY:День Главбуха (День главного бухгалтера)
+URL:http://www.calend.ru/holidays/0/0/3169/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5039vXJXDg@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3083/
+DESCRIPTION:Указ об учреждении нового праздника — Дня местного самоуправлен
+ ия — президент России Владимир Путин подписал 10 июня 2012 года. Как говор
+ ится в этом документе\, новая дата вводится в календарь «в целях повышения
+  роли и значения института местного...
+DTSTART;VALUE=DATE:20150421
+RRULE:FREQ=YEARLY
+SUMMARY:День местного самоуправления
+URL:http://www.calend.ru/holidays/0/0/3083/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-505748wBuv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3072/
+DESCRIPTION:Весенняя неделя добра (ВНД) – ежегодная общероссийская добровол
+ ьческая акция\, которая проводится повсеместно в нашей стране\, начиная с 
+ 1997 года\, и формируется на основе добровольческих мероприятий различных 
+ организаций\, учреждений и частных лиц\,...
+DTSTART;VALUE=DATE:20150421
+RDATE;VALUE=DATE:20130420,20140419,20150421
+SUMMARY:Весенняя Неделя Добра
+URL:http://www.calend.ru/holidays/0/0/3072/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5070LxzegU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3117/
+DESCRIPTION:Эта дата - День участников ликвидации последствий радиационных 
+ аварий и катастроф и памяти жертв этих аварий и катастроф - появилась в оф
+ ициальном календаре спустя 26 лет после аварии на Чернобыльской АЭС\, печа
+ льно известной на весь мир. 4 апреля...
+DTSTART;VALUE=DATE:20150426
+RRULE:FREQ=YEARLY
+SUMMARY:День участников ликвидации последствий радиационных аварий и катаст
+ роф и памяти жертв этих аварий и катастроф
+URL:http://www.calend.ru/holidays/0/0/3117/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5082Ptn0NN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2997/
+DESCRIPTION:День российского парламентаризма был учрежден 27 июня 2012 года
+ \, когда были внесены изменения в Федеральный закон «О днях воинской славы
+  и памятных датах России». \n\nУстановление нового праздника призвано спос
+ обствовать привлечению...
+DTSTART;VALUE=DATE:20150427
+RRULE:FREQ=YEARLY
+SUMMARY:День российского парламентаризма
+URL:http://www.calend.ru/holidays/0/0/2997/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5094zcisbi@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3008/
+DESCRIPTION:Столица — Якутск\n\n27 апреля — особая дата в истории Якутии. В
+  этот день произошли сразу два знаковых события в общественной и политичес
+ кой жизни региона. В 1922 году была образована Якутская Автономная Советск
+ ая Социалистическая...
+DTSTART;VALUE=DATE:20150427
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Республики Саха (Якутия)
+URL:http://www.calend.ru/holidays/0/0/3008/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-51085mMmxw@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2742/
+DESCRIPTION:27 апреля в России отмечается День специальных частей Внутренни
+ х войск МВД Российской Федерации. Дата для учреждения этого праздника была
+  выбрана не случайно.\n\nИменно в этот день\, в 1946 году\, приказом МВД С
+ ССР в составе Управления МВД...
+DTSTART;VALUE=DATE:20150427
+RRULE:FREQ=YEARLY
+SUMMARY:День спецчастей ВВ МВД России
+URL:http://www.calend.ru/holidays/0/0/2742/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5119EchfTF@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3002/
+DESCRIPTION:Профессиональный праздник - День нотариата - появился у российс
+ ких нотариусов в 2007 году. 13 апреля дату празднования утвердили высший о
+ рган Федеральной нотариальной палаты и Собрание представителей нотариальны
+ х палат субъектов РФ....
+DTSTART;VALUE=DATE:20150427
+RRULE:FREQ=YEARLY
+SUMMARY:День нотариата в России
+URL:http://www.calend.ru/holidays/0/0/3002/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5133wgGH5K@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3069/
+DESCRIPTION:Ежегодно 28 апреля в России отмечается День борьбы за права чел
+ овека от химической опасности или День химической безопасности. Поводом дл
+ я учреждения данного Дня послужили\, к сожалению\, трагические события\, п
+ роизошедшие в 1974 году на заводе...
+DTSTART;VALUE=DATE:20150428
+RRULE:FREQ=YEARLY
+SUMMARY:День борьбы за права человека от химической опасности (День химичес
+ кой безопасности)
+URL:http://www.calend.ru/holidays/0/0/3069/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5145tUcRDu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/35/
+DESCRIPTION:Сегодня свой профессиональный праздник отмечает одна из самых ж
+ изненно необходимых служб быстрого реагирования — пожарная охрана. Праздни
+ к был учрежден Указом Президента РФ Бориса Ельцина № 539 от 30 апреля 1999
+  года «Об установлении Дня пожарной...
+DTSTART;VALUE=DATE:20150430
+RRULE:FREQ=YEARLY
+SUMMARY:День пожарной охраны России
+URL:http://www.calend.ru/holidays/0/0/35/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5155A4ouFi@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/37/
+DESCRIPTION:Первомай впервые был отпразднован в Российской империи в 1890 г
+ оду в Варшаве\, а в 1891 году уже в столице — Санкт-Петербурге. \n\nМногие
+  еще помнят первоначальное название праздника — День международной солидар
+ ности трудящихся. В...
+DTSTART;VALUE=DATE:20150501
+RRULE:FREQ=YEARLY
+SUMMARY:Праздник Весны и Труда
+URL:http://www.calend.ru/holidays/0/0/37/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5170VEHgrf@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2254/
+DESCRIPTION:Ежегодно 5 мая в России отмечается День водолаза. Этот праздник
+  как профессиональный был учрежден в 2002 году указом президента РФ В.Пути
+ на по ходатайству представителей водолазных организаций\, служб и структур
+ ных подразделений различных министерств...
+DTSTART;VALUE=DATE:20150505
+RRULE:FREQ=YEARLY
+SUMMARY:День водолаза в России
+URL:http://www.calend.ru/holidays/0/0/2254/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-51820bVngN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1592/
+DESCRIPTION:В начале было Слово… Потом появилось много слов. И очень скоро 
+ человек понял\, что слова надо прятать. Так началось зарождение криптограф
+ ии. \n\nА сегодня свой профессиональный праздник отмечает Криптографическа
+ я служба России....
+DTSTART;VALUE=DATE:20150505
+RRULE:FREQ=YEARLY
+SUMMARY:День шифровальщика в России
+URL:http://www.calend.ru/holidays/0/0/1592/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5194JHrJEA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1248/
+DESCRIPTION:На Руси почитание Георгия Победоносца приобрело особое значение
+ . Сидящий верхом на коне и поражающий змия он запечатлен в центре герба Ро
+ ссийского государства. \n\nЭто изображение основано на предании и относитс
+ я к посмертным чудесам...
+DTSTART;VALUE=DATE:20150506
+RRULE:FREQ=YEARLY
+SUMMARY:День святого Георгия Победоносца
+URL:http://www.calend.ru/holidays/0/0/1248/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5205hPuBfv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/39/
+DESCRIPTION:В России День радио отмечается 7 мая. Это праздник работников в
+ сех отраслей связи. \n\nВпервые эта дата была торжественно отмечена в наше
+ й стране в мае 1925 года. Это был тридцатилетний юбилей радио. Предыдущие 
+ круглые даты прошли\, к...
+DTSTART;VALUE=DATE:20150507
+RRULE:FREQ=YEARLY
+SUMMARY:День радио
+URL:http://www.calend.ru/holidays/0/0/39/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5218vFiFXF@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2026/
+DESCRIPTION:Вооруженные Силы Российской Федерации (ВС России) - государстве
+ нная военная организация России\, главная задача которой - вооруженная защ
+ ита целостности и неприкосновенности территорий нашей страны\, отражение а
+ грессии\, направленной против Российской...
+DTSTART;VALUE=DATE:20150507
+RRULE:FREQ=YEARLY
+SUMMARY:День создания вооруженных сил России
+URL:http://www.calend.ru/holidays/0/0/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5233GN8Cgh@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3191/
+DESCRIPTION:Федеральная служба по военно-техническому сотрудничеству (ФСВТС
+ ) России – это федеральный орган исполнительной власти РФ\, осуществляющий
+  функции по контролю и надзору в области военно-технического сотрудничеств
+ а Российской Федерации с иностранными...
+DTSTART;VALUE=DATE:20150508
+RRULE:FREQ=YEARLY
+SUMMARY:День работников Федеральной службы по военно-техническому сотруднич
+ еству России
+URL:http://www.calend.ru/holidays/0/0/3191/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5244Wz8bfv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2975/
+DESCRIPTION:Сегодня отмечают свой профессиональный праздник работники опера
+ тивных подразделений уголовно-исполнительной системы (УИС). \n\nСвою истор
+ ию эта структура в нашей стране ведет с 1925 года\, когда секретному отдел
+ у Объединенного...
+DTSTART;VALUE=DATE:20150508
+RRULE:FREQ=YEARLY
+SUMMARY:День оперативного работника уголовно-исполнительной системы
+URL:http://www.calend.ru/holidays/0/0/2975/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5258F0dHo8@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/40/
+DESCRIPTION:На протяжении десятилетий День Победы 9 мая остается в России с
+ амым трогательным\, самым душевным праздником и славной датой. Никакие дру
+ гие праздники не смогут сравниться с ним. Это особый день в жизни и истори
+ и нашего государства - День...
+DTSTART;VALUE=DATE:20150509
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День Победы советского народа в Велико
+ й Отечественной войне 1941—1945 годов (1945)
+URL:http://www.calend.ru/holidays/0/0/40/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5271rVHTUi@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2906/
+DESCRIPTION:Сегодня в России проходит экологическая  акция «Всероссийский Д
+ ень посадки леса»\, организованная  по инициативе Федерального агентства л
+ есного хозяйства. Во многих лесничествах областей и регионов Российской Фе
+ дерации\, а также в городах и населенных...
+DTSTART;VALUE=DATE:20150509
+RRULE:FREQ=YEARLY;BYDAY=2SA;BYMONTH=5
+SUMMARY:Всероссийский день посадки леса
+URL:http://www.calend.ru/holidays/0/0/2906/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5284zErP7G@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/42/
+DESCRIPTION:День Черноморского флота ВМФ России — ежегодный праздник\, отме
+ чаемый 13 мая в честь создания Черноморского флота. День был учрежден в 19
+ 96 году.\n\nВесной 1783 года\, после присоединения Крыма к России\, импера
+ трица Екатерина II подписала...
+DTSTART;VALUE=DATE:20150513
+RRULE:FREQ=YEARLY
+SUMMARY:День Черноморского флота ВМФ России
+URL:http://www.calend.ru/holidays/0/0/42/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5295IMRd1P@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3099/
+DESCRIPTION:День работников охранно-конвойной службы Министерства внутренни
+ х дел Российской Федерации\, или\, как его еще называют\, День конвоира\, 
+ отмечается в России ежегодно 13 мая\, хотя не имеет официального статуса и
+  не закреплен в календаре никакими...
+DTSTART;VALUE=DATE:20150513
+RRULE:FREQ=YEARLY
+SUMMARY:День охранно-конвойной службы МВД РФ (День конвоира)
+URL:http://www.calend.ru/holidays/0/0/3099/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5306WUoZVE@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2612/
+DESCRIPTION:Ежегодно 14 мая в России отмечается День фрилансера. В этот ден
+ ь в 2005 году была образована одна из первых российских бирж фрилансеров. 
+ Ежегодно по инициативе этой компании организовываются праздничные мероприя
+ тия\, на которые приглашаются все...
+DTSTART;VALUE=DATE:20150514
+RRULE:FREQ=YEARLY
+SUMMARY:День фрилансера в России
+URL:http://www.calend.ru/holidays/0/0/2612/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5318Oip8cu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3116/
+DESCRIPTION:С 15 мая по 15 июня в России проходит широкомасштабная акция – 
+ Единые дни защиты малых рек и водоемов. Инициатором этого экологического м
+ есячника стала Сеть российских рек – добровольное объединение\, возникшее 
+ по инициативе волжского движения...
+DTSTART;VALUE=DATE:20150515
+RRULE:FREQ=YEARLY
+SUMMARY:Единые дни действий в защиту малых рек и водоемов
+URL:http://www.calend.ru/holidays/0/0/3116/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5393Pz6BU8@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3151/
+DESCRIPTION:Столица — Ставрополь\n\nСегодня свой праздник - День Ставрополь
+ ского края - отмечают жители одного из южных регионов России. Эта традиция
+  сложилась в 1999 году\, когда местный губернатор подписал постановление «
+ О Дне Ставропольского...
+DTSTART;VALUE=DATE:20150516
+RRULE:FREQ=YEARLY;BYDAY=3SA;BYMONTH=5
+SUMMARY:День Ставропольского края
+URL:http://www.calend.ru/holidays/0/0/3151/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5464M6t050@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3152/
+DESCRIPTION:В третью субботу мая жители Калмыкии отмечают памятную дату - Д
+ ень калмыцкого чая (калм. Хальмг Цяягин няр). Этот ежегодный праздник был 
+ учрежден народным Хуралом (парламентом) Калмыкии в 2011 году в целях сохра
+ нения и возрождения национальной...
+DTSTART;VALUE=DATE:20150516
+RRULE:FREQ=YEARLY;BYDAY=3SA;BYMONTH=5
+SUMMARY:День калмыцкого чая
+URL:http://www.calend.ru/holidays/0/0/3152/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5480HvaTvm@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2869/
+DESCRIPTION:Фестиваль «Ночь музеев» в Москве – это ежегодный проект\, в кот
+ ором участвуют многие культурные учреждения российской столицы\, с целью п
+ овышения интереса широкой аудитории\, и в первую очередь молодежи\, к музе
+ ям. Он проходит ежегодно в середине мая\,...
+DTSTART;VALUE=DATE:20150516
+RDATE;VALUE=DATE:20100515,20110514,20120519,20130518,20140517,20150516
+SUMMARY:Фестиваль «Ночь музеев» в Москве
+URL:http://www.calend.ru/holidays/0/0/2869/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5495vn4hUl@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2877/
+DESCRIPTION:Фестиваль «Ночь музеев» в Санкт-Петербурге – это ежегодная акци
+ я\, посвященная Международному дню музеев\, которая уже традиционно проход
+ ит в мае и пользуется большой популярностью\, как у горожан\, так и у гост
+ ей Северной столицы. \n\nЭто...
+DTSTART;VALUE=DATE:20150516
+RDATE;VALUE=DATE:20110521,20120519,20130518,20140517,20150516
+SUMMARY:Фестиваль «Ночь музеев» в Санкт-Петербурге
+URL:http://www.calend.ru/holidays/0/0/2877/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5507U9pR9G@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/45/
+DESCRIPTION:Ежегодно 18 мая празднуется Международный день музеев. В России
+  в этот день музеи открывают свои двери для всех желающих совершенно беспл
+ атно и активно представляют свои выставочные залы и новые экспонаты.\n\nК 
+ этому культурному событию...
+DTSTART;VALUE=DATE:20150518
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день музеев
+URL:http://www.calend.ru/holidays/0/0/45/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5521DN1VRM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/46/
+DESCRIPTION:День Балтийского флота ВМФ России — ежегодный праздник\, отмеча
+ емый 18 мая в честь создания Балтийского флота. Установлен 19 декабря 1995
+  года приказом Главнокомандующего Военно-Морского флота Российской Федерац
+ ии.\n\n18 мая 1703 года...
+DTSTART;VALUE=DATE:20150518
+RRULE:FREQ=YEARLY
+SUMMARY:День Балтийского флота ВМФ России
+URL:http://www.calend.ru/holidays/0/0/46/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5533RBvZgU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3118/
+DESCRIPTION:20 мая все поволжские регионы отмечают день великой реки - День
+  Волги. \n\nВолга – одна из крупнейших рек не только в России\, но и в Евр
+ опе. Ее протяженность составляет 3\,7 тысячи километров. Площадь бассейна\
+ , занимающего восемь...
+DTSTART;VALUE=DATE:20150520
+RRULE:FREQ=YEARLY
+SUMMARY:День Волги
+URL:http://www.calend.ru/holidays/0/0/3118/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5546vsVpTB@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3210/
+DESCRIPTION:21 мая в России\, начиная с 2013 года\, отмечается новый профес
+ сиональный праздник – День полярника\, установленный Указом Президента РФ 
+ В.Путиным №502 от 21 мая 2013 года «О Дне Полярника»\, в знак признания за
+ слуг людей данной профессии. Эксперты...
+DTSTART;VALUE=DATE:20150521
+RRULE:FREQ=YEARLY
+SUMMARY:День полярника в России
+URL:http://www.calend.ru/holidays/0/0/3210/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5559mWVtNb@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/47/
+DESCRIPTION:День Тихоокеанского флота ВМФ России — ежегодный праздник\, отм
+ ечаемый 21 мая. Учрежден приказом главнокомандующего ВМФ Российской Федера
+ ции от 15 апреля 1999 года как День образования Тихоокеанского флота.\n\nД
+ ата для празднования была...
+DTSTART;VALUE=DATE:20150521
+RRULE:FREQ=YEARLY
+SUMMARY:День Тихоокеанского флота ВМФ России
+URL:http://www.calend.ru/holidays/0/0/47/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5573XdFpVM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2458/
+DESCRIPTION:Сегодня в России отмечается День военного переводчика. Эта дата
+  для профессионального праздника выбрана в связи с тем\, что 21 мая 1929 г
+ ода заместитель народного комиссара по военным и морским делам и председат
+ еля РВС СССР Иосиф Уншлихт подписал...
+DTSTART;VALUE=DATE:20150521
+RRULE:FREQ=YEARLY
+SUMMARY:День военного переводчика в России
+URL:http://www.calend.ru/holidays/0/0/2458/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5585T4kVgm@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2761/
+DESCRIPTION:Аббревиатура БТИ знакома практически каждому\, и к услугам инве
+ нтаризатора или специалиста БТИ обращался каждый из нас хотя бы раз в жизн
+ и. БТИ — бюро технической инвентаризации — занимается сбором подробных ста
+ тистических данных о технических...
+DTSTART;VALUE=DATE:20150521
+RRULE:FREQ=YEARLY
+SUMMARY:День инвентаризатора (День работника БТИ)
+URL:http://www.calend.ru/holidays/0/0/2761/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5598po1SuG@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/433/
+DESCRIPTION:24 мая в России отмечается День славянской письменности и культ
+ уры. Праздник известен как день памяти первоучителей славянских народов — 
+ святых равноапостольных братьев Кирилла и Мефодия. \n\nВ России праздник б
+ ыл возрожден в 1986 году\,...
+DTSTART;VALUE=DATE:20150524
+RRULE:FREQ=YEARLY
+SUMMARY:День славянской письменности и культуры
+URL:http://www.calend.ru/holidays/0/0/433/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5609dkulg7@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1558/
+DESCRIPTION:День кадровика отмечается в России с 2005 года по инициативе Вс
+ ероссийского кадрового конгресса. Этот профессиональный праздник еще не по
+ лучил в России статуса официального\, несмотря на то\, что армия высококва
+ лифицированных работников отделов кадров...
+DTSTART;VALUE=DATE:20150524
+RRULE:FREQ=YEARLY
+SUMMARY:День кадровика в России
+URL:http://www.calend.ru/holidays/0/0/1558/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5621GADz78@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2453/
+DESCRIPTION:Ежегодно 25 мая в России отмечается День филолога. Эта дата явл
+ яется профессиональным праздником для всех\, кто так или иначе связан с фи
+ лологией — выпускникам и преподавателям филологических факультетов\, учите
+ лям русского языка и литературы\,...
+DTSTART;VALUE=DATE:20150525
+RRULE:FREQ=YEARLY
+SUMMARY:День филолога
+URL:http://www.calend.ru/holidays/0/0/2453/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5635AOEUu2@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3119/
+DESCRIPTION:25 мая на берегах Байкала отмечают один из самых трогательных э
+ кологических праздников – День Нерпенка. Нерпенки\, они же нерпята\, бельк
+ и\, – это детеныши нерпы. \n\nПервый День Нерпенка состоялся в Иркутске 25
+  мая 2003 года. Изначально он...
+DTSTART;VALUE=DATE:20150525
+RRULE:FREQ=YEARLY
+SUMMARY:День Нерпенка
+URL:http://www.calend.ru/holidays/0/0/3119/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5647iS4a1m@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2269/
+DESCRIPTION:Ежегодно 26 мая в нашей стране отмечается День российского пред
+ принимательства.\n\n18 октября 2007 года Президентом Российской Федерации 
+ В.В. Путиным был подписан Указ № 1381 (Д) «О Дне российского...
+DTSTART;VALUE=DATE:20150526
+RRULE:FREQ=YEARLY
+SUMMARY:День российского предпринимательства
+URL:http://www.calend.ru/holidays/0/0/2269/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5663lVA8Hu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3173/
+DESCRIPTION:26 мая 2010 года на Алтае зародился новый экологический праздни
+ к – День снежного барса. Алтай принял экологическую эстафету от жителей Да
+ льнего Востока\, уже несколько лет отмечающих День тигра.\n\nЦелью этого п
+ раздника стало стремление...
+DTSTART;VALUE=DATE:20150526
+RRULE:FREQ=YEARLY
+SUMMARY:День снежного барса на Алтае
+URL:http://www.calend.ru/holidays/0/0/3173/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5677sT3Z59@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/855/
+DESCRIPTION:Всероссийский день библиотек\, отмечаемый в нашей стране ежегод
+ но 27 мая\, по праву является и профессиональным праздником российских биб
+ лиотекарей — Днем библиотекаря. Этот профессиональный праздник установлен 
+ Указом Президента РФ Б.Н. Ельцина № 539...
+DTSTART;VALUE=DATE:20150527
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день библиотек (День библиотекаря)
+URL:http://www.calend.ru/holidays/0/0/855/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5689u3zme0@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/48/
+DESCRIPTION:Сегодня российские пограничники отмечают свой профессиональный 
+ праздник. День пограничных войск или День пограничника был установлен Указ
+ ом Президента РФ № 1011 от 23 мая 1994 года «Об установлении Дня пограничн
+ ика» «в целях возрождения исторических...
+DTSTART;VALUE=DATE:20150528
+RRULE:FREQ=YEARLY
+SUMMARY:День пограничника
+URL:http://www.calend.ru/holidays/0/0/48/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5701c2WOV1@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3035/
+DESCRIPTION:В этот день свой профессиональный праздник отмечают оптимизатор
+ ы Рунета\, или SEO-администраторы. Правда\, праздник пока не имеет официал
+ ьного статуса\, а о его существовании знают\, в основном\, специалисты дан
+ ной сферы.\n\nАббревиатура SEO...
+DTSTART;VALUE=DATE:20150528
+RRULE:FREQ=YEARLY
+SUMMARY:День оптимизатора
+URL:http://www.calend.ru/holidays/0/0/3035/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-571341rrp3@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3150/
+DESCRIPTION:Все сварщики страны отмечают свой праздник в последнюю пятницу 
+ мая\, накануне лета\, когда сварочные работы идут наиболее интенсивно. Эта
+  дата официально не утверждена\, однако имеет уже довольно долгую историю 
+ — ее празднуют с начала 90-х годов 20...
+DTSTART;VALUE=DATE:20150529
+RRULE:FREQ=YEARLY;BYDAY=5FR;BYMONTH=5
+SUMMARY:День сварщика в России
+URL:http://www.calend.ru/holidays/0/0/3150/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5726rHvtzC@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1606/
+DESCRIPTION:Ежегодно 29 мая Вооруженные силы РФ отмечают День военного авто
+ мобилиста\, учрежденный приказом № 100 Министра обороны РФ в 2000 году. На
+ до сказать\, что это профессиональный праздник не только военнослужащих Ав
+ томобильных войск Российской Федерации\,...
+DTSTART;VALUE=DATE:20150529
+RRULE:FREQ=YEARLY
+SUMMARY:День военного автомобилиста Вооруженных сил России
+URL:http://www.calend.ru/holidays/0/0/1606/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5739rChTzk@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2452/
+DESCRIPTION:29 мая ветераны таможенной службы по традиции отмечают свой пра
+ здник. День ветеранов таможенной службы — это праздник тех\, кто посвятил 
+ свою жизнь борьбе с контрабандой\, защите экономических интересов страны\,
+  созданию инфраструктуры современной...
+DTSTART;VALUE=DATE:20150529
+RRULE:FREQ=YEARLY
+SUMMARY:День ветеранов таможенной службы
+URL:http://www.calend.ru/holidays/0/0/2452/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5753Iocn5o@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2066/
+DESCRIPTION:Ежегодно 31 мая в нашей стране отмечается День российской адвок
+ атуры - неофициальный профессиональный праздник работников адвокатуры.\n\n
+ 31 мая 2002 года Президент РФ В.В. Путин подписал новый Федеральный закон 
+ «Об адвокатской...
+DTSTART;VALUE=DATE:20150531
+RRULE:FREQ=YEARLY
+SUMMARY:День российской адвокатуры
+URL:http://www.calend.ru/holidays/0/0/2066/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5764L3aRHU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/140/
+DESCRIPTION:В нашей стране традиционный праздник последователей Ломоносова 
+ и Менделеева — День химика — отмечается шумно и весело. Этот праздник — да
+ нь уважения людям\, связавшим свою судьбу с одним из самых современных\, с
+ ложных и экономически значимых секторов...
+DTSTART;VALUE=DATE:20150531
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=5
+SUMMARY:День химика
+URL:http://www.calend.ru/holidays/0/0/140/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-57772OE5Cf@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/51/
+DESCRIPTION:1 июня в России\, как и во многих странах мира\, отмечается Меж
+ дународный день защиты детей. Он был учрежден в 1949 году на Московской се
+ ссии Совета Международной демократической федерации женщин в соответствии 
+ с решениями её 2-го конгресса\, проведен...
+DTSTART;VALUE=DATE:20150601
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день защиты детей
+URL:http://www.calend.ru/holidays/0/0/51/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5793gHre0s@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2454/
+DESCRIPTION:День Северного флота Военно-Морского флота России — ежегодный п
+ раздник\, отмечаемый 1 июня в честь создания Северного флота в 1933 году. 
+ Он является самым молодым из всех военных флотов нашей страны.\n\nНачиная 
+ с 15 века Белое и Баренцево...
+DTSTART;VALUE=DATE:20150601
+RRULE:FREQ=YEARLY
+SUMMARY:День Северного флота ВМФ России
+URL:http://www.calend.ru/holidays/0/0/2454/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5808lwFSaR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3156/
+DESCRIPTION:1 июня 1931 года официально считается Днем создания правительст
+ венной связи в СССР\, когда в стране была пущена в эксплуатацию собственна
+ я сеть междугородной высокочастотной связи. Над ее созданием объединенное 
+ государственное политическое управление...
+DTSTART;VALUE=DATE:20150601
+RRULE:FREQ=YEARLY
+SUMMARY:День создания правительственной связи России
+URL:http://www.calend.ru/holidays/0/0/3156/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5822cgO4nd@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2760/
+DESCRIPTION:День здорового питания и отказа от излишеств в еде был «рожден»
+  в 2011 году как своеобразный русский ответ американскому празднику - Наци
+ ональному дню\, когда можно есть то\, что хочется. В противовес этому «Дню
+  обжорства» и была выдвинута инициатива...
+DTSTART;VALUE=DATE:20150602
+RRULE:FREQ=YEARLY
+SUMMARY:День здорового питания и отказа от излишеств в еде
+URL:http://www.calend.ru/holidays/0/0/2760/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5835rI3vhR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/549/
+DESCRIPTION:5 июня отечественные экологи отмечают свой профессиональный пра
+ здник. Соответствующий Указ № 933 «О Дне эколога» 21 июля 2007 года подпис
+ ал Владимир Путин. \n\nВсемирный день окружающей среды\, или День эколога\
+ , отмечается практически во...
+DTSTART;VALUE=DATE:20150605
+RRULE:FREQ=YEARLY
+SUMMARY:День эколога
+URL:http://www.calend.ru/holidays/0/0/549/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5848HF7rp6@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3206/
+DESCRIPTION:5 июня 1931 года при Народном Комиссариате земледелия СССР была
+  создана единая Государственная карантинная служба. Эта дата и считается д
+ нем создания Государственной службы карантина растений в России.\n\nКарант
+ ин растений – это система...
+DTSTART;VALUE=DATE:20150605
+RRULE:FREQ=YEARLY
+SUMMARY:День создания Государственной службы карантина растений в России
+URL:http://www.calend.ru/holidays/0/0/3206/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5866W4z58D@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2756/
+DESCRIPTION:Международный фестиваль «Императорские сады России» – это выста
+ вка-конкурс ландшафтного и садово-паркового искусства\, который ежегодно п
+ роходит в конце мая – начале июня\, в течение нескольких дней\, на открыто
+ й территории исторических садов Русского...
+DTSTART;VALUE=DATE:20150605
+RDATE;VALUE=DATE:20090527,20100609,20110526,20120608,20130607,20140606,2015
+ 0605
+SUMMARY:Международный фестиваль «Императорские сады России»
+URL:http://www.calend.ru/holidays/0/0/2756/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5880MZC0tu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/52/
+DESCRIPTION:Я помню чудное мгновенье:\nПередо мной явилась ты\,\nКак мимоле
+ тное виденье\,\nКак гений чистой красоты.\nА.С. Пушкин\n\n\nЕжегодно 6 июн
+ я в России отмечается Пушкинский день. Литературное творчество...
+DTSTART;VALUE=DATE:20150606
+RRULE:FREQ=YEARLY
+SUMMARY:Пушкинский день России (День русского языка)
+URL:http://www.calend.ru/holidays/0/0/52/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5896Epzz0V@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3155/
+DESCRIPTION:Невозможно забыть прочитанные в юности проникновенные строки Ф.
+ И. Тютчева «Умом Россию не понять…» или «Я встретил вас – и все былое в от
+ жившем сердце ожило…»\, и именно эти строки каждый год собирают почитателе
+ й таланта поэта на Всероссийский...
+DTSTART;VALUE=DATE:20150606
+RRULE:FREQ=YEARLY;BYDAY=1SA;BYMONTH=6
+SUMMARY:День поэзии\, посвященный памяти и творчеству Федора Тютчева в Брян
+ ской области
+URL:http://www.calend.ru/holidays/0/0/3155/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5908zNK5Jb@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/141/
+DESCRIPTION:Сегодня отмечается профессиональный праздник тружеников земли —
+  людей\, благодаря труду которых осуществляется кардинальное облагораживан
+ ие и возрождение земель. Сегодня в России отмечается День мелиоратора.\n\n
+ День мелиоратора установлен...
+DTSTART;VALUE=DATE:20150607
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=6
+SUMMARY:День мелиоратора в России
+URL:http://www.calend.ru/holidays/0/0/141/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-59258JMM8h@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3158/
+DESCRIPTION:Российский кинофестиваль «Кинотавр» традиционно проводится в Со
+ чи на протяжении нескольких лет. Впервые он был организован в 1989 году по
+  инициативе продюсера Марка Рудинштейна и актера Олега Янковского. \n\nГла
+ вная задача «Кинотавра»\,...
+DTSTART;VALUE=DATE:20150607
+RDATE;VALUE=DATE:20130602,20140601,20150607
+SUMMARY:Российский фестиваль «Кинотавр»
+URL:http://www.calend.ru/holidays/0/0/3158/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5938WGobzm@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3009/
+DESCRIPTION:Столица — Петрозаводск\n\n8 июня 1920 года — день создания Каре
+ льской Трудовой Коммуны\, которая положила начало самоопределению карельск
+ ого народа. Депутаты Законодательного Собрания Республики Карелии решили у
+ чредить в этот день...
+DTSTART;VALUE=DATE:20150608
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Карелия
+URL:http://www.calend.ru/holidays/0/0/3009/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5952CB8k9s@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/53/
+DESCRIPTION:День социального работника отмечается в России ежегодно 8 июня 
+ на основании Указа президента Российской Федерации № 1796 «О дне социально
+ го работника»\, подписанного 27 октября 2000 года.\n\nТекст Указа очень ла
+ коничен:\n1....
+DTSTART;VALUE=DATE:20150608
+RRULE:FREQ=YEARLY
+SUMMARY:День социального работника в России
+URL:http://www.calend.ru/holidays/0/0/53/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5964pu0uW9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2990/
+DESCRIPTION:Жители Санкт-Петербурга (а к ним могут присоединиться и другие 
+ россияне) сегодня отмечают День петербургских кошек и котов. Его объявили 
+ в 2005 году «митьки» (так называет себя группа местных художников)\, разме
+ стив на карнизе своей мастерской...
+DTSTART;VALUE=DATE:20150608
+RRULE:FREQ=YEARLY
+SUMMARY:Всемирный день петербургских кошек и котов
+URL:http://www.calend.ru/holidays/0/0/2990/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5979Fsxuup@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/54/
+DESCRIPTION:12 июня наша страна отмечает важный государственный праздник – 
+ День России\, или же День принятия Декларации о государственном суверените
+ те России\, как именовался этот праздник до 2002 года. Это один из самых «
+ молодых» государственных праздников в...
+DTSTART;VALUE=DATE:20150612
+RRULE:FREQ=YEARLY
+SUMMARY:День России
+URL:http://www.calend.ru/holidays/0/0/54/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-5992EXcNUJ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1802/
+DESCRIPTION:Сегодня в России отмечается главный отраслевой праздник отечест
+ венных производителей пива —  День пивовара. Этот профессиональный праздни
+ к учрежден решением Совета Союза российских пивоваров от 23 января 2003 го
+ да и отмечается каждую вторую субботу...
+DTSTART;VALUE=DATE:20150613
+RRULE:FREQ=YEARLY;BYDAY=2SA;BYMONTH=6
+SUMMARY:День пивовара в России
+URL:http://www.calend.ru/holidays/0/0/1802/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6003FsWlwu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2621/
+DESCRIPTION:Мы\, люди\, быстро привыкаем к комфортным условиям работы\, отд
+ ыха\, жизни. И одной из составляющих этого комфорта является удобная и над
+ ежная мебель. Крупные\, средние и мелкие мебельные компании во всем мире н
+ еустанно работают над усовершенствованием...
+DTSTART;VALUE=DATE:20150613
+RRULE:FREQ=YEARLY;BYDAY=2SA;BYMONTH=6
+SUMMARY:День мебельщика в России
+URL:http://www.calend.ru/holidays/0/0/2621/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6014ACKh3S@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2083/
+DESCRIPTION:Ежегодно 14 июня в России празднуется День работника миграционн
+ ой службы - профессиональный праздник работников Федеральной миграционной 
+ службы МВД РФ. \n\nУказ «Об установлении Дня работника миграционной службы
+ » 4 июня 2007 года...
+DTSTART;VALUE=DATE:20150614
+RRULE:FREQ=YEARLY
+SUMMARY:День работников миграционной службы России
+URL:http://www.calend.ru/holidays/0/0/2083/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-60257nxfVj@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/142/
+DESCRIPTION:В соответствии с Указом Президента Российской Федерации №1111 о
+ т 17 июня 2000 года «О Дне работников текстильной и легкой промышленности»
+  во второе воскресенье июня в нашей стране отмечается День работников текс
+ тильной и легкой...
+DTSTART;VALUE=DATE:20150614
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=6
+SUMMARY:День работников текстильной и легкой промышленности
+URL:http://www.calend.ru/holidays/0/0/142/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6039S2MVvt@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3121/
+DESCRIPTION:Все\, кто хотя бы немного застал «пионерское детство»\, наверня
+ ка помнят такое активное направление пионерской деятельности\, как участие
+  в кружках юных натуралистов (юннатов)\, открытых практически при всех сов
+ етских школах. Оказывается\, это детское...
+DTSTART;VALUE=DATE:20150615
+RRULE:FREQ=YEARLY
+SUMMARY:День создания юннатского движения в России
+URL:http://www.calend.ru/holidays/0/0/3121/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6054sUBlAu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2928/
+DESCRIPTION:Московский Международный Кинофестиваль (ММКФ) – один из старейш
+ их мировых кинофорумов (второй после Венецианского кинофестиваля) и один и
+ з самых представительных киносмотров в мире наряду с кинофестивалями в Бер
+ лине\, Каннах\, Венеции\, Сан-Себастьяне...
+DTSTART;VALUE=DATE:20150619
+RDATE;VALUE=DATE:20120621,20130620,20140619,20150619
+SUMMARY:Московский Международный Кинофестиваль
+URL:http://www.calend.ru/holidays/0/0/2928/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6066D9Jsew@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2996/
+DESCRIPTION:Военно-морской флот России сегодня чествует специалистов минно-
+ торпедной службы. Профессиональный праздник этого подразделения был учрежд
+ ен в 1996 году приказом Главнокомандующего ВМФ России — в память о первом 
+ успешном применении минного оружия...
+DTSTART;VALUE=DATE:20150620
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста минно-торпедной службы ВМФ России
+URL:http://www.calend.ru/holidays/0/0/2996/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6081WVCS4o@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2215/
+DESCRIPTION:Сегодня отмечается День кинологических подразделений МВД России
+ \, который многие собаководы считают своим «отраслевым праздником» и для к
+ раткости называют просто Днем кинолога.\n\nВ России практиковать службу со
+ бак в полиции начали с 1906...
+DTSTART;VALUE=DATE:20150621
+RRULE:FREQ=YEARLY
+SUMMARY:День кинологических подразделений МВД России (День кинолога)
+URL:http://www.calend.ru/holidays/0/0/2215/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6092li36OC@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/143/
+DESCRIPTION:В третье воскресенье июня российское здравоохранение по многоле
+ тней традиции отмечает День медицинского работника.\n\nОснованием для праз
+ днования служит Указ Президиума Верховного Совета СССР от 1 октября 1980 г
+ ода №3018–Х «О праздничных...
+DTSTART;VALUE=DATE:20150621
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=6
+SUMMARY:День медицинского работника
+URL:http://www.calend.ru/holidays/0/0/143/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6103Nu2rWU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/55/
+DESCRIPTION:Двадцать второе июня 1941 года — одна из самых печальных дат в 
+ нашей истории\, начало Великой Отечественной войны. Этот день напоминает о
+  всех погибших\, замученных в фашистской неволе\, умерших в тылу от голода
+  и лишений. \n\nМы помним...
+DTSTART;VALUE=DATE:20150622
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти и скорби — день начала Великой Отечественной войны (194
+ 1 год)
+URL:http://www.calend.ru/holidays/0/0/55/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6114uRZ8db@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3018/
+DESCRIPTION:Появление Дня балалайки можно считать заслугой исключительно са
+ мих музыкантов-народников. Праздник еще не признан официально\, но музыкал
+ ьному сообществу это не мешает ежегодно отмечать его выступлениями и конце
+ ртами.\n\nИдея праздника...
+DTSTART;VALUE=DATE:20150623
+RRULE:FREQ=YEARLY
+SUMMARY:День балалайки — международный праздник музыкантов-народников
+URL:http://www.calend.ru/holidays/0/0/3018/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6129onVpON@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3010/
+DESCRIPTION:Столица — Чебоксары\n\n24 июня Чувашия празднует свой главный н
+ ациональный праздник — День Республики. Он был учрежден в 1995 году в связ
+ и с 75-летием со дня образования Чувашской автономной области. 4 мая 2000 
+ года глава Республики...
+DTSTART;VALUE=DATE:20150624
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Чувашия
+URL:http://www.calend.ru/holidays/0/0/3010/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6141rhwLuE@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/207/
+DESCRIPTION:День молодежи России официально отмечается 27 июня в соответств
+ ии с распоряжением первого Президента РФ Б.Н. Ельцина № 459-РП от 24 июня 
+ 1993 года «О праздновании Дня молодежи». А с инициативой празднования выст
+ упили Комитет РФ по делам молодежи и...
+DTSTART;VALUE=DATE:20150627
+RRULE:FREQ=YEARLY
+SUMMARY:День молодежи России
+URL:http://www.calend.ru/holidays/0/0/207/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6154unHSpL@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/144/
+DESCRIPTION:Ежегодно в последнюю субботу июня в нашей стране отмечается Ден
+ ь изобретателя и рационализатора.\n\nЭтот праздник был введен в конце 50-х
+  годов прошлого века по предложению Академии наук СССР и отмечался ежегодн
+ о\, в последнюю субботу...
+DTSTART;VALUE=DATE:20150627
+RRULE:FREQ=YEARLY;BYDAY=5SA;BYMONTH=6
+SUMMARY:День изобретателя и рационализатора в России
+URL:http://www.calend.ru/holidays/0/0/144/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6168teu20S@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2781/
+DESCRIPTION:Отмечаемый ежегодно 29 июня День партизан и подпольщиков — дово
+ льно новая дата в календаре российских памятных дат. 11 апреля 2009 года п
+ резидент РФ подписал закон «О внесении изменения в статью 11 Федерального 
+ закона «О днях воинской славы и...
+DTSTART;VALUE=DATE:20150629
+RRULE:FREQ=YEARLY
+SUMMARY:День партизан и подпольщиков
+URL:http://www.calend.ru/holidays/0/0/2781/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6182liOZlM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3102/
+DESCRIPTION:Столица — Улан-Удэ\n\n1 июля 2011 года с размахом отмечалось 35
+ 0-летие добровольного вхождения Бурятии в состав России. Эта праздничная д
+ ата утверждена законом Республики Бурятия от 11 марта 2011 года «О Дне пра
+ зднования 350-летия...
+DTSTART;VALUE=DATE:20150701
+RRULE:FREQ=YEARLY
+SUMMARY:День празднования добровольного вхождения Бурятии в состав Российск
+ ого государства
+URL:http://www.calend.ru/holidays/0/0/3102/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6198CKI5oZ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2867/
+DESCRIPTION:Грушинский фестиваль – всероссийский фестиваль авторской песни 
+ имени Валерия Грушина. Он проходит ежегодно в первую неделю июля на Федоро
+ вских лугах под Самарой\, на живописном берегу реки Волги. Здесь собираютс
+ я тысячи любителей бардовской песни не...
+DTSTART;VALUE=DATE:20150702
+RDATE;VALUE=DATE:20120705,20130704,20140703,20150702
+SUMMARY:Грушинский фестиваль
+URL:http://www.calend.ru/holidays/0/0/2867/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6214bnKJHL@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/59/
+DESCRIPTION:Ежегодно 3 июля в нашей стране отмечается профессиональный праз
+ дник сотрудников автоинспекции - День ГАИ (День ГИБДД МВД РФ)\, установлен
+ ный приказом Министра внутренних дел РФ № 502 «Об объявлении Дня Государст
+ венной инспекции безопасности дорожного...
+DTSTART;VALUE=DATE:20150703
+RRULE:FREQ=YEARLY
+SUMMARY:День ГАИ России (День ГИБДД МВД РФ)
+URL:http://www.calend.ru/holidays/0/0/59/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-62288FLiI0@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3109/
+DESCRIPTION:Столица — Горно-Алтайск\n\nСегодня отмечается День образования 
+ Республики Алтай. 3 июля 1991 года был принят закон РСФСР о преобразовании
+  Горно-Алтайской автономной области в республику\, входящую в состав Росси
+ йской Федерации....
+DTSTART;VALUE=DATE:20150703
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Республики Алтай
+URL:http://www.calend.ru/holidays/0/0/3109/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6243KugVrU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3142/
+DESCRIPTION:Столица — Абакан\n\n3 июля отмечается День Республики Хакасия (
+ «Хакас Чирi»). Эта дата учреждена законом республики от 20 октября 1992 го
+ да «О Дне Республики Хакасия».\n\nХакасия расположена в Южной Сибири на ле
+ вом берегу...
+DTSTART;VALUE=DATE:20150703
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Хакасия
+URL:http://www.calend.ru/holidays/0/0/3142/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6256kUA31w@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/145/
+DESCRIPTION:Согласно Указу Президиума Верховного Совета СССР № 3018-Х от 1 
+ октября 1980 года «О праздничных и памятных днях» профессиональный праздни
+ к - День работников морского и речного флота России - отмечается в первое 
+ воскресенье июля.\n\nДатой...
+DTSTART;VALUE=DATE:20150705
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=7
+SUMMARY:День работников морского и речного флота России
+URL:http://www.calend.ru/holidays/0/0/145/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6275iJVWuw@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3084/
+DESCRIPTION:Дата\, ставшая поистине исторической для российского флота\, по
+ явилась в официальном календаре совсем недавно. 10 июля 2012 года в Федера
+ льный закон «О днях воинской славы и памятных датах России» были внесены с
+ оответствующие изменения. Сегодня...
+DTSTART;VALUE=DATE:20150707
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы русского флота над турецки
+ м флотом в Чесменском сражении (1770 год)
+URL:http://www.calend.ru/holidays/0/0/3084/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6288aUVXNx@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2475/
+DESCRIPTION:Ежегодно 8 июля в нашей стране отмечается Всероссийский день се
+ мьи\, любви и верности. Символично\, что впервые он отмечался в 2008 году\
+ , который был объявлен годом семьи.\n\nЭтот праздник в России учрежден по 
+ инициативе депутатов...
+DTSTART;VALUE=DATE:20150708
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день семьи\, любви и верности
+URL:http://www.calend.ru/holidays/0/0/2475/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6303tuueLW@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2223/
+DESCRIPTION:День воинской славы России — День победы русской армии под кома
+ ндованием Петра Первого над шведами в Полтавском сражении (1709 год) отмеч
+ ается 10 июля в соответствии с Федеральным законом РФ от 13 марта 1995 год
+ а № 32-ФЗ «О днях воинской славы...
+DTSTART;VALUE=DATE:20150710
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — Полтавская битва (1709)
+URL:http://www.calend.ru/holidays/0/0/2223/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6314vCDzbD@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2634/
+DESCRIPTION:Праздники приходят в наш дом с музыкой\, песнями\, фейерверками
+ \, различными праздничными аксессуарами... А еще праздники приходят в наш 
+ дом со светом — ярким и красочным освещением.\n\nПрофессионалы\, благодаря
+  которым наши праздники...
+DTSTART;VALUE=DATE:20150711
+RRULE:FREQ=YEARLY
+SUMMARY:День художника по свету (День светооператора)
+URL:http://www.calend.ru/holidays/0/0/2634/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-63269KEuW9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1688/
+DESCRIPTION:Ежегодно во второе воскресенье июля в России отмечается професс
+ иональный праздник — День рыбака. День был официально установлен Указом Пр
+ езидиума Верховного Совета СССР от 1 октября 1980 года (с изменениями на 3
+ 1 мая 2006 года) «О праздничных и...
+DTSTART;VALUE=DATE:20150712
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=7
+SUMMARY:День рыбака в России
+URL:http://www.calend.ru/holidays/0/0/1688/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6339CZuPZK@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3122/
+DESCRIPTION:Второе воскресенье июля в России - это также День действий прот
+ ив рыбной ловли. Решение о проведении данного дня приняли в 2003 году учас
+ тники второго Всероссийского съезда защитников прав животных\, проходившег
+ о с 1 по 15 июля в Анапе. Новую...
+DTSTART;VALUE=DATE:20150712
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=7
+SUMMARY:День действий против рыбной ловли в России
+URL:http://www.calend.ru/holidays/0/0/3122/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6353UrLaNU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/146/
+DESCRIPTION:Ежегодно во второе воскресенье июля в нашей стране отмечается п
+ рофессиональный праздник работников почтовой связи - День российской почты
+ .\n\nУпоминания о почте встречаются в письменных памятниках тысячелетней д
+ авности\, однако\,...
+DTSTART;VALUE=DATE:20150712
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=7
+SUMMARY:День российской почты
+URL:http://www.calend.ru/holidays/0/0/146/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6366iVZZRc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2451/
+DESCRIPTION:Сегодняшняя дата\, 17 июля\, считается Днем основания морской а
+ виации Военно-Морского Флота Российской Федерации.\n\n17 июля 1916 года на
+ д Балтийским морем русские летчики одержали победу в воздушном бою в ходе 
+ Первой мировой войны. Четыре...
+DTSTART;VALUE=DATE:20150717
+RRULE:FREQ=YEARLY
+SUMMARY:День основания морской авиации ВМФ России
+URL:http://www.calend.ru/holidays/0/0/2451/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-63828SdXL5@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2795/
+DESCRIPTION:«Гринландия» – это всероссийский фестиваль авторской песни\, ко
+ торый проводится ежегодно на берегу реки Быстрицы близ села Башарово в Кир
+ овской области. Наряду с дымковской игрушкой и Великорецким Крестным ходом
+ \, он входит в тройку «визитных...
+DTSTART;VALUE=DATE:20150717
+RDATE;VALUE=DATE:20090717,20100716,20110715,20120720,20130719,20140718,2015
+ 0717
+SUMMARY:Фестиваль авторской песни «Гринландия»
+URL:http://www.calend.ru/holidays/0/0/2795/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6396bTJgVR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2601/
+DESCRIPTION:Ежегодно 18 июля в нашей стране отмечается профессиональный пра
+ здник - День создания органов государственного пожарного надзора\, который
+  впервые отмечался в России всеми сотрудниками органов ГПН в 2007 году.\n
+ \nТочкой отсчета в истории...
+DTSTART;VALUE=DATE:20150718
+RRULE:FREQ=YEARLY
+SUMMARY:День создания органов государственного пожарного надзора в России
+URL:http://www.calend.ru/holidays/0/0/2601/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6408dGNg9d@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2993/
+DESCRIPTION:Сегодня\, 19 июля\, свой профессиональный праздник отмечают юри
+ сты Министерства внутренних дел Российской Федерации. Он появился в календ
+ аре в 2003 году\, когда Борис Грызлов\, занимавший тогда должность министр
+ а внутренних дел\, подписал соответствующий...
+DTSTART;VALUE=DATE:20150719
+RRULE:FREQ=YEARLY
+SUMMARY:День юридической службы Министерства внутренних дел РФ
+URL:http://www.calend.ru/holidays/0/0/2993/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6420CgiuFi@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/148/
+DESCRIPTION:День металлурга отмечается в России в третье воскресенье июля н
+ а основании Указа Президиума Верховного Совета СССР № 3018-Х от 1 октября 
+ 1980 года «О праздничных и памятных днях».\n\nДень металлурга — это праздн
+ ик тех\, чей труд является...
+DTSTART;VALUE=DATE:20150719
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=7
+SUMMARY:День металлурга
+URL:http://www.calend.ru/holidays/0/0/148/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6432spvwmS@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3211/
+DESCRIPTION:25 июля в нашей стране свой профессиональный праздник отмечают 
+ сотрудники речной полиции. Хотя до 2011 года он носил название «День речно
+ й милиции»\, но после вступления в силу нового федерального закона «О поли
+ ции» в 2011 году\, название праздника...
+DTSTART;VALUE=DATE:20150725
+RRULE:FREQ=YEARLY
+SUMMARY:День речной полиции в России
+URL:http://www.calend.ru/holidays/0/0/3211/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6446aSFhSb@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2804/
+DESCRIPTION:В четвертую субботу июля в России отмечается День работника тор
+ говли. Эта праздничная дата установлена Указом Президента РФ от 7 мая 2013
+  года N 459 «О Дне работника торговли».\n\nСо времен Древней Руси торговля
+  играет важную роль в...
+DTSTART;VALUE=DATE:20150725
+RRULE:FREQ=YEARLY;BYDAY=4SA;BYMONTH=7
+SUMMARY:День работников торговли в России
+URL:http://www.calend.ru/holidays/0/0/2804/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6462s7vVuX@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/150/
+DESCRIPTION:День Военно-морского флота Российской Федерации отмечается в на
+ шей стране в последнее воскресенье июля на основании Указа Президента Росс
+ ии В.Путина от 31 мая 2006 года № 549 «Об установлении профессиональных пр
+ аздников и памятных дней в Вооружённых...
+DTSTART;VALUE=DATE:20150726
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=7
+SUMMARY:День Военно-морского флота России
+URL:http://www.calend.ru/holidays/0/0/150/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6476CgV4iW@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2636/
+DESCRIPTION:Ежегодно 26 июля в нашей стране отмечается\, пока неофициально\
+ , праздник советских и российских профессионалов и любителей парашютного с
+ порта - День парашютиста.\n\n26 июля 1930 года группа советских летчиков-п
+ арашютистов во главе с...
+DTSTART;VALUE=DATE:20150726
+RRULE:FREQ=YEARLY
+SUMMARY:День парашютиста
+URL:http://www.calend.ru/holidays/0/0/2636/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6489b0Olpt@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2910/
+DESCRIPTION:Праздник в честь одной из главных вех в истории Руси — провозгл
+ ашения христианства в качестве государственной религии в 988 году — был уч
+ режден не так давно. 1 июня 2010 года президент Дмитрий Медведев утвердил 
+ поправки в Федеральный закон «О днях...
+DTSTART;VALUE=DATE:20150728
+RRULE:FREQ=YEARLY
+SUMMARY:День Крещения Руси
+URL:http://www.calend.ru/holidays/0/0/2910/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6502zbDczO@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/750/
+DESCRIPTION:Ежегодно 28 июля все российские PR-специалисты разных отраслей 
+ отмечают свой профессиональный праздник.\n\n28 июля 2003 года Министром тр
+ уда и социального развития РФ было подписано постановление о внесении квал
+ ификационных характеристик...
+DTSTART;VALUE=DATE:20150728
+RRULE:FREQ=YEARLY
+SUMMARY:День PR-специалиста в России
+URL:http://www.calend.ru/holidays/0/0/750/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6514PtI0UO@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/136/
+DESCRIPTION:Сегодня в России отмечается профессиональный праздник сетевых о
+ ператоров — День системного администратора. Дата праздника\, коротко его н
+ азывают «сисадминов день»\, относительно нова. Он отмечается с 1999 года в
+  последнюю пятницу июля. Кстати\, в том...
+DTSTART;VALUE=DATE:20150731
+RRULE:FREQ=YEARLY;BYDAY=5FR;BYMONTH=7
+SUMMARY:День системного администратора
+URL:http://www.calend.ru/holidays/0/0/136/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6528BWKj9Z@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/63/
+DESCRIPTION:Ежегодно 1 августа отмечается День тыла вооруженных сил России.
+  Этот праздник утвержден Приказом Министерства обороны РФ № 225 от 7 мая 1
+ 998 года.\n\nЗа точку отсчета истории тыла вооруженных сил принят 1700 год
+ . Тогда 18 февраля Петр I...
+DTSTART;VALUE=DATE:20150801
+RRULE:FREQ=YEARLY
+SUMMARY:День тыла вооруженных сил РФ
+URL:http://www.calend.ru/holidays/0/0/63/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-65413UWdxB@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3167/
+DESCRIPTION:1 августа в России отмечается профессиональный праздник – День 
+ образования Службы специальной связи. Свою историю эта служба ведет с 1939
+  года\, она много раз переименовывалась\, а сегодняшнее ее название – Феде
+ ральное государственное унитарное...
+DTSTART;VALUE=DATE:20150801
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Службы специальной связи России
+URL:http://www.calend.ru/holidays/0/0/3167/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6554vKhRtV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/62/
+DESCRIPTION:1 августа в нашей стране отмечается профессиональный праздник с
+ отрудников инкассации - Всероссийский день инкассатора. В этот день в 1939
+  году была создана служба инкассации при Госбанке СССР. \n\nНеобходимость 
+ транспортировки и охраны...
+DTSTART;VALUE=DATE:20150801
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день инкассатора
+URL:http://www.calend.ru/holidays/0/0/62/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6566ooNxUh@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/64/
+DESCRIPTION:Более миллиона россиян\, носивших в свое время голубые береты\,
+  а также проходящих службу в Воздушно-десантных войсках в настоящее время\
+ , отметят сегодня День Воздушно-десантных войск.  \n\nДнем основания росси
+ йских ВДВ считается 2 августа...
+DTSTART;VALUE=DATE:20150802
+RRULE:FREQ=YEARLY
+SUMMARY:День воздушно-десантных войск (День ВДВ)
+URL:http://www.calend.ru/holidays/0/0/64/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6578bFFKs6@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/151/
+DESCRIPTION:История возникновения Для железнодорожника в нашей стране связа
+ на с именем императора Николая I\, которого по праву называют «основателем
+  железнодорожного дела в России». Ведь именно во времена его правления нач
+ алось строительство железных дорог в...
+DTSTART;VALUE=DATE:20150802
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=8
+SUMMARY:День железнодорожника в России
+URL:http://www.calend.ru/holidays/0/0/151/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6592TcnKMf@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/65/
+DESCRIPTION:День железнодорожных войск\, отмечаемый в России ежегодно 6 авг
+ уста\, установлен Указом Президента Российской Федерации от 19 июля 1996 г
+ ода «Об установлении Дня железнодорожных войск Российской Федерации»\, а в
+  настоящее время празднуется в...
+DTSTART;VALUE=DATE:20150806
+RRULE:FREQ=YEARLY
+SUMMARY:День железнодорожных войск России
+URL:http://www.calend.ru/holidays/0/0/65/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6602uncbwN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2925/
+DESCRIPTION:Сегодня получают поздравления сотрудники Службы специальной свя
+ зи и информации при Федеральной службе охраны Российской Федерации.\n\nСам
+ а Федеральная служба охраны (ФСО) стала правопреемником девятого управлени
+ я КГБ\, занимавшегося в...
+DTSTART;VALUE=DATE:20150807
+RRULE:FREQ=YEARLY
+SUMMARY:День специальной связи и информации Федеральной службы охраны Росси
+ и
+URL:http://www.calend.ru/holidays/0/0/2925/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-661640fr19@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/528/
+DESCRIPTION:Вдох глубокий\, руки шире\,\nНе спешите — три-четыре! \nБодрост
+ ь духа\, грация и пластика —\nОбщеукрепляющая\,\nУтром отрезвляющая\n(Если
+  жив пока еще)\nГимнастика!\nВ.Высоцкий «Утренняя...
+DTSTART;VALUE=DATE:20150808
+RRULE:FREQ=YEARLY;BYDAY=2SA;BYMONTH=8
+SUMMARY:День физкультурника в России
+URL:http://www.calend.ru/holidays/0/0/528/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6631MHS95R@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/531/
+DESCRIPTION:В соответствии с Федеральным законом № 32-ФЗ от 13 марта 1995 г
+ ода «О днях воинской славы и памятных датах России»\, 9 августа отмечается
+  в нашей стране День воинской славы России — День победы в Гангутском сраж
+ ении — первой в российской истории...
+DTSTART;VALUE=DATE:20150809
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — победа у мыса Гангут (1714)
+URL:http://www.calend.ru/holidays/0/0/531/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6642BCjJwr@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/153/
+DESCRIPTION:Вот уже более полувека в России во второе воскресенье августа о
+ тмечается День строителя. Этот профессиональный праздник был установлен на
+  основании вышедшего 6 сентября 1955 года Указа Президиума Верховного Сове
+ та СССР «Об установлении ежегодного...
+DTSTART;VALUE=DATE:20150809
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=8
+SUMMARY:День строителя
+URL:http://www.calend.ru/holidays/0/0/153/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6657JNKuuA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/66/
+DESCRIPTION:День Военно-воздушных сил отмечается в России 12 августа в соот
+ ветствии с Указом Президента Российской Федерации № 549 от 31 мая 2006 год
+ а «Об установлении профессиональных праздников и памятных дней в Вооруженн
+ ых Силах Российской Федерации». Этот...
+DTSTART;VALUE=DATE:20150812
+RRULE:FREQ=YEARLY
+SUMMARY:День Военно-воздушных сил (День ВВС) России
+URL:http://www.calend.ru/holidays/0/0/66/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6672NhO7JU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3103/
+DESCRIPTION:Столица Республики — Кызыл\n\n15 августа празднуется День рожде
+ ния Республики Тыва. Праздник утвержден законом республики от 12 февраля 1
+ 999 года «О праздничных днях Республики Тыва». \n\nВ Республике этот день 
+ является...
+DTSTART;VALUE=DATE:20150815
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Тыва (День Тувы)
+URL:http://www.calend.ru/holidays/0/0/3103/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6683Dvwhrg@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/154/
+DESCRIPTION:День Воздушного флота России - профессиональный праздник всех п
+ илотов воздушного флота\, авиаторов и работников авиационной инфраструктур
+ ы России - отмечается ежегодно в третье воскресенье августа на основании П
+ остановления Президиума Верховного...
+DTSTART;VALUE=DATE:20150816
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=8
+SUMMARY:День Воздушного Флота России
+URL:http://www.calend.ru/holidays/0/0/154/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6702J2otUJ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3184/
+DESCRIPTION:В России существует много интересных праздников\, есть и такой 
+ – День рождения русской тельняшки\, который отмечается 19 августа. Хотя он
+  пока не является официальным\, но весьма популярен в нашей стране. Особен
+ но широко его празднуют в...
+DTSTART;VALUE=DATE:20150819
+RRULE:FREQ=YEARLY
+SUMMARY:День рождения русской тельняшки
+URL:http://www.calend.ru/holidays/0/0/3184/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6716O0oVai@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/529/
+DESCRIPTION:Ежегодно 22 августа в России отмечается День Государственного ф
+ лага Российской Федерации\, установленный на основании Указа Президента Ро
+ ссийской Федерации № 1714 от 20 августа 1994 года «О Дне Государственного 
+ флага Российской Федерации»....
+DTSTART;VALUE=DATE:20150822
+RRULE:FREQ=YEARLY
+SUMMARY:День Государственного флага Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/529/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6791rNZFlG@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3001/
+DESCRIPTION:Столица — Сыктывкар\n\nЕжегодно 22 августа отмечает образование
+  своей национальной Республики народность коми (точнее\, коми-зыряне\, кот
+ орые отличаются от коми-пермяков\, проживающих в Коми-Пермяцком автономном
+  округе). В этот день во...
+DTSTART;VALUE=DATE:20150822
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Коми
+URL:http://www.calend.ru/holidays/0/0/3001/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-68053RUkj7@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/530/
+DESCRIPTION:23 августа в соответствии с Федеральным законом № 32-ФЗ от 13 м
+ арта 1995 года «О днях воинской славы (победных днях) России» отмечается Д
+ ень воинской славы России — День разгрома советскими войсками немецко-фаши
+ стских войск в Курской битве в 1943...
+DTSTART;VALUE=DATE:20150823
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы советских войск в Курской 
+ битве (1943)
+URL:http://www.calend.ru/holidays/0/0/530/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6819ekjWCT@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/69/
+DESCRIPTION:Профессий много\, но\nПрекрасней всех — кино.\nКто в этот мир п
+ опал — \nНавеки счастлив стал.\n\nФильм\, фильм\, фильм...\n\nМузыка А.Зац
+ епина\, слова Ф.Хитрука\n\n\n27 августа в России...
+DTSTART;VALUE=DATE:20150827
+RRULE:FREQ=YEARLY
+SUMMARY:День российского кино
+URL:http://www.calend.ru/holidays/0/0/69/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6832b4iVFd@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3004/
+DESCRIPTION:Столица — Казань\n\n30 августа жители республики Татарстан праз
+ днуют рождение своей государственности. В этот день в 1990 году Верховный 
+ Совет республики принял декларацию о государственном суверенитете Татарско
+ й...
+DTSTART;VALUE=DATE:20150830
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Республики Татарстан
+URL:http://www.calend.ru/holidays/0/0/3004/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6843l30sic@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/155/
+DESCRIPTION:День шахтера отмечается в последнее воскресенье августа в соотв
+ етствии с Указом Президиума Верховного Совета СССР № 3018-Х от 1 октября 1
+ 980 года «О праздничных и памятных днях»\, в редакции Указа Верховного Сов
+ ета СССР № 9724-XI от 1 ноября 1988...
+DTSTART;VALUE=DATE:20150830
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=8
+SUMMARY:День шахтера в России
+URL:http://www.calend.ru/holidays/0/0/155/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6854alI40s@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/70/
+DESCRIPTION:Юлий Цезарь сказал: «Знание — это сила». А День знаний — это вс
+ егда волнующий праздник для всех. Наверное\, не найдется в России человека
+ \, который бы не вспоминал день первого звонка\, свою первую учительницу\,
+  школьных товарищей\, с которыми начинал...
+DTSTART;VALUE=DATE:20150901
+RRULE:FREQ=YEARLY
+SUMMARY:День знаний
+URL:http://www.calend.ru/holidays/0/0/70/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-686673nbXa@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3165/
+DESCRIPTION:Столица — Нальчик\n\n1 сентября Кабардино-Балкария отмечает Ден
+ ь государственности\, или День республики. Этот праздник учрежден в 1997 г
+ оду по случаю принятия новой конституции Кабардино-Балкарской Республики. 
+ Его дата выбрана...
+DTSTART;VALUE=DATE:20150901
+RRULE:FREQ=YEARLY
+SUMMARY:День государственности Кабардино-Балкарской Республики
+URL:http://www.calend.ru/holidays/0/0/3165/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6882NLoEsN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2885/
+DESCRIPTION:2 сентября в России отмечается как «День окончания Второй миров
+ ой войны (1945 год)». Эта памятная дата установлена Федеральным законом «О
+  внесении изменений в статью 1(1) Федерального закона «О днях воинской сла
+ вы и памятных датах России»»\,...
+DTSTART;VALUE=DATE:20150902
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы — День окончания Второй мировой войны (1945 год
+ )
+URL:http://www.calend.ru/holidays/0/0/2885/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6893hUBuuv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2852/
+DESCRIPTION:Свой праздник сотрудники патрульно-постовой службы отмечают 2 с
+ ентября. В этот день в 1923 году Центральное административное управление Н
+ КВД опубликовало «Инструкцию постовому милиционеру». Этот документ регламе
+ нтировал общие положения о постовой...
+DTSTART;VALUE=DATE:20150902
+RRULE:FREQ=YEARLY
+SUMMARY:День патрульно-постовой службы полиции
+URL:http://www.calend.ru/holidays/0/0/2852/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6904j3ceLv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/71/
+DESCRIPTION:2 сентября отмечается День российской гвардии. Этот праздник ус
+ тановлен 22 декабря 2000 года указом Президента России Владимира Путина в 
+ связи с 300-летним юбилеем российской гвардии (Указ Президента РФ № 2032 о
+ т 22 декабря 2000 года «Об...
+DTSTART;VALUE=DATE:20150902
+RRULE:FREQ=YEARLY
+SUMMARY:День российской гвардии
+URL:http://www.calend.ru/holidays/0/0/71/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6915upKn95@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/753/
+DESCRIPTION:Сегодня в России отмечается День солидарности в борьбе с террор
+ измом. Эта самая новая памятная дата России\, установленная федеральным за
+ коном «О днях воинской славы России» от 6 июля 2005 года. Она связана с тр
+ агическими событиями в Беслане...
+DTSTART;VALUE=DATE:20150903
+RRULE:FREQ=YEARLY
+SUMMARY:День солидарности в борьбе с терроризмом
+URL:http://www.calend.ru/holidays/0/0/753/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6928MevLUv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1485/
+DESCRIPTION:День специалиста по ядерному обеспечению установлен Указом През
+ идента Российской Федерации № 549 от 31 мая 2006 года «Об установлении про
+ фессиональных праздников и памятных дней в Вооруженных Силах Российской Фе
+ дерации».\n\nК работам по...
+DTSTART;VALUE=DATE:20150904
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста по ядерному обеспечению
+URL:http://www.calend.ru/holidays/0/0/1485/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6946VvAJSI@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3168/
+DESCRIPTION:Международный военно-музыкальный фестиваль «Спасская башня» – э
+ то парад военных оркестров разных стран мира\, который не имеет аналогов с
+ реди других известных Military Tattoo мирового уровня. Это захватывающее д
+ ух музыкально-театрализованное...
+DTSTART;VALUE=DATE:20150905
+RDATE;VALUE=DATE:20130901,20140830,20150905
+SUMMARY:Международный военно-музыкальный фестиваль «Спасская башня»
+URL:http://www.calend.ru/holidays/0/0/3168/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6958V2grMV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/156/
+DESCRIPTION:Ежегодно в этот день Россия чествует тех\, чья жизнь неразрывно
+  связана с добычей нефти и газа из недр нашей богатейшей земли.\n\nВ Росси
+ и значение топливно-энергетического комплекса (ТЭК) особенно велико. Во-пе
+ рвых\, из-за огромного...
+DTSTART;VALUE=DATE:20150906
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=9
+SUMMARY:День работников нефтяной\, газовой и топливной промышленности
+URL:http://www.calend.ru/holidays/0/0/156/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6972e12mxR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2224/
+DESCRIPTION:— Скажи-ка\, дядя\, ведь не даром\nМосква\, спаленная пожаром\,
+ \nФранцузу отдана?\nВедь были ж схватки боевые\,\nДа\, говорят\, еще какие
+ !\nНедаром помнит вся Россия\nПро день Бородина!\n\nМ.Лермонтов...
+DTSTART;VALUE=DATE:20150908
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День Бородинского сражения (1812 год)
+URL:http://www.calend.ru/holidays/0/0/2224/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-6982KG83XF@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2211/
+DESCRIPTION:Сегодня свой профессиональный праздник в России отмечают работн
+ ики финансовых органов. Он учрежден Указом Президента РФ от 19 августа 201
+ 1 года N 1101 «О Дне финансиста».\n\nДата для празднования была выбрана не
+  случайно. 8 сентября 1802...
+DTSTART;VALUE=DATE:20150908
+RRULE:FREQ=YEARLY
+SUMMARY:День финансиста в России
+URL:http://www.calend.ru/holidays/0/0/2211/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-69948URL96@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3108/
+DESCRIPTION:Ежегодно 8 сентября сотрудники Новороссийской военно-морской ба
+ зы (ВМБ) - оперативно-тактического территориального объединения в составе 
+ Черноморского флота России - отмечают свой профессиональный праздник. \n\n
+ Начало этой традиции...
+DTSTART;VALUE=DATE:20150908
+RRULE:FREQ=YEARLY
+SUMMARY:День Новороссийского военно-морского района
+URL:http://www.calend.ru/holidays/0/0/3108/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7010XBfnH9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1469/
+DESCRIPTION:Сегодня свой профессиональный праздник отмечают тестировщики пр
+ ограммного обеспечения. Дата для празднования Дня тестировщика была выбран
+ а не случайно.\n\n9 сентября 1945 года ученые Гарвардского университета\, 
+ тестировавшие...
+DTSTART;VALUE=DATE:20150909
+RRULE:FREQ=YEARLY
+SUMMARY:День тестировщика в России
+URL:http://www.calend.ru/holidays/0/0/1469/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7021w1agFz@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2962/
+DESCRIPTION:Свой профессиональный праздник дизайнеры-графики России и ряда 
+ стран СНГ отмечают ежегодно 9 сентября. \n\nОн был учрежден в 2005 году — 
+ в день 50-летия Владимира Чайки\, известного дизайнера-графика\, обладател
+ я множества наград...
+DTSTART;VALUE=DATE:20150909
+RRULE:FREQ=YEARLY
+SUMMARY:День дизайнера-графика в России
+URL:http://www.calend.ru/holidays/0/0/2962/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-70381iFDgd@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2967/
+DESCRIPTION:9 сентября 1855 года\, после тяжелейших боев\, завершилась 349-
+ дневная оборона Севастополя. В связи с этим событием ежегодно 9 сентября в
+  Севастополе проходят мероприятия\, посвященные Дню памяти воинов\, павших
+  при обороне города и в Крымской войне...
+DTSTART;VALUE=DATE:20150909
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти русских воинов\, павших при обороне Севастополя и в Кры
+ мской войне 1853-1856 годов
+URL:http://www.calend.ru/holidays/0/0/2967/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-70513VF97t@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/542/
+DESCRIPTION:11 сентября отмечается один из Дней воинской славы России — Ден
+ ь победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскад
+ рой у мыса Тендра. Он учрежден Федеральным законом № 32-ФЗ от 13 марта 199
+ 5 года «О днях воинской славы и...
+DTSTART;VALUE=DATE:20150911
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы русской эскадры у мыса Тен
+ дра (1790)
+URL:http://www.calend.ru/holidays/0/0/542/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7065aKVvtt@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3170/
+DESCRIPTION:В 1913 году\, по инициативе служителей Православной Церкви\, бы
+ л проведен первый Российский День трезвости. Решением Святейшего Синода от
+  марта 1914 года было принято ежегодное празднование Всероссийского Дня Тр
+ езвости – 11 сентября (по новому...
+DTSTART;VALUE=DATE:20150911
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский День Трезвости
+URL:http://www.calend.ru/holidays/0/0/3170/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7078VAAHWZ@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2209/
+DESCRIPTION:11 сентября сотрудники воспитательных структур Вооруженных Сил 
+ России отмечают свой профессиональный праздник — День специалиста органов 
+ воспитательной работы.\n\nВ приказе статс-секретаря — заместителя министра
+  обороны РФ\, которым...
+DTSTART;VALUE=DATE:20150911
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста органов воспитательной работы Вооруженных Сил Росс
+ ии
+URL:http://www.calend.ru/holidays/0/0/2209/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7093kx0v0l@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3040/
+DESCRIPTION:Праздник с забавным названием «День граненого стакана» существу
+ ет на самом деле\, а не только в шутках над любителями выпить. \n\nИ хотя 
+ история данной стеклянной посуды насчитывает уже несколько веков\, но Днем
+  рождения считается 11...
+DTSTART;VALUE=DATE:20150911
+RRULE:FREQ=YEARLY
+SUMMARY:День граненого стакана
+URL:http://www.calend.ru/holidays/0/0/3040/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7109InJEco@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/916/
+DESCRIPTION:11 сентября 2009 года президент России Дмитрий Медведев подписа
+ л Указ № 1034\, подготовленный Министерством связи и массовых коммуникаций
+  Российской Федерации\, который установил в России новый официальный профе
+ ссиональный праздник — День...
+DTSTART;VALUE=DATE:20150913
+RDATE;VALUE=DATE:20060913,20070913,20080912,20090913,20100913,20110913,2012
+ 0912,20130913,20140913,20150913,20160912,20170913,20180913,20190913,202009
+ 12
+SUMMARY:День программиста в России
+URL:http://www.calend.ru/holidays/0/0/916/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-71228GNHRN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/157/
+DESCRIPTION:Во второе воскресенье сентября в России отмечается День танкист
+ а -  профессиональный праздник танкистов и танкостроителей\, который ведет
+  свою историю с советских времен.\n\nВ ходе битвы на Курской дуге 12 июля 
+ 1943 года состоялось...
+DTSTART;VALUE=DATE:20150913
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=9
+SUMMARY:День танкиста в России
+URL:http://www.calend.ru/holidays/0/0/157/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7136TgOwEc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2961/
+DESCRIPTION:Сегодня отмечают свой праздник мастера расчески и ножниц — пари
+ кмахеры. Необходимо уточнить\, что некоторые коллективы отмечают этот проф
+ ессиональный праздник 14 сентября. Пока нет точной информации\, почему име
+ нно в эти сентябрьские дни возникла...
+DTSTART;VALUE=DATE:20150913
+RRULE:FREQ=YEARLY
+SUMMARY:День парикмахера в России
+URL:http://www.calend.ru/holidays/0/0/2961/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7150TLs4ib@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/718/
+DESCRIPTION:«Славное море — священный Байкал...» — это неповторимо прекрасн
+ ое сибирское озеро не может оставить равнодушным ни поэтов\, ни ученых\, н
+ и просто туристов из многих стран. Бай-Куль — Байкал — в переводе с тюркск
+ ого «богатое озеро»....
+DTSTART;VALUE=DATE:20150913
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=9
+SUMMARY:День озера Байкал
+URL:http://www.calend.ru/holidays/0/0/718/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-71615kXxlC@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3033/
+DESCRIPTION:Этот международный праздник посвящается традиции носить детей н
+ а себе с помощью приспособления из ткани — слинга (sling). Во всем мире пр
+ аздничные мероприятия проходят во вторую неделю октября. Однако в России в
+  связи с погодными условиями...
+DTSTART;VALUE=DATE:20150914
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=9
+SUMMARY:Международная неделя слингоношения
+URL:http://www.calend.ru/holidays/0/0/3033/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7300zHzsje@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3143/
+DESCRIPTION:Столица — Махачкала\n\nДень единства народов Дагестана — праздн
+ ик достаточно новый. Впервые он отмечался 15 сентября 2011 года.\n\nСобыти
+ я\, к которым приурочен этот праздник\, произошли в 1741 году. В середине 
+ 18 века великий...
+DTSTART;VALUE=DATE:20150915
+RRULE:FREQ=YEARLY
+SUMMARY:День единства народов Дагестана
+URL:http://www.calend.ru/holidays/0/0/3143/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7314ZNZ9Av@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3123/
+DESCRIPTION:Леса – это легкие нашей планеты. От их объема и состояния во мн
+ огом зависит то\, каким воздухом мы дышим. Кроме того\, лес – источник неи
+ счерпаемых богатств\, он кормит\, одевает\, согревает и лечит. Именно поэт
+ ому каждого человека\, чья деятельность...
+DTSTART;VALUE=DATE:20150915
+RRULE:FREQ=YEARLY
+SUMMARY:Российские дни леса
+URL:http://www.calend.ru/holidays/0/0/3123/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7325IKO6V0@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2546/
+DESCRIPTION:День HR-менеджера — это День специалиста по управлению персонал
+ ом (HR — от английского — human resources). Этот профессиональный праздник
+  отмечается всеми специалистами-кадровиками в третью среду сентября.\n\nИс
+ тория Дня HR-менеджера...
+DTSTART;VALUE=DATE:20150916
+RRULE:FREQ=YEARLY;BYDAY=3WE;BYMONTH=9
+SUMMARY:День HR-менеджера в России
+URL:http://www.calend.ru/holidays/0/0/2546/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-73375BbZ5g@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1455/
+DESCRIPTION:Официально профессионального праздника секретарей в России нет.
+  Но в 2005 году инициативная группа секретарей из Москвы\, Санкт-Петербург
+ а\, Воронежа\, Таганрога\, Ростова-на-Дону\, Новосибирска и Перми\, а такж
+ е редакция журнала «Секрет@рь.RU» решили...
+DTSTART;VALUE=DATE:20150918
+RRULE:FREQ=YEARLY;BYDAY=3FR;BYMONTH=9
+SUMMARY:День секретаря в России
+URL:http://www.calend.ru/holidays/0/0/1455/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7350aeuWLO@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2966/
+DESCRIPTION:Новый профессиональный праздник - День оружейника - это праздни
+ к всех работников предприятий оборонно-промышленного комплекса страны\, со
+ здателей отечественного оружия\, специалистов\, занимающихся историей разв
+ ития оружейного дела и изучением традиций...
+DTSTART;VALUE=DATE:20150919
+RRULE:FREQ=YEARLY
+SUMMARY:День оружейника в России
+URL:http://www.calend.ru/holidays/0/0/2966/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7361Jmm4Rr@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2544/
+DESCRIPTION:Каким бы непривычным и труднопроизносимым не было слово «рекрут
+ ер» (англ. recruitment — подбор кадров\, набор персонала)\, День рекрутера
+  неофициально отмечают в России уже более 10 лет. В 1991 году в газете «Из
+ вестия» появилась статья о деятельности...
+DTSTART;VALUE=DATE:20150920
+RRULE:FREQ=YEARLY
+SUMMARY:День рекрутера в России
+URL:http://www.calend.ru/holidays/0/0/2544/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7373k5he8i@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1713/
+DESCRIPTION:День работников леса установлен Указом Президиума Верховного Со
+ вета СССР от 01.10.80 N 3018-Х «О праздничных и памятных днях». Отмечается
+  в третье воскресенье сентября. \n\nЭто профессиональный праздник тех\, ко
+ го работа связала с...
+DTSTART;VALUE=DATE:20150920
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=9
+SUMMARY:День работника леса
+URL:http://www.calend.ru/holidays/0/0/1713/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7385StANF6@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/543/
+DESCRIPTION:21 сентября отмечается День воинской славы России — День победы
+  русских полков во главе с великим князем Дмитрием Донским над монголо-тат
+ арскими войсками в Куликовской битве в 1380 году. Он учрежден Федеральным 
+ законом № 32-ФЗ от 13 марта 1995 года...
+DTSTART;VALUE=DATE:20150921
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы русских полков в Куликовск
+ ой битве (1380 год)
+URL:http://www.calend.ru/holidays/0/0/543/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7395eTWgdI@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1825/
+DESCRIPTION:27 сентября в России отмечается общенациональный праздник — Ден
+ ь воспитателя и всех дошкольных работников. Он был учреждён по инициативе 
+ ряда российских педагогических изданий в 2004 году и поддержан авторами мн
+ огих базовых дошкольных программ\,...
+DTSTART;VALUE=DATE:20150927
+RRULE:FREQ=YEARLY
+SUMMARY:День воспитателя и всех дошкольных работников в России
+URL:http://www.calend.ru/holidays/0/0/1825/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7406bZCLSz@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/159/
+DESCRIPTION:Указом Президиума Верховного Совета СССР от 1 октября 1980 года
+  № 3018-Х «О праздничных и памятных днях» было установлено\, что в последн
+ ее воскресенье сентября в наше стране отмечается День машиностроителя. С и
+ зданием этого Указа и началась история...
+DTSTART;VALUE=DATE:20150927
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=9
+SUMMARY:День машиностроителя в России
+URL:http://www.calend.ru/holidays/0/0/159/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-747188UUk5@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3172/
+DESCRIPTION:В четвертое воскресенье сентября жители Дальнего Востока отмеча
+ ют День Тигра. Идея проведения этого экологического праздника возникла в 2
+ 000 году. Его инициаторами стали известный писатель-охотовед Владимир Трой
+ нин и международный благотворительный...
+DTSTART;VALUE=DATE:20150927
+RRULE:FREQ=YEARLY;BYDAY=4SU;BYMONTH=9
+SUMMARY:День тигра на Дальнем Востоке
+URL:http://www.calend.ru/holidays/0/0/3172/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7482zVagJL@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/908/
+DESCRIPTION:День работников атомной промышленности учрежден Указом Президен
+ та РФ № 633 от 3 июня 2005 года «О дне работника атомной промышленности» и
+  ежегодно отмечается 28 сентября. \n\n28 сентября 1942 года Государственны
+ й комитет обороны СССР...
+DTSTART;VALUE=DATE:20150928
+RRULE:FREQ=YEARLY
+SUMMARY:День работника атомной промышленности в России
+URL:http://www.calend.ru/holidays/0/0/908/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7495SA9WsD@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3162/
+DESCRIPTION:У него всегда много дел\, он заключает сделки\, ищет и находит 
+ новые источники прибыли. От его деятельности зависит настроение каждого со
+ трудника предприятия. Он – Генеральный Директор\, и сегодня мы отмечаем ег
+ о праздник.\n\nВ России около...
+DTSTART;VALUE=DATE:20150928
+RRULE:FREQ=YEARLY
+SUMMARY:День генерального директора в России
+URL:http://www.calend.ru/holidays/0/0/3162/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7508DXCv2z@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3216/
+DESCRIPTION:Ежегодно 29 сентября в России отмечается профессиональный празд
+ ник – День отоларинголога.\n\nОториноларингология (от греч. otos – ухо\, r
+ hinоs – нос\, laryngos – гортань) является одной из областей медицины\, ко
+ торая занимается изучением...
+DTSTART;VALUE=DATE:20150929
+RRULE:FREQ=YEARLY
+SUMMARY:День отоларинголога
+URL:http://www.calend.ru/holidays/0/0/3216/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7521MI0Aws@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/77/
+DESCRIPTION:Международный день интернета пытались ввести несколько раз в ра
+ зные даты\, но ни одна из них так и не стала традиционной. В России же «пр
+ ижилась» дата 30 сентября.\n\nВсе началось с того\, что московская фирма I
+ T Infoart Stars разослала...
+DTSTART;VALUE=DATE:20150930
+RRULE:FREQ=YEARLY
+SUMMARY:День интернета в России
+URL:http://www.calend.ru/holidays/0/0/77/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7532Xk5l7V@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/79/
+DESCRIPTION:Международный день пожилых людей провозглашен Генеральной Ассам
+ блеей ООН 14 декабря 1990 года\, резолюция 45/106. В России День пожилых л
+ юдей отмечается на основании Постановления Президиума Верховного Совета Ро
+ ссийской Федерации № 2890/1-1 от 1 июня...
+DTSTART;VALUE=DATE:20151001
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день пожилых людей в России
+URL:http://www.calend.ru/holidays/0/0/79/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7546GbExxv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1487/
+DESCRIPTION:День Сухопутных войск России отмечается в нашей стране ежегодно
+  1 октября по Указу Президента Российской Федерации № 549 от 31 мая 2006 г
+ ода  «Об установлении профессиональных праздников и памятных дней в Вооруж
+ енных Силах Российской Федерации».
+DTSTART;VALUE=DATE:20151001
+RRULE:FREQ=YEARLY
+SUMMARY:День Сухопутных войск России
+URL:http://www.calend.ru/holidays/0/0/1487/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7557l2uj3m@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2596/
+DESCRIPTION:В соответствии с Приказом № 190\, подписанным 1 марта 2002 года
+  министром внутренних дел РФ Б.Грызловым\, 3 октября отмечается профессион
+ альный праздник сотрудников специальных подразделений полиции - День ОМОНа
+  (ОМОН - Отряд мобильный особого...
+DTSTART;VALUE=DATE:20151003
+RRULE:FREQ=YEARLY
+SUMMARY:День ОМОНа в России
+URL:http://www.calend.ru/holidays/0/0/2596/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7571Upsudv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2652/
+DESCRIPTION:Ежегодно 4 октября в России отмечается День Космических войск\,
+  с 1 декабря 2011 года вошедших в состав Войск воздушно&#8209\;космической
+  обороны РФ.\n\nЭтот профессиональны праздник был установлен Указом презид
+ ента Российской Федерации №...
+DTSTART;VALUE=DATE:20151004
+RRULE:FREQ=YEARLY
+SUMMARY:День Космических войск
+URL:http://www.calend.ru/holidays/0/0/2652/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7583KOKDnU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/130/
+DESCRIPTION:День войск гражданской обороны МЧС РФ отмечается в России ежего
+ дно 4 октября.\n\nГражданская оборона является составной частью оборонного
+  строительства и обеспечения безопасности страны и выполняет одну из важне
+ йших функций государства....
+DTSTART;VALUE=DATE:20151004
+RRULE:FREQ=YEARLY
+SUMMARY:День войск гражданской обороны МЧС России
+URL:http://www.calend.ru/holidays/0/0/130/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7594LfO96x@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/160/
+DESCRIPTION:Но где бы ни бывали мы\,\nТебя не забывали мы\,\nКак мать не за
+ бывают сыновья...\nПростая и сердечная\,\nТы — юность наша вечная\,\nУчите
+ льница первая моя!\n«Школьный вальс»\nслова М. Матусовского\, музыка И....
+DTSTART;VALUE=DATE:20151005
+RRULE:FREQ=YEARLY
+SUMMARY:День учителя в России
+URL:http://www.calend.ru/holidays/0/0/160/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7609rV8zLK@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3164/
+DESCRIPTION:Столица — Майкоп\n\n5 октября празднуется День образования Респ
+ ублики Адыгея. Эта дата официально утверждена законом Республики Адыгея от
+  14 февраля 1995 года «О праздничных днях и памятных датах» и является нер
+ абочим днем....
+DTSTART;VALUE=DATE:20151005
+RRULE:FREQ=YEARLY
+SUMMARY:День образования Республики Адыгея
+URL:http://www.calend.ru/holidays/0/0/3164/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7621lG7jAU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/616/
+DESCRIPTION:Ежегодно 5 октября сотрудники уголовного розыска России отмечаю
+ т свой профессиональный праздник.\n\nРоссийский сыск еще в царской России 
+ показал свою значимость и силу. 5 октября 1918 года Наркомат внутренних де
+ л РСФСР утвердил Положение...
+DTSTART;VALUE=DATE:20151005
+RRULE:FREQ=YEARLY
+SUMMARY:День работников уголовного розыска России
+URL:http://www.calend.ru/holidays/0/0/616/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7632pvvP1j@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/84/
+DESCRIPTION:Ежегодно 6 октября многие российские специалисты\, работающие в
+  сфере страхования\, отмечают свой профессиональный праздник - День страхо
+ вщика.\n\n6 октября 1921 года начал свою деятельность Госстрах РСФСР. Эта 
+ дата и была принята в...
+DTSTART;VALUE=DATE:20151006
+RRULE:FREQ=YEARLY
+SUMMARY:День российского страховщика
+URL:http://www.calend.ru/holidays/0/0/84/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7644v5Pgw7@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1898/
+DESCRIPTION:7 октября в нашей стране отмечается один из праздников МВД — Де
+ нь образования штабных подразделений в системе Министерства внутренних дел
+  Российской Федерации.\n\nСогласно данным\, предоставленным отделом информ
+ ации ГУВД\, 7 октября 1918...
+DTSTART;VALUE=DATE:20151007
+RRULE:FREQ=YEARLY
+SUMMARY:День образования штабных подразделений МВД России
+URL:http://www.calend.ru/holidays/0/0/1898/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-76573bZsrr@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2654/
+DESCRIPTION:С 2007 года у военнослужащих Военно-морского флота России стало
+  одним праздником больше - 8 октября отмечается День командира надводного\
+ , подводного и воздушного корабля - профессиональный праздник командиров э
+ кипажей...
+DTSTART;VALUE=DATE:20151008
+RRULE:FREQ=YEARLY
+SUMMARY:День командира надводного\, подводного и воздушного корабля ВМФ Рос
+ сии
+URL:http://www.calend.ru/holidays/0/0/2654/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-767092TV2P@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/161/
+DESCRIPTION:День работников сельского хозяйства и перерабатывающей промышле
+ нности установлен Указом Президента РФ № 679 от 31 мая 1999 года «О дне ра
+ ботника сельского хозяйства и перерабатывающей промышленности» и ежегодно 
+ отмечается во второе воскресенье...
+DTSTART;VALUE=DATE:20151011
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=10
+SUMMARY:День работника сельского хозяйства и перерабатывающей промышленност
+ и в России
+URL:http://www.calend.ru/holidays/0/0/161/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7684IbSdkp@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3111/
+DESCRIPTION:Столица — Уфа\n\n11 октября Башкортостан празднует День Республ
+ ики — День принятия Декларации о государственном суверенитете Башкирской С
+ оветской Социалистической Республики. В этот день в 1990 году Верховным Со
+ ветом республики была...
+DTSTART;VALUE=DATE:20151011
+RRULE:FREQ=YEARLY
+SUMMARY:День Республики Башкортостан
+URL:http://www.calend.ru/holidays/0/0/3111/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7695uBEZEA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1491/
+DESCRIPTION:Ежегодно 12 октября в России отмечается День кадрового работник
+ а - неофициальный профессиональный праздник работников отделов кадров в на
+ ше стране.\n\nВ этот день в 1918 году решением Народного комиссариата юсти
+ ции была принята...
+DTSTART;VALUE=DATE:20151012
+RRULE:FREQ=YEARLY
+SUMMARY:День кадрового работника в России
+URL:http://www.calend.ru/holidays/0/0/1491/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-77403cemLi@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3128/
+DESCRIPTION:В октябре 1999 года в России появился новый профессиональный пр
+ аздник – День работников заповедного дела. Решение об его учреждении приня
+ ли директора государственных природных заповедников во время всероссийског
+ о семинара-совещания «Роль и место...
+DTSTART;VALUE=DATE:20151014
+RRULE:FREQ=YEARLY
+SUMMARY:День работников заповедного дела
+URL:http://www.calend.ru/holidays/0/0/3128/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7752BoeVri@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2657/
+DESCRIPTION:15 октября — день образования адресно-справочных подразделений 
+ Федеральной миграционной службы Российской Федерации. Высочайшим Указом от
+  15 октября 1809 года в обеих столицах Российской империи в составе городс
+ кой полиции были созданы Конторы...
+DTSTART;VALUE=DATE:20151015
+RRULE:FREQ=YEARLY
+SUMMARY:День создания адресно-справочной службы Российского государства
+URL:http://www.calend.ru/holidays/0/0/2657/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7765ktboMc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/162/
+DESCRIPTION:День работников пищевой промышленности - профессиональный празд
+ ник всех работников пищевой промышленности Российской Федерации - традицио
+ нно отмечается в наше стране каждое третье воскресенье октября. Этот празд
+ ник был установлен еще в советское...
+DTSTART;VALUE=DATE:20151018
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=10
+SUMMARY:День работников пищевой промышленности России
+URL:http://www.calend.ru/holidays/0/0/162/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7777oXt60t@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/163/
+DESCRIPTION:Профессиональный праздник работников автомобильного транспорта 
+ и дорожного хозяйства в России появился в 1996 году. Первоначально\, на ос
+ новании Указа Президента РФ от 14 октября 1996 года «Об установлении Дня р
+ аботников автомобильного транспорта и...
+DTSTART;VALUE=DATE:20151018
+RRULE:FREQ=YEARLY;BYDAY=3SU;BYMONTH=10
+SUMMARY:День работников дорожного хозяйства в России
+URL:http://www.calend.ru/holidays/0/0/163/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7790o2JM4k@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2922/
+DESCRIPTION:Друзья мои\, прекрасен наш союз! \nОн\, как душа\, неразделим и
+  вечен — \nНеколебим\, свободен и беспечен\, \nСрастался он под сенью друж
+ ных муз.\nКуда бы нас ни бросила судьбина\nИ счастие куда б ни повело\,\nВ
+ сё те же...
+DTSTART;VALUE=DATE:20151019
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день лицеиста
+URL:http://www.calend.ru/holidays/0/0/2922/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7802rlDVOC@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/89/
+DESCRIPTION:Ежегодно 20 октября в российской армии отмечается День военного
+  связиста - профессиональный праздник всех работников и военнослужащих вой
+ ск связи\, установленный Указом Президента РФ от 31 мая 2006 года N 549 в 
+ целях возрождения и развития...
+DTSTART;VALUE=DATE:20151020
+RRULE:FREQ=YEARLY
+SUMMARY:День военного связиста в России
+URL:http://www.calend.ru/holidays/0/0/89/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7814wC0F0G@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2272/
+DESCRIPTION:Мне кажется порою\, что солдаты\,\nС кровавых не пришедшие поле
+ й\,\nНе в землю нашу полегли когда-то\,\nА превратились в белых журавлей.
+ \n\nОни до сей поры с времен тех дальних\nЛетят и подают нам голоса.\nНе..
+ .
+DTSTART;VALUE=DATE:20151022
+RRULE:FREQ=YEARLY
+SUMMARY:Литературный праздник «Белые журавли»
+URL:http://www.calend.ru/holidays/0/0/2272/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7825Wlwew6@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/90/
+DESCRIPTION:День работника рекламы — профессиональный праздник всех состави
+ телей рекламы\, рекламодателей\, маркетологов и пиарщиков России. Этот пра
+ здник отмечается с 1994 года\, и за время своего существования он успел ст
+ ать весомым поводом поговорить о том\,...
+DTSTART;VALUE=DATE:20151023
+RRULE:FREQ=YEARLY
+SUMMARY:День работников рекламы в России
+URL:http://www.calend.ru/holidays/0/0/90/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7838Bc1Pi4@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/91/
+DESCRIPTION:День подразделений специального назначения - профессиональный п
+ раздник военнослужащих подразделений специального назначения Вооруженных С
+ ил России\, отмечаемый ежегодно 24 октября\, установлен Указом Президента 
+ РФ № 549 от 31 мая 2006 года «Об...
+DTSTART;VALUE=DATE:20151024
+RRULE:FREQ=YEARLY
+SUMMARY:День подразделений специального назначения Вооруженных Сил России
+URL:http://www.calend.ru/holidays/0/0/91/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-78521SckJw@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3110/
+DESCRIPTION:Административный центр — Владивосток\n\n25 октября отмечается Д
+ ень Приморского края. Официально этот праздник появился в календаре в 1995
+  году\, когда был принят и обнародован нынешний Устав Приморского края. \n
+ \nОднако дата...
+DTSTART;VALUE=DATE:20151025
+RRULE:FREQ=YEARLY
+SUMMARY:День Приморского края
+URL:http://www.calend.ru/holidays/0/0/3110/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-78642vsvlu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/164/
+DESCRIPTION:Профессиональный праздник — День работников автомобильного тран
+ спорта и дорожного хозяйства отмечался в России с 1996 года на основании У
+ каза Президента Российской Федерации № 1435 от 14 октября 1996 года «Об ус
+ тановлении Дня работников...
+DTSTART;VALUE=DATE:20151025
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=10
+SUMMARY:День автомобилиста
+URL:http://www.calend.ru/holidays/0/0/164/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7878pGENdu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/615/
+DESCRIPTION:25 октября издавна считается знаменательным днем в истории русс
+ кой таможенной службы. Именно в этот день в 1653 году в стране впервые поя
+ вился Единый таможенный устав\, родившийся из Указа царя Алексея Михайлови
+ ча о взимании таможенной пошлины «в...
+DTSTART;VALUE=DATE:20151025
+RRULE:FREQ=YEARLY
+SUMMARY:День таможенника Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/615/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7891Z1GUPu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2876/
+DESCRIPTION:25 октября работники кабельной промышленности России отмечают с
+ вой профессиональный праздник.\n\nВ День работника кабельной промышленност
+ и рабочие\, специалисты\, служащие и руководители предприятий и организаци
+ й награждаются нагрудным...
+DTSTART;VALUE=DATE:20151025
+RRULE:FREQ=YEARLY
+SUMMARY:День работника кабельной промышленности в России
+URL:http://www.calend.ru/holidays/0/0/2876/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7905VUkTx2@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1517/
+DESCRIPTION:Днем создания армейской авиации принято считать 28 октября 1948
+  года\, когда в подмосковном Серпухове была сформирована первая авиационна
+ я эскадрилья\, оснащенная вертолетами. Она положила начало армейской авиац
+ ии как отдельному роду войск.\n
+DTSTART;VALUE=DATE:20151028
+RRULE:FREQ=YEARLY
+SUMMARY:День создания армейской авиации России
+URL:http://www.calend.ru/holidays/0/0/1517/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7918vjIxan@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/755/
+DESCRIPTION:29 октября сотрудники вневедомственной охраны МВД России отмеча
+ ют свой профессиональный праздник. \n\nВ России вневедомственная охрана яв
+ ляется структурным подразделением Министерства внутренних дел и предоставл
+ яет услуги по охране...
+DTSTART;VALUE=DATE:20151029
+RRULE:FREQ=YEARLY
+SUMMARY:День работников службы вневедомственной охраны МВД РФ
+URL:http://www.calend.ru/holidays/0/0/755/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-79325fN07A@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/614/
+DESCRIPTION:(20) 30 октября 1696 года Боярская Дума по настоянию Петра I пр
+ иняла решение о создании регулярного военно-морского флота России: «Морски
+ м судам быть». Этот день и принято считать днем основания Российского воен
+ но-морского флота.\n\nВ то...
+DTSTART;VALUE=DATE:20151030
+RRULE:FREQ=YEARLY
+SUMMARY:День основания Российского военно-морского флота
+URL:http://www.calend.ru/holidays/0/0/614/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-79432UsZzl@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/619/
+DESCRIPTION:Сегодня в России отмечают свой профессиональный праздник работн
+ ики инженерно-технических специальностей различных отраслей промышленности
+  — это День инженера-механика. Начало празднованию положил приказ Главкома
+  ВМФ от 1996 года. Но отсчет принято...
+DTSTART;VALUE=DATE:20151030
+RRULE:FREQ=YEARLY
+SUMMARY:День инженера-механика в России
+URL:http://www.calend.ru/holidays/0/0/619/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7958tUU6xA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/617/
+DESCRIPTION:День памяти жертв политических репрессий в нашей стране установ
+ лен Постановлением Верховного Совета РСФСР № 1763/1-I от 18 октября 1991 г
+ ода  «Об установлении Дня памяти жертв политических репрессий» и ежегодно 
+ отмечается 30...
+DTSTART;VALUE=DATE:20151030
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти жертв политических репрессий
+URL:http://www.calend.ru/holidays/0/0/617/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7976Ln29LX@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2986/
+DESCRIPTION:В последнюю субботу октября российские спортсмены отмечают День
+  гимнастики\, учрежденный в 1999 году. С инициативой ввести в календарь эт
+ у дату выступила Федерация спортивной и художественной гимнастики России.
+ \n\nГимнастика - это не...
+DTSTART;VALUE=DATE:20151031
+RRULE:FREQ=YEARLY;BYDAY=5SA;BYMONTH=10
+SUMMARY:Всероссийский день гимнастики
+URL:http://www.calend.ru/holidays/0/0/2986/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-7989H5hvNf@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/888/
+DESCRIPTION:День сурдопереводчика\, отмечаемый в нашей стране ежегодно 31 о
+ ктября\, учрежден в январе 2003 года по инициативе Центрального правления 
+ Всероссийского общества глухих с целью обратить внимание общества на пробл
+ емы глухих. \n\nЕсли\, к...
+DTSTART;VALUE=DATE:20151031
+RRULE:FREQ=YEARLY
+SUMMARY:День сурдопереводчика в России
+URL:http://www.calend.ru/holidays/0/0/888/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8005WFuaxg@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1549/
+DESCRIPTION:31 октября в 1963 году Коллегией министерства охраны общественн
+ ого порядка РСФСР было принято решение о создании следственных изоляторов 
+ (СИЗО)\, как нового вида учреждений уголовно-исполнительной системы. Эта д
+ ата стала основой для учреждения...
+DTSTART;VALUE=DATE:20151031
+RRULE:FREQ=YEARLY
+SUMMARY:День работников СИЗО и тюрем в России
+URL:http://www.calend.ru/holidays/0/0/1549/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-80183BIMuN@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/96/
+DESCRIPTION:1 ноября в России отмечается День судебного пристава\, установл
+ енный согласно Указу Президента РФ № 1019 от 8 сентября 2009 года «Об уста
+ новлении Дня судебного пристава». Дословно в документе говорится:\n \n1. У
+ становить профессиональный...
+DTSTART;VALUE=DATE:20151101
+RRULE:FREQ=YEARLY
+SUMMARY:День судебного пристава в России
+URL:http://www.calend.ru/holidays/0/0/96/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8033GGnlXU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/94/
+DESCRIPTION:День воинской славы России — День народного единства отмечается
+  в нашей стране ежегодно 4 ноября\, начиная с 2005 года. Этот праздник уст
+ ановлен в честь важного события в истории России - освобождения Москвы от 
+ польских интервентов в 1612 году\, и...
+DTSTART;VALUE=DATE:20151104
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День народного единства
+URL:http://www.calend.ru/holidays/0/0/94/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8047I0KbcV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/95/
+DESCRIPTION:День военного разведчика\, отмечаемый в нашей стране ежегодно 5
+  ноября\, установлен приказом Министра обороны РФ № 490 от 12 октября 2000
+  года. \n\nВ этот день в 1918 году в составе Полевого штаба Красной Армии 
+ в Петрограде было создано...
+DTSTART;VALUE=DATE:20151105
+RRULE:FREQ=YEARLY
+SUMMARY:День военного разведчика в России
+URL:http://www.calend.ru/holidays/0/0/95/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8060U2n7II@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/754/
+DESCRIPTION:День воинской славы России — День проведения военного парада на
+  Красной площади в 1941 году\, отмечаемый в нашей стране ежегодно 7 ноября
+ \, установлен Федеральным законом № 32-ФЗ от 13 марта 1995 года «О днях во
+ инской славы и памятных датах...
+DTSTART;VALUE=DATE:20151107
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День проведения военного парада на Кра
+ сной площади в 1941 году
+URL:http://www.calend.ru/holidays/0/0/754/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8075OtJzJV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2971/
+DESCRIPTION:Ежегодно 7 ноября в нашей стране отмечается памятная дата - Ден
+ ь Октябрьской революции 1917 года.\n\nФормально этот праздник\, учрежденны
+ й в 2005 году\, на самом деле имеет давнюю историю и знаком любому человек
+ у\, родившемуся и...
+DTSTART;VALUE=DATE:20151107
+RRULE:FREQ=YEARLY
+SUMMARY:День Октябрьской революции 1917 года в России
+URL:http://www.calend.ru/holidays/0/0/2971/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8088pmmrRa@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/98/
+DESCRIPTION:Наша служба и опасна\, и трудна\, \nИ на первый взгляд\, как бу
+ дто\, не видна.\nЕсли кто-то кое-где у нас порой \nЧестно жить не хочет\, 
+ \nЗначит\, с ними нам вести незримый бой. \nТак назначено судьбой для нас 
+ с тобой...
+DTSTART;VALUE=DATE:20151110
+RRULE:FREQ=YEARLY
+SUMMARY:День сотрудника органов внутренних дел Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/98/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8102ATxFrx@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1324/
+DESCRIPTION:11 ноября 1918 года Компьенским перемирием\, означавшим капитул
+ яцию Германии\, окончилась Первая мировая война\, продолжавшаяся четыре го
+ да и три месяца. В ее огне погибло почти 10 миллионов человек\, около 20 м
+ иллионов было ранено. Таких потерь...
+DTSTART;VALUE=DATE:20151111
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти (Окончание Первой мировой войны)
+URL:http://www.calend.ru/holidays/0/0/1324/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-81158fxvs1@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/889/
+DESCRIPTION:День работников Сбербанка России отмечается ежегодно 12 ноября.
+  Этот профессиональный праздник был учрежден в 1998 году. \n\nА дата 12 но
+ ября выбрана не случайно и связана с подписанием в 1841 году императором Н
+ иколаем I Указа об...
+DTSTART;VALUE=DATE:20151112
+RRULE:FREQ=YEARLY
+SUMMARY:День работников Сбербанка России
+URL:http://www.calend.ru/holidays/0/0/889/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8128OT0cfx@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1541/
+DESCRIPTION:День специалиста по безопасности — праздник\, широко отмечаемый
+  всеми профессионалами служб создания и поддержания безопасности в широком
+  смысле этого слова. Другими словами — сегодня можно поздравлять всех спец
+ иалистов\, связавших свою судьбу с этой...
+DTSTART;VALUE=DATE:20151112
+RRULE:FREQ=YEARLY
+SUMMARY:День специалиста по безопасности в России
+URL:http://www.calend.ru/holidays/0/0/1541/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8143JmBJbw@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3174/
+DESCRIPTION:Несколько лет назад в России появился еще один экологический пр
+ аздник – Синичкин день. Он создан по инициативе Союза охраны птиц России и
+  отмечается 12 ноября.\n\nВ этот день жители разных населенных пунктов стр
+ аны готовятся к встрече...
+DTSTART;VALUE=DATE:20151112
+RRULE:FREQ=YEARLY
+SUMMARY:Синичкин день
+URL:http://www.calend.ru/holidays/0/0/3174/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8155mR8elH@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/622/
+DESCRIPTION:По Указу Президента РФ № 549 от 31 мая 2006 года «Об установлен
+ ии профессиональных праздников и памятных дней в Вооруженных силах РФ» 13 
+ ноября в нашей стране отмечается памятный день — День войск радиационной\,
+  химической и биологической защиты...
+DTSTART;VALUE=DATE:20151113
+RRULE:FREQ=YEARLY
+SUMMARY:День войск радиационной\, химической и биологической защиты России
+URL:http://www.calend.ru/holidays/0/0/622/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8168iUTB5j@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1550/
+DESCRIPTION:Ежегодно 14 ноября российские социологи отмечают свой профессио
+ нальный праздник - День социолога\, который пока не утвержден официально.
+ \n\nСоциология (от лат. socius — общественный и др.-греч. logos — учение) 
+ — наука\, которая изучает...
+DTSTART;VALUE=DATE:20151114
+RRULE:FREQ=YEARLY
+SUMMARY:День социолога в России
+URL:http://www.calend.ru/holidays/0/0/1550/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8183FzSf0I@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/101/
+DESCRIPTION:Всероссийский день призывника отмечается в нашей стране ежегодн
+ о 15 ноября\, начиная с 1992 года\, согласно распоряжению президента Росси
+ и Б.Н. Ельцина. Говоря официальным языком\, призывником называют лицо мужс
+ кого пола\, в возрасте от 18 до 27 лет\,...
+DTSTART;VALUE=DATE:20151115
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день призывника
+URL:http://www.calend.ru/holidays/0/0/101/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-81974mISsR@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2256/
+DESCRIPTION:15 ноября 1988 года приказом МВД СССР было организовано 6-е упр
+ авление МВД СССР. Сегодня эта дата считается День создания подразделений п
+ о борьбе с организованной преступностью в России.\n\nВ феврале 1991 года 6
+ -е управление было...
+DTSTART;VALUE=DATE:20151115
+RRULE:FREQ=YEARLY
+SUMMARY:День создания подразделений по борьбе с организованной преступность
+ ю в России
+URL:http://www.calend.ru/holidays/0/0/2256/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8208DlNCNE@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2977/
+DESCRIPTION:Празднование Дня проектировщика в нашей стране — редкий случай\
+ , когда инициатором столь масштабного мероприятия стала коммерческая фирма
+ \, группа компаний «Роспайп». Представители организации говорят\, что таки
+ м образом они решили исправить...
+DTSTART;VALUE=DATE:20151116
+RRULE:FREQ=YEARLY
+SUMMARY:Всероссийский день проектировщика
+URL:http://www.calend.ru/holidays/0/0/2977/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8220DwuW3M@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1239/
+DESCRIPTION:Ежегодно 17 ноября в России отмечается профессиональный праздни
+ к - День участковых уполномоченных полиции (День участкового).\n\nНародным
+  комиссариатом внутренних дел РСФСР 17 ноября 1923 года была утверждена Ин
+ струкция участковому...
+DTSTART;VALUE=DATE:20151117
+RRULE:FREQ=YEARLY
+SUMMARY:День участковых уполномоченных полиции (День участкового) в России
+URL:http://www.calend.ru/holidays/0/0/1239/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8234LiCajU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1636/
+DESCRIPTION:18 ноября в России официально празднуют день рождения Деда Моро
+ за. \n\nКаков возраст зимнего волшебника — доподлинно неизвестно\, но точн
+ о\, что более 2000 лет. Дату рождения Деда Мороза придумали сами дети\, по
+ скольку именно 18 ноября на...
+DTSTART;VALUE=DATE:20151118
+RRULE:FREQ=YEARLY
+SUMMARY:День рождения Деда Мороза
+URL:http://www.calend.ru/holidays/0/0/1636/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8248Uj2XtB@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/105/
+DESCRIPTION:Согласно Указу Президента РФ № 549 от 31 мая 2006 года «Об уста
+ новлении профессиональных праздников и памятных дней в Вооруженных силах Р
+ Ф» ежегодно 19 ноября отмечается памятный день Вооруженных Сил — День раке
+ тных войск и...
+DTSTART;VALUE=DATE:20151119
+RRULE:FREQ=YEARLY
+SUMMARY:День ракетных войск и артиллерии в России
+URL:http://www.calend.ru/holidays/0/0/105/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8261Xc1meo@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/212/
+DESCRIPTION:Профессиональный праздник работников стекольной промышленности 
+ России отмечается\, начиная с 2000 года\, в день рождения выдающегося русс
+ кого ученого М.В. Ломоносова.\n\nМихаил Васильевич Ломоносов был создателе
+ м химического производства...
+DTSTART;VALUE=DATE:20151119
+RRULE:FREQ=YEARLY
+SUMMARY:День работника стекольной промышленности России
+URL:http://www.calend.ru/holidays/0/0/212/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8274nLSVXv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/131/
+DESCRIPTION:У представителей практически всех профессий есть свои праздничн
+ ые дни\, но совсем непросто обстоят дела с профессиональным праздником рос
+ сийских бухгалтеров. В календаре профессиональных праздников в честь Дня б
+ ухгалтера красным цветом не помечена ни...
+DTSTART;VALUE=DATE:20151121
+RRULE:FREQ=YEARLY
+SUMMARY:День бухгалтера в России
+URL:http://www.calend.ru/holidays/0/0/131/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8288utK26r@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/107/
+DESCRIPTION:Профессиональный праздник День работника налоговых органов РФ о
+ тмечается в нашей стране ежегодно 21 ноября\, в соответствии с Указом През
+ идента Российской Федерации № 1868 от 11 ноября 2000 года «О Дне работника
+  налоговых органов Российской...
+DTSTART;VALUE=DATE:20151121
+RRULE:FREQ=YEARLY
+SUMMARY:День работника налоговых органов Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/107/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8304jhP8b9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2664/
+DESCRIPTION:Психическое (ментальное) здоровье человека не менее важно\, чем
+  физическое. Психическое здоровье\, согласно определению Всемирной организ
+ ации здравоохранения\, говорит о состоянии благополучия\, при котором чело
+ век может реализовать свой собственный...
+DTSTART;VALUE=DATE:20151122
+RRULE:FREQ=YEARLY
+SUMMARY:День психолога в России
+URL:http://www.calend.ru/holidays/0/0/2664/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8318R17dVM@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3132/
+DESCRIPTION:В 2008 году по инициативе Всемирного фонда дикой природы (WWF) 
+ и Совета по морским млекопитающим был учрежден День моржа. Эти животные – 
+ крупнейшие ластоногие\, обитающие в северном полушарии нашей планеты. \n\n
+ Празднование не случайно...
+DTSTART;VALUE=DATE:20151124
+RRULE:FREQ=YEARLY
+SUMMARY:День моржа
+URL:http://www.calend.ru/holidays/0/0/3132/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8331rtlhdT@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/623/
+DESCRIPTION:День морской пехоты в России отмечается в соответствии с приказ
+ ом Главнокомандующего ВМФ Российской Федерации № 433 от 19 декабря 1995 го
+ да в память Указа Петра I о создании первого в России «полка морских солда
+ т»\, изданного 27 ноября 1705 года (16...
+DTSTART;VALUE=DATE:20151127
+RRULE:FREQ=YEARLY
+SUMMARY:День морской пехоты России
+URL:http://www.calend.ru/holidays/0/0/623/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-83438HiUPv@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/628/
+DESCRIPTION:Ежегодно 27 ноября члены Российского общества оценщиков (РОО) о
+ тмечают свой профессиональный праздник. Оценщик — специалист\, который име
+ ет право проводить оценку и подписывать отчет об оценке недвижимости\, тра
+ нспортных средств\, оборудования\,...
+DTSTART;VALUE=DATE:20151127
+RRULE:FREQ=YEARLY
+SUMMARY:День оценщика в России
+URL:http://www.calend.ru/holidays/0/0/628/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8359H7CjJT@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/169/
+DESCRIPTION:Мама — первое слово\,\nГлавное слово в каждой судьбе.\nМама жиз
+ нь подарила\,\nМир подарила мне и тебе.\nПесня из к/ф «Мама» \n(слова: Ю.Э
+ нтин\, музыка: Ж.Буржоа\, Т.Попа)\n\n\nНет\, наверное\, ни одной...
+DTSTART;VALUE=DATE:20151129
+RRULE:FREQ=YEARLY;BYDAY=5SU;BYMONTH=11
+SUMMARY:День матери в России
+URL:http://www.calend.ru/holidays/0/0/169/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-83718zm323@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/112/
+DESCRIPTION:1 декабря отмечается «Всемирный день борьбы со СПИДом». В кален
+ дарь официально празднуемых дат праздник попал в 1988 году. С 1996 года Вс
+ емирный день борьбы со СПИДом превращен в Кампанию против СПИДа.\n\nЭпидем
+ ия ВИЧ-инфекции и СПИДа...
+DTSTART;VALUE=DATE:20151201
+RRULE:FREQ=YEARLY
+SUMMARY:Всемирный день борьбы со СПИДом
+URL:http://www.calend.ru/holidays/0/0/112/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8384vzmwU4@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/629/
+DESCRIPTION:День воинской славы России — День победы русской эскадры под ко
+ мандованием адмирала П.C. Нахимова над турецкой эскадрой у мыса Синоп в 18
+ 53 году — отмечается в соответствии с Федеральным законом № 32-ФЗ от 13 ма
+ рта 1995 года «О днях воинской славы...
+DTSTART;VALUE=DATE:20151201
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День победы русской эскадры у мыса Син
+ оп
+URL:http://www.calend.ru/holidays/0/0/629/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8395GcbBIW@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/890/
+DESCRIPTION:Ежегодно 2 декабря в России отмечается неофициальный профессион
+ альный праздник всех работников банковской системы РФ - День банковского р
+ аботника.\n\nНо с датой этого праздника в нашей стране\, как и с датой пра
+ здника другой финансовой...
+DTSTART;VALUE=DATE:20151202
+RRULE:FREQ=YEARLY
+SUMMARY:День банковского работника России
+URL:http://www.calend.ru/holidays/0/0/890/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8408de45oo@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3220/
+DESCRIPTION:Сегодня в России отмечается новый праздник – День Неизвестного 
+ Солдата – в память о российских и советских воинах\, погибших в боевых дей
+ ствиях на территории нашей страны или за ее пределами. Решение об его учре
+ ждении было принято Госдумой в октябре...
+DTSTART;VALUE=DATE:20151203
+RRULE:FREQ=YEARLY
+SUMMARY:День Неизвестного Солдата в России
+URL:http://www.calend.ru/holidays/0/0/3220/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8421H7rC2E@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/114/
+DESCRIPTION:В 1992 году в конце Десятилетия инвалидов Организации Объединен
+ ных Наций (1983&ndash\;1992) Генеральная Ассамблея ООН провозгласила 3 дек
+ абря Международным днем инвалидов (International Day of Persons with Disab
+ ilities). \n\nУказанное...
+DTSTART;VALUE=DATE:20151203
+RRULE:FREQ=YEARLY
+SUMMARY:Международный день инвалидов
+URL:http://www.calend.ru/holidays/0/0/114/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8432NWi236@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2372/
+DESCRIPTION:Согласно Указу Президента РФ № 130 от 4 февраля 2008 года «Об у
+ становлении Дня юриста» в России установлен новый профессиональный праздни
+ к — День юриста\, который ежегодно отмечается 3 декабря. Исторически профе
+ ссия юриста в России является...
+DTSTART;VALUE=DATE:20151203
+RRULE:FREQ=YEARLY
+SUMMARY:День юриста в России
+URL:http://www.calend.ru/holidays/0/0/2372/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8446GtSxcP@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/115/
+DESCRIPTION:4 декабря 1948 года считается днем рождения российской информат
+ ики. И хотя в России этот праздник пока не является официальным\, но его о
+ тмечают все те\, кто имеет отношение к информатике. \n\nСам термин «информ
+ атика» впервые был введен...
+DTSTART;VALUE=DATE:20151204
+RRULE:FREQ=YEARLY
+SUMMARY:День информатики в России
+URL:http://www.calend.ru/holidays/0/0/115/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8459eM3Js9@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/630/
+DESCRIPTION:День воинской славы России - День начала контрнаступления совет
+ ских войск в битве под Москвой в 1941 году установлен Федеральным законом 
+ № 32-ФЗ от 13 марта 1995 года «О днях воинской славы (победных днях) Росси
+ и».\n\nКонтрнаступление\,...
+DTSTART;VALUE=DATE:20151205
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День начала контрнаступления советских
+  войск в битве под Москвой
+URL:http://www.calend.ru/holidays/0/0/630/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8474lDbTE5@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3112/
+DESCRIPTION:Административный центр — Пермь\n\nПраздник\, в который жители П
+ ермского края чествуют свой регион\, появился в календаре 27 апреля 2007 г
+ ода. В этот день был издан Устав Пермского края\, в котором и была установ
+ лена новая...
+DTSTART;VALUE=DATE:20151206
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=12
+SUMMARY:День Пермского края
+URL:http://www.calend.ru/holidays/0/0/3112/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8489zzzsvn@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2308/
+DESCRIPTION:В первое воскресенье декабря в России отмечается День сетевика.
+  Это профессиональный праздник участников сетевого (многоуровневого\, стру
+ ктурного) маркетинга и бизнеса прямых продаж. Для сетевиков этот день\, ко
+ нечно\, повод весело и с пользой отметить...
+DTSTART;VALUE=DATE:20151206
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=12
+SUMMARY:День сетевика в России
+URL:http://www.calend.ru/holidays/0/0/2308/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8504eNo8HU@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2321/
+DESCRIPTION:8 декабря 1992 года Президент России Б.Н. Ельцин подписал Указ 
+ № 1556 «О Федеральном казначействе»\, согласно которому была создана систе
+ ма органов Федерального казначейства России. Эта дата считается Днем образ
+ ования российского казначейства....
+DTSTART;VALUE=DATE:20151208
+RRULE:FREQ=YEARLY
+SUMMARY:День образования российского казначейства
+URL:http://www.calend.ru/holidays/0/0/2321/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8517gPjxJ8@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2306/
+DESCRIPTION:День Героев Отечества в России - это памятная дата\, которая от
+ мечается в нашей стране ежегодно 9 декабря. Она установлена Федеральным за
+ коном Российской Федерации № 22-ФЗ от 28 февраля 2007 года «О внесении изм
+ енения в статью 1-1 Федерального закона...
+DTSTART;VALUE=DATE:20151209
+RRULE:FREQ=YEARLY
+SUMMARY:День Героев Отечества в России
+URL:http://www.calend.ru/holidays/0/0/2306/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8530wlV8rg@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3221/
+DESCRIPTION:Профессиональный праздник День ведомственной охраны железнодоро
+ жного транспорта Российской Федерации\, чья история неразрывно связана с р
+ азвитием отечественных железных дорог\, отмечается в нашей стране ежегодно
+  9 декабря.\n\nИменно в этот...
+DTSTART;VALUE=DATE:20151209
+RRULE:FREQ=YEARLY
+SUMMARY:День ведомственной охраны железнодорожного транспорта России
+URL:http://www.calend.ru/holidays/0/0/3221/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-85422uLvCz@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2666/
+DESCRIPTION:10 декабря 1949 года в системе МВД была создана служба связи – 
+ в этот день был подписан приказ министра внутренних дел СССР № 785 «Об орг
+ анизации комиссии по приемке станционных сооружений Автоматической телефон
+ ной станции МВД...
+DTSTART;VALUE=DATE:20151210
+RRULE:FREQ=YEARLY
+SUMMARY:День создания службы связи МВД России
+URL:http://www.calend.ru/holidays/0/0/2666/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8557uNeubV@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/119/
+DESCRIPTION:12 декабря 1993 года всенародным голосованием в нашей стране бы
+ ла принята Конституция Российской Федерации. Полный текст Конституции был 
+ опубликован в «Российской газете» 25 декабря 1993 года\, и с тех пор День 
+ Конституции является одним из самых...
+DTSTART;VALUE=DATE:20151212
+RRULE:FREQ=YEARLY
+SUMMARY:День Конституции Российской Федерации
+URL:http://www.calend.ru/holidays/0/0/119/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-85706HGgPf@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/634/
+DESCRIPTION:Памятная дата - День памяти журналистов\, погибших при исполнен
+ ии профессиональных обязанностей\, - отмечается в России 15 декабря\, начи
+ ная с 1991 года\, по инициативе Союза журналистов России.\n\nВ этот день в
+  нашей стране вспоминают...
+DTSTART;VALUE=DATE:20151215
+RRULE:FREQ=YEARLY
+SUMMARY:День памяти журналистов\, погибших при исполнении профессиональных 
+ обязанностей
+URL:http://www.calend.ru/holidays/0/0/634/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8583tgRdSu@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/631/
+DESCRIPTION:Ракетные войска стратегического назначения (РВСН) как вид Воору
+ женных Сил были созданы 17 декабря 1959 года по решению правительства СССР
+ . \n\n31 мая 2006 года на основании Указа президента России № 549 «Об уста
+ новлении профессиональных...
+DTSTART;VALUE=DATE:20151217
+RRULE:FREQ=YEARLY
+SUMMARY:День ракетных войск стратегического назначения Вооруженных Сил Росс
+ ии
+URL:http://www.calend.ru/holidays/0/0/631/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8596KhX4UA@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1743/
+DESCRIPTION:17 декабря в России отмечается День сотрудников Государственной
+  фельдъегерской службы. Фельдъегерь — от нем. Feldjager — военный курьер п
+ о доставке важнейших государственных документов.\n\nОдним из первых Указов
+  императора Павла I после...
+DTSTART;VALUE=DATE:20151217
+RRULE:FREQ=YEARLY
+SUMMARY:День сотрудников Государственной фельдъегерской службы России
+URL:http://www.calend.ru/holidays/0/0/1743/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8608Zs7OuL@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/2493/
+DESCRIPTION:За всем известной в нашей стране аббревиатурой ЗАГС — запись ак
+ тов гражданского состояния — ежедневный кропотливый труд работников этой с
+ лужбы\, начиная от регистрации рождения нового гражданина страны и до само
+ й последней записи в жизни человека....
+DTSTART;VALUE=DATE:20151218
+RRULE:FREQ=YEARLY
+SUMMARY:День работников органов ЗАГСа в России
+URL:http://www.calend.ru/holidays/0/0/2493/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8621ZOUJpE@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1872/
+DESCRIPTION:Профессиональный праздник - День подразделений собственной безо
+ пасности органов внутренних дел Российской Федерации - установлен приказом
+  МВД РФ № 998 от 28 сентября 2000 года.\n  \nВо исполнение пункта 3 Указа 
+ Президента Российской...
+DTSTART;VALUE=DATE:20151218
+RRULE:FREQ=YEARLY
+SUMMARY:День подразделений собственной безопасности органов внутренних дел 
+ РФ
+URL:http://www.calend.ru/holidays/0/0/1872/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8634S0CIsc@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/3222/
+DESCRIPTION:Ежегодно 19 декабря в нашей стране празднуется профессиональный
+  праздник – День снабженца. Он пока не учрежден официально\, но его праздн
+ ование уже стало доброй традицией во многих российских компаниях\, которых
+  с каждым годом становится все больше....
+DTSTART;VALUE=DATE:20151219
+RRULE:FREQ=YEARLY
+SUMMARY:День снабженца в России
+URL:http://www.calend.ru/holidays/0/0/3222/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8646e747M1@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/1648/
+DESCRIPTION:Ежегодно в третью субботу декабря в нашей стране отмечается про
+ фессиональный праздник - День риэлтора\, который пока не установлен официа
+ льно.\n\nРиэлтором (от англ. realtor) называют агента по продаже недвижимо
+ сти или операциям с...
+DTSTART;VALUE=DATE:20151219
+RRULE:FREQ=YEARLY;BYDAY=3SA;BYMONTH=12
+SUMMARY:День риэлтора в России
+URL:http://www.calend.ru/holidays/0/0/1648/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8658rJAbau@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/121/
+DESCRIPTION:Профессиональный праздник сотрудников безопасности России отмеч
+ ается на основании Указа № 1280 Президента Российской Федерации от 20 дека
+ бря 1995 года «Об установлении Дня работника органов безопасности Российск
+ ой Федерации».\n\nВ этот...
+DTSTART;VALUE=DATE:20151220
+RRULE:FREQ=YEARLY
+SUMMARY:День работника органов государственной безопасности РФ (День ФСБ)
+URL:http://www.calend.ru/holidays/0/0/121/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8670pDar5i@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/122/
+DESCRIPTION:День энергетика – это день признания заслуг работников энергети
+ ческой промышленности в экономическом развитии России\, в совершенствовани
+ и и поддержании повседневной жизни населения. \n\nВ России этот праздник о
+ тмечается 22 декабря....
+DTSTART;VALUE=DATE:20151222
+RRULE:FREQ=YEARLY
+SUMMARY:День энергетика в России
+URL:http://www.calend.ru/holidays/0/0/122/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8685NDF60C@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/633/
+DESCRIPTION:День дальней авиации ВВС России был учрежден в 1999 году по при
+ казу главнокомандующего ВВС России.\n\nДнем\, положившим начало развитию д
+ альней авиации (ДА) в России\, можно назвать 23 декабря 1913 года\, когда 
+ совершил первый полет тяжелый...
+DTSTART;VALUE=DATE:20151223
+RRULE:FREQ=YEARLY
+SUMMARY:День дальней авиации ВВС России
+URL:http://www.calend.ru/holidays/0/0/633/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8699tCbpNs@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/632/
+DESCRIPTION:День воинской славы России\, отмечаемый сегодня\, установлен в 
+ честь Дня взятия турецкой крепости Измаил русскими войсками под командован
+ ием А.В. Суворова в 1790 году. Праздник установлен Федеральным законом № 3
+ 2-ФЗ от 13 марта 1995 года «О днях...
+DTSTART;VALUE=DATE:20151224
+RRULE:FREQ=YEARLY
+SUMMARY:День воинской славы России — День взятия турецкой крепости Измаил
+URL:http://www.calend.ru/holidays/0/0/632/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150401T000119CEST-8712aOwTIX@calend.ru/russtate/
+DTSTAMP:20150401T220119Z
+CATEGORIES:Праздники России
+COMMENT:http://www.calend.ru/holidays/0/0/124/
+DESCRIPTION:День спасателя в России\, отмечаемый ежегодно 27 декабря\, уста
+ новлен Указом Президента Российской Федерации № 1306 от 26 ноября 1995 год
+ а «Об установлении Дня спасателя Российской Федерации». \n\n27 декабря 199
+ 0 года на основании...
+DTSTART;VALUE=DATE:20151227
+RRULE:FREQ=YEARLY
+SUMMARY:День спасателя в России
+URL:http://www.calend.ru/holidays/0/0/124/
+END:VEVENT
+END:VCALENDAR
