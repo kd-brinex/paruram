@@ -4,31 +4,31 @@ namespace app\modules\admin\controllers;
 
 use yii\web\Controller;
 use yii\filters\AccessControl;
-use app\modules\frends\models\FrendpovodSearch;
+use app\modules\admin\models\Work;
+
+//use app\modules\frends\models\FrendpovodSearch;
 
 class DefaultController extends Controller
 {
     public function actionIndex()
     {
-        $model = new FrendpovodSearch();
-        $provider = $model->searchPovod([]);
+        $model = new Work();
+        $provider = $model->searchPovod("");
 //            var_dump($provider->models[0]);die;
-        $columns = [
-            'happyday:date',
-            'povodname',
-            'frendname',
-            'user_id'
-//                'fcount',
-//                'enable',
-//                'description',
-        ];
+
         $vars = ['frendpovod' => [
             'provider' => $provider,
             'searchModel' => $model,
-            'columns' => $columns]];
+            ]];
         return $this->render('index', $vars);
 //        return $this->render('index');
 
+    }
+    public function actionWork()
+    {
+        $model = new Work();
+        $model->sendMessage();
+        return $this->redirect('index');
     }
     public function behaviors()
     {
@@ -43,7 +43,7 @@ class DefaultController extends Controller
                 'class' => AccessControl::className(),
                 'rules' => [
                     [
-                        'actions' => ['index'],
+                        'actions' => ['index','work'],
                         'allow' => true,
                         'roles' => ['@'],
                         'matchCallback' => function ($rule, $action) {

@@ -129,4 +129,5 @@ ON DUPLICATE KEY UPDATE enable=' . $params['enable']);
     public function getFrendurl(){
         return '/frends/frends/view/?id='.(int) $this->frend_id;
     }
+
 }
