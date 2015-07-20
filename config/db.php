@@ -16,7 +16,7 @@ return [
 //    ],
     'prod' => [
         'class' => 'yii\db\Connection',
-        'dsn' => 'mysql:host=10.151.0.6;dbname=paruram',
+        'dsn' => 'mysql:host=localhost;dbname=paruram',
         'username' => 'paruram',
         'password' => 'T4X7Q5OgsV',
         'charset' => 'utf8',
