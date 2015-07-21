@@ -2,7 +2,7 @@
 return [
         'dev'=>[
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=127.0.0.1;dbname=paruram;port=3333;',
+            'dsn' => 'mysql:host=127.0.0.1;dbname=paruram;port=1111;',
             'username' => 'paruram',
             'password' => 'T4X7Q5OgsV',
             'charset' => 'utf8',
