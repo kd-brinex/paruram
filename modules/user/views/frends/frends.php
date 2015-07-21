@@ -7,6 +7,7 @@
  */
 use yii\helpers\Html;
 use yii\grid\GridView;
+use yii\widgets\DetailView;
 
 
 /**
@@ -34,9 +35,11 @@ $this->params['breadcrumbs'][] = $this->title;
                 <div class="frends-index">
                     <p>
                         <?= Html::a('Добавить Друга', ['create'], ['class' => 'btn btn-success']) ?>
-<!--                        --><?//= Html::a('Импорт', ['import'], ['class' => 'btn btn-success']) ?>
+                        <?php
+//                         Html::a('Импорт', ['import'], ['class' => 'btn btn-success']) ?>
                     </p>
                     <?php \yii\widgets\Pjax::begin(); ?>
+
                     <?= GridView::widget([
                         'dataProvider' => $dataProvider,
                         'filterModel' => $searchModel,
@@ -62,27 +65,23 @@ $this->params['breadcrumbs'][] = $this->title;
                                 'attribute' => 'fullname',
                                 'format' => 'text',
 //                                'options' => ['class'=>'col-xs-3'],
-//                                'label' => 'Name',
                             ],
-//                            [
-//                                'attribute' => 'providerlogo',
-//                                'format' => 'html',
-////                                'caption'=>'provider',
-////                                'caption' =>  Html::tag('span', '', ['class' => 'auth-icon ' . $client->getName()]),
-////                                'label' => 'Name',
-//                            ],
-//                            [
-//                                'attribute' => 'photo',
-//                                'format' => 'image',
-//                            ],
-//            'user_id',
-            'email:email',
-            'valid:boolean',
-//            'sexname',
+                            [
+                              'attribute'  => 'email',
+                                'format'=>'email',
+//                                'options'=>['class'=>'col-lg-1 hidden-xs']
+                            ],
+                            [
+                              'attribute'  => 'valid',
+                                'format'=>'boolean',
+//                                'options'=>['class'=>'col-xs-1']
+                            ],
+//            'email:email',
+//            'valid:boolean',
 
                             ['class' => 'yii\grid\ActionColumn',
 //                                'header'=>'Изменить',
-//                                'options' => ['class'=>'col-xs-1'],
+//                                'options' => ['class'=>'col-md-1 '],
                                 'buttons' => [
 //                                 'view'=>function($url,$model,$key){
 //                                return Html::a($model->fullname,'view?id='.$key);
