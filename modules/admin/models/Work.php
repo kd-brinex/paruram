@@ -55,7 +55,7 @@ class Work
         $autodate=date('d.m.Y',time()+3600*24);
         $autodate='2015-07-26';
 //        var_dump($autodate);die;
-        $plan=$this->searchPovod("p.happyday = '".$autodate."'")->models;
+        $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
         foreach($plan as $r)
         {
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
@@ -68,22 +68,25 @@ class Work
 //                ->setTextBody($r['text'])
 //                ->setHtmlBody('<b>'.$r['text'].'</b>')
                 ->send();
-//            $this->insertArhiv([
-//                'povod_id'=>$r['povod_id'],
-//                'frend_id'=>$r['frend_id'],
-//                'happyday'=>$r['happyday'],
-////                'data'=>':data'
-//            ]);
+            $this->insertArhiv($r);
         }
 
     }
     public function insertArhiv($data)
     {
-        $query= new Connection(\Yii::$app->db);
+//        $query= new Connection(\Yii::$app->db);
 //        var_dump($query);die;
-        $query->open();
+//        $query->open();
+        $s='';
+        foreach($data as $key=>$val){
+            $s.='"'.$key.'","'.str_replace(',','.',$val).'",';
+        }
+        $s='COLUMN_CREATE('.substr($s,0,-1).')';
+//        var_dump($s);die;
+        $sql="insert into arhiv (povod_id,frend_id,happyday,data) values (".$data['povod_id'].",".$data['frend_id'].",'".$data['happyday']."',".$s.")" ;
+        $query=\Yii::$app->db->createCommand($sql)->execute();
 //        $query->createCommand("insert into arhiv (povod_id,frend_id,happyday,data) values (".$data['povod_id'].",".$data['frend_id'].",'".$data['happyday']."',".$this->toBlob($data).")" )->execute();
-        $query->createCommand("insert into arhiv (povod_id,frend_id,happyday) values (".$data['povod_id'].",".$data['frend_id'].",'".$data['happyday']."')" )->execute();
+//        $query->createCommand()->execute();
     }
 
 }
