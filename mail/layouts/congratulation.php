@@ -29,7 +29,7 @@ use yii\helpers\Html;
 <div class="message">
 <?= $text ?>
 </div>
-<div class="footer">Поздравление отправленно с <?= \Yii::$app->name ?>, потому, что Ваш друг помнит о Вас</div>
+<div class="footer">Поздравление отправленно службой портала <?= \Yii::$app->name ?>, потому, что Ваш друг помнит о Вас.</div>
 <?php $this->endBody() ?>
 </body>
 </html>
