@@ -63,6 +63,7 @@ $config = [
                 'pupdate'=>'frends/frends/pupdate',
                 'povod/<id:\d+>'=>'admin/povod/povod',
                 'blank/<id:\d+>'=>'admin/image/blank',
+                'admin'=>'admin/admin',
 
 
 //                'icsfile/<file:\w+>'=>'admin/povod/povod/icsfile',

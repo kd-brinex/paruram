@@ -16,9 +16,10 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'title')->textInput(['maxlength' => 250]) ?>
 
-<!--    --><?//= $form->field($model, 'povod_id')->hiddenInput() ?>
-<!---->
-<!--    --><?//= $form->field($model, 'image')->hiddenInput() ?>
+    <?php
+//    $form->field($model, 'povod_id')->hiddenInput();
+//
+//     $form->field($model, 'image')->hiddenInput() ?>
 
 
     <div class="form-group">
