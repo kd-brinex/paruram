@@ -77,12 +77,21 @@ $config = [
 //            'fileTransportPath' => '@runtime/mail',
             'transport' => [
                 'class' => 'Swift_SmtpTransport',
-                'host' => 'smtp.gmail.com',//'smtp.gmail.com',
-                'username' => 'maratjobmail@gmail.com',
-                'password' => 'HuMa250773-gmail',
-                'port' => '587',
-                'encryption' => 'tls',
+                'host' => 'smtp.mail.ru',//'smtp.gmail.com',
+                'username' => 'happy@paruram.ru',
+                'password' => 'q2@4dQjdiAIM',
+                'port' => '465',
+                'encryption' => 'ssl',
+
             ],
+//            'transport' => [
+//                'class' => 'Swift_SmtpTransport',
+//                'host' => 'smtp.gmail.com',//'smtp.gmail.com',
+//                'username' => 'maratjobmail@gmail.com',
+//                'password' => 'HuMa250773-gmail',
+//                'port' => '587',
+//                'encryption' => 'tls',
+//            ],
         ],
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation

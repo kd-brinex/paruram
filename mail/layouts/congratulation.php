@@ -12,7 +12,9 @@ use yii\helpers\Html;
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=<?= Yii::$app->charset ?>" />
     <style type="text/css">
-        /*.heading {}*/
+        .heading {
+            text-transform: capitalize;
+        }
         /*.list {}*/
         .message {font-size:16px;color: #0a0a0a}
         .footer {font-size: 8px; color: #212121}
@@ -24,7 +26,7 @@ use yii\helpers\Html;
 <?php
 //file_exists($image)?'<img src="'.$message->embed($image).'">':""; ?>
 <h1><?= $frendname?></h1>
-<b>Поздравляем Вас с праздником "<?=$povodname?>"</b>
+<div class="heading">Поздравляем <?=$thee?> с праздником "<?=$povodname?>"</div>
 </br>
 <div class="message">
 <?= $text ?>
