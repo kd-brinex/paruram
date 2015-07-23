@@ -17,16 +17,24 @@ class Work
 {
     public $image;
     public $text;
+    public function you($ti)
+    {
+        return ($ti)?'ты':'вы';
+    }
+    public function thee($ti)
+    {
+        return ($ti)?'тебя':'вас';
+    }
     public function searchPovod($params)
     {
         $query = new Query();
-        $query->Select("p.*, u.username,i.image as image, t.text text, a.happyday isp, f.email ")
+        $query->Select("p.*, u.name username,i.image as image, t.text text, a.happyday isp, f.email, f.nati ")
             ->from('povod p')
             ->leftjoin('otk_image i','i.povod_id = p.povod_id')
             ->leftjoin('otk_text t','t.povod_id = p.povod_id')
             ->leftjoin('arhiv a','p.povod_id=a.povod_id and a.frend_id = p.frend_id and a.happyday=p.happyday')
             ->leftJoin('frends f','f.id = p.frend_id')
-            ->leftJoin('user u','u.id = p.user_id')
+            ->leftJoin('profile u','u.user_id = p.user_id')
             ->where($params)
             ->groupBy(['p.frend_id', 'p.povod_id'])
             ->orderBy(['p.happyday' => 'asc', 'p.povodname' => 'asc', 'p.frendname' => 'asc']);
@@ -52,18 +60,20 @@ class Work
     }
     public function sendMessage()
     {
-        $autodate=date('d.m.Y',time()+3600*24);
-        $autodate='2015-07-26';
+        $autodate=date('Y-m-d',time());
+        $autodate='2015-07-25';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
         foreach($plan as $r)
         {
+            $r['you']=$this->you($r['nati']);
+            $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
 //            var_dump($r);die;
 //            $html=
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
-                ->setTo('hmf73@mail.ru')
+                ->setTo('hmf@yandex.ru')
                 ->setSubject('Поздравление от '.$r['username'])
 //                ->setTextBody($r['text'])
 //                ->setHtmlBody('<b>'.$r['text'].'</b>')
