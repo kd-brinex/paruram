@@ -126,7 +126,10 @@ class ImageController extends Controller
     {
         $model = $this->findModel($id);
 //var_dump(Yii::$app->request->post());die;
-        if ($model->load(Yii::$app->request->post())&& $model->save() ) {
+        $p=\Yii::$app->request->post();
+//        var_dump($p,$_POST);die;
+        if ($model->load($p)&& $model->save() ) {
+            $model->loadimage();
             return $this->redirect(['view', 'id' => $model->id]);
         } else {
             return $this->render('update', [

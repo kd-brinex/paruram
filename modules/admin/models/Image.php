@@ -115,11 +115,12 @@ class Image extends \yii\db\ActiveRecord
     {
 
 
-            $image = UploadedFile::getInstance($this, 'image');
-//            var_dump($image->name);die;
+            $image = UploadedFile::getInstanceByName($this, 'image_update');
+//            var_dump($this->image);die;
             $name = explode(".", $image->name);
             $ext = end($name);
-            $this->image = addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext;
+//        var_dump($this->title, $image->name);die;
+            $this->image = (empty($this->image))?addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext:$this->image;
             $path = Yii::$app->basePath . '/web' . Yii::$app->params['imagePath'] . $this->povod_id;
             if (!file_exists($path)) {
                 mkdir($path);
