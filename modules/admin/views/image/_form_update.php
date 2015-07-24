@@ -6,6 +6,7 @@ use yii\widgets\ActiveForm;
 /* @var $this yii\web\View */
 /* @var $model app\modules\admin\models\Image */
 /* @var $form yii\widgets\ActiveForm */
+//var_dump($model);die;
 ?>
 
 <div class="image-form">
@@ -14,11 +15,13 @@ use yii\widgets\ActiveForm;
 
     <?= ($model->image) ? Html::img($model->imageurl, ['height' => '200px']) : '' ?>
 
-    <?=$form->field($model, 'image')->fileInput()?>
-
     <?= $form->field($model, 'title')->textInput(['maxlength' => 250]) ?>
 
     <?= $form->field($model, 'povod_id')->hiddenInput();?>
+
+    <?=$form->field($model, 'image')->hiddenInput()?>
+
+    <?=Html::input('file','Image[image_update]','',['id'=>'image-image_update'])?>
 
     <div class="form-group">
         <?= Html::submitButton($model->isNewRecord ? 'Create' : 'Update', ['class' => $model->isNewRecord ? 'btn btn-success' : 'btn btn-primary']) ?>
