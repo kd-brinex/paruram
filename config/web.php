@@ -116,7 +116,7 @@ $config = [
                 ],
             ],
         ],
-        'db' => $db[YII_ENV],
+        'db' => $db,
         'view' => [
             'renderers' => [
                 'twig' => [
