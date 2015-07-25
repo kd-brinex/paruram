@@ -37,7 +37,7 @@ class Image extends \yii\db\ActiveRecord
         return [
             [['title', 'povod_id'], 'required'],
             [['image'], 'string'],
-//            [['image'], 'file', 'extensions'=>'jpg, gif, png','maxSize'=>1024*1024,],
+            [['image'], 'file', 'extensions'=>'jpg, gif, png','maxSize'=>1024*1024,],
             [['title'], 'string', 'max' => 250],
             [['povod_id'], 'integer'],
 
@@ -111,16 +111,14 @@ class Image extends \yii\db\ActiveRecord
     public function getPovodurl(){
         return $this->povod->povodurla;
     }
-    public function loadimage()
+    public function loadimage($image_name)
     {
-
-
-            $image = UploadedFile::getInstanceByName($this, 'image_update');
-//            var_dump($this->image);die;
+            $image = UploadedFile::getInstance($this, 'image');
+//            var_dump($this,$image);die;
             $name = explode(".", $image->name);
             $ext = end($name);
 //        var_dump($this->title, $image->name);die;
-            $this->image = (empty($this->image))?addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext:$this->image;
+            $this->image = (empty($image_name))?addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext:$image_name;
             $path = Yii::$app->basePath . '/web' . Yii::$app->params['imagePath'] . $this->povod_id;
             if (!file_exists($path)) {
                 mkdir($path);

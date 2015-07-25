@@ -61,7 +61,7 @@ class Work
     public function sendMessage()
     {
         $autodate=date('Y-m-d',time());
-        $autodate='2015-07-25';
+        $autodate='2015-07-26';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
         foreach($plan as $r)
@@ -73,7 +73,7 @@ class Work
 //            $html=
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
-                ->setTo('hmf@yandex.ru')
+                ->setTo('hmf73@mail.ru')
                 ->setSubject('Поздравление от '.$r['username'])
 //                ->setTextBody($r['text'])
 //                ->setHtmlBody('<b>'.$r['text'].'</b>')

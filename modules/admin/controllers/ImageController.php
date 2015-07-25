@@ -124,12 +124,14 @@ class ImageController extends Controller
      */
     public function actionUpdate($id)
     {
+
         $model = $this->findModel($id);
+        $image_name=$model->image;
 //var_dump(Yii::$app->request->post());die;
         $p=\Yii::$app->request->post();
 //        var_dump($p,$_POST);die;
         if ($model->load($p)&& $model->save() ) {
-            $model->loadimage();
+            $model->loadimage($image_name);
             return $this->redirect(['view', 'id' => $model->id]);
         } else {
             return $this->render('update', [
