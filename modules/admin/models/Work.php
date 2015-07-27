@@ -28,7 +28,7 @@ class Work
     public function searchPovod($params)
     {
         $query = new Query();
-        $query->Select("p.*, u.name username,i.image as image, t.text text, a.happyday isp, f.email, f.nati ")
+        $query->Select("p.*, u.name username,i.image as image, t.text text, a.happyday isp, f.email, f.nati, f.prefics ")
             ->from('povod p')
             ->leftjoin('otk_image i','i.povod_id = p.povod_id')
             ->leftjoin('otk_text t','t.povod_id = p.povod_id')
@@ -61,7 +61,7 @@ class Work
     public function sendMessage()
     {
         $autodate=date('Y-m-d',time());
-        $autodate='2015-07-26';
+        $autodate='2016-07-26';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
         foreach($plan as $r)
