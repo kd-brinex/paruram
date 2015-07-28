@@ -20,7 +20,7 @@ class m150727_192249_otk extends Migration
             'month'=>Schema::TYPE_INTEGER . ' NOT NULL DEFAULT 0',
             'description'=>Schema::TYPE_STRING . ' NULL',
         ], $tableOptions);
-        $this->createIndex('FK_otk_povod_name', 'otk_povod', 'name', true);
+        $this->createIndex('i_name', 'otk_povod', 'name', true);
 
         $this->createTable('otk_text', [
             'id' => Schema::TYPE_PK,
@@ -37,10 +37,10 @@ class m150727_192249_otk extends Migration
         ], $tableOptions);
 
         $this->addForeignKey(
-            'FK_povod_image', 'otk_image', 'povod_id', 'otk_povod', 'id', 'CASCADE', 'CASCADE'
+            'FK_povod_image', 'otk_image', 'povod_id', 'otk_povod', 'id','CASCADE', 'CASCADE'
         );
         $this->addForeignKey(
-            'FK_povod_text', 'otk_text', 'povod_id', 'otk_povod', 'id', 'CASCADE', 'CASCADE'
+            'FK_povod_text','otk_text', 'povod_id',  'otk_povod', 'id', 'CASCADE', 'CASCADE'
         );
 
     }
@@ -54,14 +54,16 @@ class m150727_192249_otk extends Migration
         return false;
     }
     
-    /*
+/*
     // Use safeUp/safeDown to run migration code within a transaction
     public function safeUp()
     {
+
     }
     
     public function safeDown()
     {
+
     }
     */
 }
