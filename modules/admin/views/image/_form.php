@@ -6,6 +6,7 @@ use yii\widgets\ActiveForm;
 /* @var $this yii\web\View */
 /* @var $model app\modules\admin\models\Image */
 /* @var $form yii\widgets\ActiveForm */
+//var_dump($model->povod_id);die;
 ?>
 
 <div class="image-form">

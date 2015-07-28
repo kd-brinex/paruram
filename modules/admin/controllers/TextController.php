@@ -61,8 +61,8 @@ class TextController extends Controller
     public function actionCreate()
     {
         $model = new Text();
-
-        if ($model->load(Yii::$app->request->post()) && $model->save()) {
+        $params=Yii::$app->request->post();
+        if ($model->load($params) && $model->save()) {
             return $this->redirect(['view', 'id' => $model->id]);
         } else {
             return $this->render('create', [
