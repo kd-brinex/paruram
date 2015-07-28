@@ -88,8 +88,9 @@ class ImageController extends Controller
     public function actionCreate()
     {
         $model = new Image();
-
-        if ($model->load(Yii::$app->request->post())) {
+        $params=Yii::$app->request->post();
+//        var_dump($params);die;
+        if ($model->load($params)) {
 //            $image = UploadedFile::getInstance($model, 'image');
 ////            var_dump($image->name);die;
 //            $name = explode(".", $image->name);
