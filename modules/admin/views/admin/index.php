@@ -14,6 +14,7 @@ $this->params['breadcrumbs'][] = $this->title; ?>
         <?= Html::a('Бланки', ['/admin/image'], ['class' => 'btn btn-success']) ?>
         <?= Html::a('Поздравления', ['/admin/text'], ['class' => 'btn btn-success']) ?>
         <?= Html::a('Разослать', ['/admin/admin/work'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('План', ['/admin/admin/plan'], ['class' => 'btn btn-success']) ?>
     </p>
 
     <div class="row">

@@ -8,6 +8,7 @@ namespace app\modules\admin\models;
  */
 use app\modules\frends\models\FrendpovodSearch;
 use dosamigos\qrcode\lib\Image;
+use yii\data\ArrayDataProvider;
 use yii\db\Query;
 use yii\data\ActiveDataProvider;
 use yii\db\Connection;
@@ -98,5 +99,39 @@ class Work
 //        $query->createCommand("insert into arhiv (povod_id,frend_id,happyday,data) values (".$data['povod_id'].",".$data['frend_id'].",'".$data['happyday']."',".$this->toBlob($data).")" )->execute();
 //        $query->createCommand()->execute();
     }
+    public function searchPovodPlan()
+    {
+        $sql="SELECT
+t.id povod_id,
+  t.name,
+  max(need)                  blank_count,
+  (SELECT count(oi.id)
+   FROM otk_image oi
+   WHERE oi.povod_id = t.id) image_count,
+  (SELECT count(ot.id)
+   FROM otk_text ot
+   WHERE ot.povod_id = t.id) text_count
 
+FROM
+(SELECT
+     op.id,
+     op.name,
+     f.email,
+     count(f.email) need
+   FROM
+     otk_povod op
+     LEFT JOIN frend_povod fp ON op.id = fp.povod_id
+     LEFT JOIN frends f ON f.id = fp.frend_id
+   WHERE NOT f.email = ''
+   GROUP BY f.email, op.id) t
+
+GROUP BY t.id";
+        $query=\Yii::$app->db->createCommand($sql)->queryAll();
+//        var_dump($query);die;
+        $dataProvider = new ArrayDataProvider([
+            'allModels' => $query,
+        ]);
+
+        return $dataProvider;
+    }
 }

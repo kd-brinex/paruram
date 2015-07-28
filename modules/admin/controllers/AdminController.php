@@ -30,6 +30,12 @@ class AdminController extends Controller
         $model->sendMessage();
         return $this->redirect('index');
     }
+    public function actionPlan()
+    {
+        $model = new Work();
+        $dp=$model->searchPovodPlan();
+        return $this->render('plan', ['dataProvider'=>$dp]);
+    }
     public function behaviors()
     {
         return [
@@ -43,7 +49,7 @@ class AdminController extends Controller
                 'class' => AccessControl::className(),
                 'rules' => [
                     [
-                        'actions' => ['index','work'],
+                        'actions' => ['index','work','plan'],
                         'allow' => true,
                         'roles' => ['@'],
                         'matchCallback' => function ($rule, $action) {
