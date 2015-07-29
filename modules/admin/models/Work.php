@@ -77,7 +77,7 @@ class Work
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
 //        var_dump($plan,$autodate,time());die;
         foreach($plan as $r)
-        {var_dump($r['public_email']);die;
+//        {var_dump($r['public_email']);die;
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
