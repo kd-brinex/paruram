@@ -75,8 +75,9 @@ class SiteController extends Controller
                 'happyday:date',
                 'povodname',
                 'frendname',
+//                'email',
 //                'fcount',
-//                'enable',
+                'enable',
 //                'description',
             ];
            $vars = ['frendpovod' => ['provider' => $provider, 'columns' => $columns]];

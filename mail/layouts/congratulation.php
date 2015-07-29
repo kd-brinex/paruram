@@ -82,7 +82,7 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             margin-top: 5px;">
             <h1><?= $prefics . ' ' . $frendname . '!!!' ?></h1>
 
-            <div class="heading">Поздравляю <?= $thee ?> с праздником "<?= $povodname ?>"</div>
+            <div class="heading">У <?= $thee ?> сегодня праздник!!! <br>"<?= $povodname ?>"</div>
             </br>
             <div style="text-align: left;padding-left:15px;">
                 <?= nl2br($text) ?>
