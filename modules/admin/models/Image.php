@@ -90,7 +90,7 @@ class Image extends \yii\db\ActiveRecord
     public function beforeDelete()
     {
 //var_dump($this->getImagepath());die;
-        unlink($this->getImagepath());
+        if(file_exists($this->getImagepath())){unlink($this->getImagepath());}
         return parent::beforeDelete();
     }
     public function getPovod()
@@ -118,7 +118,7 @@ class Image extends \yii\db\ActiveRecord
             $name = explode(".", $image->name);
             $ext = end($name);
 //        var_dump($this->title, $image->name);die;
-            $this->image = (empty($image_name))?addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext:$image_name;
+            $this->image = (empty($image_name))?addslashes(Yii::$app->security->generateRandomString(9)) . '.' . $ext:$image_name;
             $path = Yii::$app->basePath . '/web' . Yii::$app->params['imagePath'] . $this->povod_id;
             if (!file_exists($path)) {
                 mkdir($path);

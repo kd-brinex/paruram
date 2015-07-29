@@ -17,10 +17,6 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'title')->textInput(['maxlength' => 250]) ?>
 
-    <?= $form->field($model, 'povod_id')->hiddenInput();?>
-
-    <?=$form->field($model, 'image')->fileInput()?>
-
     <div class="form-group">
         <?= Html::submitButton($model->isNewRecord ? 'Create' : 'Update', ['class' => $model->isNewRecord ? 'btn btn-success' : 'btn btn-primary']) ?>
     </div>

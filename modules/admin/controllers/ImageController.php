@@ -91,20 +91,8 @@ class ImageController extends Controller
         $params=Yii::$app->request->post();
 //        var_dump($params);die;
         if ($model->load($params)) {
-//            $image = UploadedFile::getInstance($model, 'image');
-////            var_dump($image->name);die;
-//            $name = explode(".", $image->name);
-//            $ext = end($name);
-//            $model->image = addslashes(Yii::$app->security->generateRandomString(32)) . '.' . $ext;
-//            $path = Yii::$app->basePath . '/web' . Yii::$app->params['imagePath'] . $model->povod_id;
-//            if (!file_exists($path)) {
-//                mkdir($path);
-//            }
-//            //            var_dump($path);die;
-//            if ($model->save()) {
-//                $path = $path . '/' . $model->image;
-//                $image->saveAs($path);
-            if ($model->loadimage()){
+
+            if ($model->loadimage($model->image)){
                 return $this->redirect(['view', 'id' => $model->id]);
             } else {
                 // error in saving model
@@ -127,12 +115,11 @@ class ImageController extends Controller
     {
 
         $model = $this->findModel($id);
-        $image_name=$model->image;
-//var_dump(Yii::$app->request->post());die;
+
         $p=\Yii::$app->request->post();
-//        var_dump($p,$_POST);die;
+
         if ($model->load($p)&& $model->save() ) {
-            $model->loadimage($image_name);
+
             return $this->redirect(['view', 'id' => $model->id]);
         } else {
             return $this->render('update', [

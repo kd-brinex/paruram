@@ -135,6 +135,7 @@ $config = [
                     '@dektrium/user/views/settings' => '@app/modules/user/views/settings',
                     '@dektrium/user/views/frends' => '@app/modules/user/views/frends',
                     '@app/modules/user/views/frends' => '@app/modules/frends/views/frends',
+                    '@dektrium/user/views/security' => '@app/modules/user/views/security',
 
                 ],
             ],
@@ -164,13 +165,26 @@ $config = [
                 'security' => 'app\modules\user\controllers\SecurityController',
                 'frends' => 'app\modules\user\controllers\FrendsController',
             ],
+/*
+ *
+ *
+Пользователь robot@paruram.ru успешно создан!
 
+Пароль: bIv0d.3BzHJn
+
+Адрес для входа в Почту: https://biz.mail.ru/login/paruram.ru
+
+Инструкция для пользователей
+
+
+ */
             'mailer' => [
-                'sender'                => '003marat@gmail.com', // or ['no-reply@myhost.com' => 'Sender name']
+                'sender'                => 'happy@paruram.ru', // or ['no-reply@myhost.com' => 'Sender name']
                 'welcomeSubject'        => 'Welcome subject',
                 'confirmationSubject'   => 'Confirmation subject',
                 'reconfirmationSubject' => 'Email change subject',
                 'recoverySubject'       => 'Recovery subject',
+
             ],
             'enableUnconfirmedLogin' => true,
             'confirmWithin' => 21600,

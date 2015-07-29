@@ -18,6 +18,8 @@ class m150728_194847_arhiv extends Migration
             'frend_id' => Schema::TYPE_INTEGER . ' NOT NULL' ,
             'image_id' => Schema::TYPE_INTEGER . ' NOT NULL' ,
             'text_id'  => Schema::TYPE_INTEGER . ' NOT NULL',
+            'happyday' => Schema::TYPE_DATETIME . ' NOT NULL',
+            'data'     => ' BLOB',
         ], $tableOptions);
         $this->createIndex('Index_povod','arhiv', 'povod_id',false);
         $this->createIndex('Index_frend','arhiv', 'frend_id',false);

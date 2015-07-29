@@ -112,20 +112,5 @@ class Povod extends \yii\db\ActiveRecord
     {
         return $this->hasMany(Frendpovod::className(), ['povod_id'=>'id' ])->viaTable('frends',['id'=>'frend_id'])->groupBy('email');
     }
-    public function getCountImage()
-    {
-//        var_dump($this->getImage()->asArray()->all());die;
-        return count($this->image);
-//        return 1;
-    }
-    public function getCountText()
-    {
-        return count($this->text);
-    }
-    public function getCountFrendPovod()
-    {
 
-        var_dump($this->frendPovod);die;
-        return max($query);
-    }
 }
