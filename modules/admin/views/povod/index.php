@@ -32,9 +32,9 @@ $this->params['breadcrumbs'][] = $this->title;
             'days',
             'month',
             'function',
-            'countImage',
-            'countText',
-            'countFrendPovod',
+//            'countImage',
+//            'countText',
+//            'countFrendPovod',
             ['class' => 'yii\grid\ActionColumn'],
         ],
     ]); ?>

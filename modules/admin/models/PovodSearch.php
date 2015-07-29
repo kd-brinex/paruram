@@ -18,9 +18,7 @@ class PovodSearch extends Povod
     public $date;
     public $povodurl;
     public $povodurla;
-    public $count_image;
-    public $count_text;
-    public $count_frend_povod;
+
     public function rules()
     {
         return [
