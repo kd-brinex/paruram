@@ -38,7 +38,8 @@ class Work
         f.nati,
         f.prefics,
         i.id image_id,
-        t.id text_id")
+        t.id text_id,
+        u.public_email")
             ->from('povod p')
             ->leftjoin('otk_image i','i.povod_id = p.povod_id')
             ->leftjoin('otk_text t','t.povod_id = p.povod_id')
@@ -82,10 +83,14 @@ class Work
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
 //            var_dump(\Yii::$app->basePath.'/web'.$r['image']);die;
 //            if(file_exists(\Yii::$app->basePath.'/web'.$r['image'])){
-            if(!empty($r['image_id']) and !empty($r['text_id'])){
+            if(!empty($r['image_id'])
+                and !empty($r['text_id'])
+            and !empty($r['public_email'])){
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
-                ->setTo('hmf73@mail.ru')
+
+                ->setTo($r['public_email'])
+//                ->setTo('hmf73@mail.ru')
                 ->setSubject('Поздравление от '.$r['username'])
 //                ->setTextBody($r['text'])
 //                ->setHtmlBody('<b>'.$r['text'].'</b>')
