@@ -47,6 +47,7 @@ class Frendpovod extends \yii\db\ActiveRecord
         return [
             'id' => 'ID',
             'frendname' => 'Друг',
+            'psevdoname' => 'Обращение',
             'povodname' => 'Праздник',
             'happyday'  => 'Дата',
             'fcount'    => 'Всего',
@@ -71,7 +72,8 @@ class Frendpovod extends \yii\db\ActiveRecord
 
     public function getFrendname()
     {
-        return $this->frend->name;
+//         var_dump( $this->frend->name);die;
+         return $this->frend->name;
     }
     public function getFunction(){
         return $this->povod->function;

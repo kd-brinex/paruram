@@ -80,7 +80,9 @@ class Work
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
-//            var_dump($r);die;
+//            var_dump(\Yii::$app->basePath.'/web'.$r['image']);die;
+//            if(file_exists(\Yii::$app->basePath.'/web'.$r['image'])){
+            if(!empty($r['image_id']) and !empty($r['text_id'])){
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
                 ->setTo('hmf73@mail.ru')
@@ -89,7 +91,7 @@ class Work
 //                ->setHtmlBody('<b>'.$r['text'].'</b>')
                 ->send();
             $this->insertArhiv($r);
-        }
+        }}
 
     }
     public function insertArhiv($data)
@@ -104,6 +106,7 @@ class Work
         $s='COLUMN_CREATE('.substr($s,0,-1).')';
 //        var_dump($s);die;
         $sql="insert into arhiv (povod_id,frend_id,image_id,text_id,happyday,data) values (".$data['povod_id'].",".$data['frend_id'].",".$data['image_id'].",".$data['text_id'].",'".$data['happyday']."',".$s.")" ;
+//        var_dump($sql);die;
         $query=\Yii::$app->db->createCommand($sql)->execute();
 //        $query->createCommand("insert into arhiv (povod_id,frend_id,happyday,data) values (".$data['povod_id'].",".$data['frend_id'].",'".$data['happyday']."',".$this->toBlob($data).")" )->execute();
 //        $query->createCommand()->execute();

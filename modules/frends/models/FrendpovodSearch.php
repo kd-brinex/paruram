@@ -23,6 +23,7 @@ class FrendpovodSearch extends Frendpovod
     public $frendurl;
     public $happyday;
     public $fcount;
+    public $psevdoname;
 
     public function rules()
     {
