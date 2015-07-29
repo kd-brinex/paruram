@@ -72,12 +72,12 @@ class Work
     public function sendMessage()
     {
         $autodate=date('Y-m-d',time());
-        $autodate='2016-06-06';
+//        $autodate='2016-06-06';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
-//        var_dump($plan);die;
+//        var_dump($plan,$autodate,time());die;
         foreach($plan as $r)
-        {
+        {var_dump($r['public_email']);die;
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
@@ -86,6 +86,7 @@ class Work
             if(!empty($r['image_id'])
                 and !empty($r['text_id'])
             and !empty($r['public_email'])){
+
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
 
