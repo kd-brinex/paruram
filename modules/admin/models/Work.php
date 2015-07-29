@@ -62,9 +62,10 @@ class Work
     public function sendMessage()
     {
         $autodate=date('Y-m-d',time());
-        $autodate='2016-07-26';
+        $autodate='2016-06-06';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
+        var_dump($plan);die;
         foreach($plan as $r)
         {
             $r['you']=$this->you($r['nati']);
