@@ -67,7 +67,7 @@ VIEW `paruram`.`povod` AS
     public function down()
     {
         echo "m150729_191738_povod cannot be reverted.\n";
-        $this->execute('DROP  `paruram`.`povod`');
+        $this->execute('DROP `paruram`.`povod`');
         return false;
     }
 
