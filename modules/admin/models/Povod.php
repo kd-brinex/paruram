@@ -2,9 +2,11 @@
 
 namespace app\modules\admin\models;
 
+use app\modules\frends\models\Frendpovod;
 use Yii;
 use yii\helpers\Url;
 use yii\helpers\Html;
+;
 
 /**
  * This is the model class for table "otk_povod".
@@ -97,5 +99,33 @@ class Povod extends \yii\db\ActiveRecord
     }
     public function getPovodurla(){
         return HTML::a($this->name,$this->povodurl);
+    }
+    public function getImage()
+    {
+       return $this->hasMany(Image::className(), ['povod_id'=>'id']);
+    }
+    public function getText()
+    {
+        return $this->hasMany(Text::className(), ['povod_id'=>'id' ]);
+    }
+    public function getFrendPovod()
+    {
+        return $this->hasMany(Frendpovod::className(), ['povod_id'=>'id' ])->viaTable('frends',['id'=>'frend_id'])->groupBy('email');
+    }
+    public function getCountImage()
+    {
+//        var_dump($this->getImage()->asArray()->all());die;
+        return count($this->image);
+//        return 1;
+    }
+    public function getCountText()
+    {
+        return count($this->text);
+    }
+    public function getCountFrendPovod()
+    {
+
+        var_dump($this->frendPovod);die;
+        return max($query);
     }
 }
