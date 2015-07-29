@@ -76,7 +76,7 @@ class Work
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
 //        var_dump($plan,$autodate,time());die;
-        foreach($plan as $r)
+        foreach($plan as $r){
 //        {var_dump($r['public_email']);die;
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
