@@ -7,6 +7,7 @@
  */
 namespace app\modules\user\controllers;
 
+use app\modules\user\models\ArhivSearch;
 use dektrium\user\controllers\SettingsController as BaseSettingsController;
 use yii\filters\AccessControl;
 use yii\filters\VerbFilter;
@@ -28,7 +29,7 @@ class SettingsController extends BaseSettingsController
                     [
                         'allow'   => true,
                         'actions' => ['profile', 'account', 'confirm', 'networks', 'connect', 'disconnect',
-                            'frends', 'frendview', 'frendupdate', 'finance'],
+                            'frends', 'frendview', 'frendupdate', 'history'],
                         'roles'   => ['@']
                     ],
                 ]
@@ -36,8 +37,10 @@ class SettingsController extends BaseSettingsController
         ];
     }
 
-    public function actionFinance()
+    public function actionHistory()
     {
-       return  $this->render('finance',[]);
+        $model=new ArhivSearch();
+        $dp=$model->search();
+       return  $this->render('history',['dataProvider'=>$dp]);
     }
 }

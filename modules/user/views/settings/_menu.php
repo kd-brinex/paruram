@@ -34,7 +34,7 @@ $networksVisible = count(Yii::$app->authClientCollection->clients) > 0;
                 ['label' => Yii::t('user', 'Account'),  'url' => ['/user/settings/account']],
                 ['label' => Yii::t('user', 'Networks'), 'url' => ['/user/settings/networks'], 'visible' => $networksVisible],
                 ['label' => Yii::t('user', 'Frends'), 'url' => ['/user/frends/frends']],
-                ['label' => Yii::t('user', 'Finance'), 'url' => ['/user/settings/finance']],
+                ['label' => Yii::t('user', 'History'), 'url' => ['/user/settings/history']],
             ]
         ]) ?>
     </div>

@@ -22,7 +22,7 @@ use dektrium\user\Module as BaseModule;
  */
 class Module extends BaseModule
 {
-//    public $controllerNamespace = 'dectrium\user\controllers';
+    public $controllerNamespace = 'app\modules\user\controllers';
 
     public function init()
     {
