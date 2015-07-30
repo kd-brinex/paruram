@@ -59,7 +59,7 @@ class Arhiv extends \yii\db\ActiveRecord
             'frend_id' => 'Frend ID',
             'image_id' => 'Image ID',
             'text_id' => 'Text ID',
-            'happyday' => 'Happyday',
+            'happyday' => 'Дата',
             'data' => 'Data',
         ];
     }
