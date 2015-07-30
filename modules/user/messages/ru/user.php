@@ -23,6 +23,7 @@ $ret=array_merge($ret,
     [
         'Frends'=>'Друзья',
         'Finance'=>'Финансы',
+        'History'=>'История',
         'My finance'=>'Мои финансы',
     ]);
 return $ret;
