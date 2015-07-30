@@ -80,7 +80,7 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             text-align: center;
             margin-left: 5px;
             margin-top: 5px;">
-            <h1><?= $prefics . ' ' . $frendname . '!!!' ?></h1>
+            <h1><?= $psevdoname. '!!!' ?></h1>
 
             <div class="heading">У <?= $thee ?> сегодня праздник!!! <br>"<?= $povodname ?>"</div>
             </br>
