@@ -43,7 +43,7 @@ class m150729_191312_arhiv extends Migration
     {
         echo "m150729_191312_arhiv cannot be reverted.\n";
         $this->dropTable('arhiv');
-        return false;
+        return true;
     }
 
     /*

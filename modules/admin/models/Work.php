@@ -75,11 +75,11 @@ class Work
     {
         $autodate=date('Y-m-d',time());
 //        $autodate='2015-07-13 00:00:00';
-//        var_dump($autodate);die;
+//        var_dump($autodate,);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
 //        var_dump($plan);die;
         foreach($plan as $r){
-//        {var_dump($r['public_email']);die;
+        var_dump($r);die;
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
