@@ -92,6 +92,9 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             помнит о
             Вас.
         </div>
+        <div>
+
+        </div>
     </div>
     <?php $this->endBody() ?>
     </body>

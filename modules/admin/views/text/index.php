@@ -29,7 +29,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'text',
             'povod_id',
             'nati',
-
+            'autor',
             ['class' => 'yii\grid\ActionColumn'],
         ],
     ]); ?>
