@@ -156,6 +156,7 @@ $config = [
         ],
         'user' => [
             'class' => 'dektrium\user\Module',
+            'enableGeneratingPassword'=>true,
             'modelMap' => [
                 'Frends' => 'app\modules\user\models\Frends',
                 'User' => 'app\modules\user\models\User',
