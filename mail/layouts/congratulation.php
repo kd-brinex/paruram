@@ -1,5 +1,6 @@
 <?php
 use yii\helpers\Html;
+use yii\helpers\Url;
 
 /* @var $this \yii\web\View view component instance */
 /* @var $message \yii\mail\MessageInterface the message being composed */
@@ -45,14 +46,15 @@ $f_image = Yii::$app->basePath . '/web' . $image;
 
             .footer {
                 font-size: 8px;
-                color: #212121
+                color: #212121;
             }
         </style>
         <?php $this->head() ?>
+
     </head>
     <body>
     <?php $this->beginBody() ?>
-    <div>
+    <div style="width:685px;">
         <div style="background-image: url(<?= $message->embed($f_image) ?>);
             width: 320px;
             height: 480px;
@@ -64,8 +66,7 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             margin-top: 5px;
             float:left;
             background-repeat: no-repeat;
-            background-position: center;
-            border-radius: 15px;">
+            background-position: center;">
 
         </div>
         <div style="font-size: 16px;
@@ -74,7 +75,6 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             border-color :#372806;
             botrder-width :1px;
             border-style: solid;
-            border-radius: 15px;
             padding: 5px 5px 5px 5px;
             float:left;
             text-align: center;
@@ -88,13 +88,22 @@ $f_image = Yii::$app->basePath . '/web' . $image;
                 <?= nl2br($text) ?>
             </div>
         </div>
-        <div style="clear: both">Поздравление отправленно службой портала <?= \Yii::$app->name ?>, потому, что Ваш друг
-            помнит о
-            Вас.
-        </div>
-        <div>
+        <div style="clear: both">
 
         </div>
+        <?= Html::a('
+        <div style="
+        font-size: 12px;
+        font-style: italic;
+        color: #212121;
+        background-color: #808080;
+        padding: 3px 3px 3px 3px;
+        margin: 5px;">
+            Поздравление отправленно службой портала '. \Yii::$app->name .'<span>, потому что Ваш друг помнит о Вас.<span><br>'.
+            'Художник : '.$autor_image.'. '.
+            'Автор текста : '.$autor_text.'.<br>'.
+            '</div>','http://paruram.ru');?>
+        <span>Потому что Ваш друг помнит о Вас.<span>
     </div>
     <?php $this->endBody() ?>
     </body>

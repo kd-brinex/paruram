@@ -13,10 +13,10 @@ class m150731_093405_autor extends Migration
 
     public function down()
     {
-        echo "m150731_093405_autor cannot be reverted.\n";
+
         $this->dropColumn('otk_text','autor');
         $this->dropColumn('otk_image','autor');
-        return false;
+        return true;
     }
     
     /*
