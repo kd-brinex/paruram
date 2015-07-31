@@ -136,6 +136,7 @@ $config = [
                     '@dektrium/user/views/frends' => '@app/modules/user/views/frends',
                     '@app/modules/user/views/frends' => '@app/modules/frends/views/frends',
                     '@dektrium/user/views/security' => '@app/modules/user/views/security',
+                    '@dektrium/user/views/registration' => '@app/modules/user/views/registration',
 
                 ],
             ],
