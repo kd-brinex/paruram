@@ -32,6 +32,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'id',
             'povodname',
             'title',
+            'autor',
             [
                 'attribute'=>'imageurl',
                 'format' => ['image',['width'=>'100']],

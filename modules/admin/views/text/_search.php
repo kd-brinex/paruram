@@ -21,6 +21,8 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'povod_id') ?>
 
+    <?= $form->field($model, 'autor')->textInput(['maxlength' => 250]) ?>
+
     <?= $form->field($model, 'nati') ?>
 
     <div class="form-group">

@@ -19,6 +19,8 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'title')->textInput(['maxlength' => 250]) ?>
 
+    <?= $form->field($model, 'autor')->textInput(['maxlength' => 250]) ?>
+
     <?= $form->field($model, 'povod_id')->dropDownList($model->getPovodlist()) ?>
 
     <div class="form-group">

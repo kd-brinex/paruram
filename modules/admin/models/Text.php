@@ -31,6 +31,7 @@ class Text extends \yii\db\ActiveRecord
         return [
             [['text', 'povod_id', 'nati'], 'required'],
             [['povod_id', 'nati'], 'integer'],
+            [['autor'], 'string', 'max' => 250],
             [['text'], 'string', 'max' => 1024]
         ];
     }
@@ -45,7 +46,8 @@ class Text extends \yii\db\ActiveRecord
             'text' => 'Текст поздравления',
             'povod_id' => 'Povod ID',
             'nati' => 'Обращение на "Ты"',
-            'povodname' => 'Праздник'
+            'povodname' => 'Праздник',
+            'autor' => 'Автор',
         ];
     }
     public function getPovod()

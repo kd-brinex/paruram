@@ -32,6 +32,8 @@ class Work
         $query->Select("p.*,
         u.name username,
         i.image as image,
+        i.autor as autor_image,
+        t.autor as autor_text,
         t.text text,
         a.happyday isp,
         f.email,
@@ -72,10 +74,10 @@ class Work
     public function sendMessage()
     {
         $autodate=date('Y-m-d',time());
-//        $autodate='2016-06-06';
+//        $autodate='2015-07-13 00:00:00';
 //        var_dump($autodate);die;
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
-//        var_dump($plan,$autodate,time());die;
+//        var_dump($plan);die;
         foreach($plan as $r){
 //        {var_dump($r['public_email']);die;
             $r['you']=$this->you($r['nati']);

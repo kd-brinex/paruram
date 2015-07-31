@@ -39,6 +39,7 @@ class Image extends \yii\db\ActiveRecord
             [['image'], 'string'],
             [['image'], 'file', 'extensions'=>'jpg, gif, png','maxSize'=>1024*1024,],
             [['title'], 'string', 'max' => 250],
+            [['autor'], 'string', 'max' => 250],
             [['povod_id'], 'integer'],
 
 
@@ -59,6 +60,7 @@ class Image extends \yii\db\ActiveRecord
             'blankurl'=>'Бланк поздравления',
             'povodname'=>'Праздник',
             'imageurl'=>'Изображение',
+            'autor' => 'Автор',
 
         ];
     }
