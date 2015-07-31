@@ -53,7 +53,7 @@ class m150729_162727_frends extends Migration
         $this->dropTable('frend_povod');
         $this->dropTable('frends');
 
-        return false;
+        return true;
     }
     
     /*

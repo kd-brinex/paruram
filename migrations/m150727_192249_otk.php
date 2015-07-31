@@ -51,7 +51,7 @@ class m150727_192249_otk extends Migration
         $this->dropTable('otk_text');
         $this->dropTable('otk_image');
         $this->dropTable('otk_povod');
-        return false;
+        return true;
     }
     
 /*
