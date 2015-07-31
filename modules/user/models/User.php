@@ -17,5 +17,10 @@ class User extends BaseUser
         return parent::register();
         // do your magic
     }
-
+    public function rules()
+    {
+        $rules=parent::rules();
+        $rules[1] =['username', 'match', 'pattern' => '/^[-a-zA-Z0-9_-а-яА-Я\.@]+$/'];
+        return $rules;
+    }
 }

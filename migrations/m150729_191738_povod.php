@@ -52,7 +52,7 @@ VIEW `paruram`.`povod` AS
                             `p`.`month`,
                             '-',
                             `p`.`days`)
-                    else now()
+                    else date_format(now(), '%Y-%m-%d')
                 end)) AS `happyday`,
         `p`.`function` AS `function`
     from
@@ -66,9 +66,9 @@ VIEW `paruram`.`povod` AS
 
     public function down()
     {
-        echo "m150729_191738_povod cannot be reverted.\n";
-        $this->execute('DROP `paruram`.`povod`');
-        return false;
+
+        $this->execute('DROP VIEW `povod`');
+        return true;
     }
 
     /*

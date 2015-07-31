@@ -156,10 +156,12 @@ $config = [
         ],
         'user' => [
             'class' => 'dektrium\user\Module',
+            'enableGeneratingPassword'=>true,
             'modelMap' => [
                 'Frends' => 'app\modules\user\models\Frends',
                 'User' => 'app\modules\user\models\User',
                 'Profile'=>'app\modules\user\models\Profile',
+                'RegistrationForm'=>'app\modules\user\models\RegistrationForm',
             ],
             'controllerMap' => [
                 'settings' => 'app\modules\user\controllers\SettingsController',

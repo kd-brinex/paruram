@@ -30,6 +30,7 @@ $this->params['breadcrumbs'][] = $this->title;
         'attributes' => [
             'id',
             'text',
+            'autor',
             'povodname',
             'nati:boolean',
         ],

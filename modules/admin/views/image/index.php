@@ -31,6 +31,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 'format' => ['image',['height'=>'25']],
             ],
             'title',
+            'autor',
             'povodname',
 
 //            [
