@@ -136,6 +136,7 @@ $config = [
                     '@dektrium/user/views/frends' => '@app/modules/user/views/frends',
                     '@app/modules/user/views/frends' => '@app/modules/frends/views/frends',
                     '@dektrium/user/views/security' => '@app/modules/user/views/security',
+                    '@dektrium/user/views/registration' => '@app/modules/user/views/registration',
 
                 ],
             ],
@@ -159,6 +160,7 @@ $config = [
                 'Frends' => 'app\modules\user\models\Frends',
                 'User' => 'app\modules\user\models\User',
                 'Profile'=>'app\modules\user\models\Profile',
+                'RegistrationForm'=>'app\modules\user\models\RegistrationForm',
             ],
             'controllerMap' => [
                 'settings' => 'app\modules\user\controllers\SettingsController',

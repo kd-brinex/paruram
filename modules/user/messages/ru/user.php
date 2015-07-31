@@ -25,5 +25,6 @@ $ret=array_merge($ret,
         'Finance'=>'Финансы',
         'History'=>'История',
         'My finance'=>'Мои финансы',
+        'Username'=>'Логин',
     ]);
 return $ret;
