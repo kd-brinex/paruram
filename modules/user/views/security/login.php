@@ -62,9 +62,11 @@ $this->params['breadcrumbs'][] = $this->title;
                 <?= Html::a(Yii::t('user', 'Didn\'t receive confirmation message?'), ['/user/registration/resend']) ?>
             </p>
         <?php endif ?>
+
         <?= Connect::widget([
             'baseAuthUrl' => ['/user/security/auth']
         ]) ?>
+
         <div><?= Html::a(yii\bootstrap\Button::widget([
                 'label' => 'Регистрация',
                 'options' => [

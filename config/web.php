@@ -50,6 +50,7 @@ $config = [
             'suffix'=>'',
             'rules'=>[
                 ''=>'site/index',
+                'userpovod'=>'site/userpovod',
 //            ''=>'frends/frendpovod/listall',
                 'profile' => 'user/settings/profile',
                 'login'=>'user/security/login',
