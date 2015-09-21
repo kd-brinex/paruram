@@ -31,6 +31,7 @@ $this->params['breadcrumbs'][] = $this->title; ?>
                         'povodname',
                         'frendname',
                         'user_id',
+                        'username',
                         [
                             'attribute'=>'image',
                             'format' => ['image', ['height' => '50']],

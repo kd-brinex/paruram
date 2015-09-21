@@ -103,7 +103,6 @@ $f_image = Yii::$app->basePath . '/web' . $image;
             'Художник : '.$autor_image.'. '.
             'Автор текста : '.$autor_text.'.<br>'.
             '</div>','http://paruram.ru');?>
-        <span>Потому что Ваш друг помнит о Вас.<span>
     </div>
     <?php $this->endBody() ?>
     </body>

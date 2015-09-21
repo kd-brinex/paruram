@@ -73,13 +73,15 @@ class Work
     }
     public function sendMessage()
     {
-        $autodate=date('Y-m-d',time());
+        date_default_timezone_set('Europe/Moscow');
+        $autodate=date('Y-m-d');
 //        $autodate='2015-07-13 00:00:00';
-//        var_dump($autodate);die;
+
+//        var_dump($autodate,date_default_timezone_get());
         $plan=$this->searchPovod(["p.happyday"=>$autodate])->models;
 //        var_dump($plan);die;
         foreach($plan as $r){
-//        {var_dump($r['public_email']);die;
+//        var_dump($r);die;
             $r['you']=$this->you($r['nati']);
             $r['thee']=$this->thee($r['nati']);
             $r['image']=\Yii::$app->request->BaseUrl. \Yii::$app->params['imagePath'].$r['povod_id'].'/'.$r['image'];
@@ -87,7 +89,8 @@ class Work
 //            if(file_exists(\Yii::$app->basePath.'/web'.$r['image'])){
             if(!empty($r['image_id'])
                 and !empty($r['text_id'])
-            and !empty($r['public_email'])){
+            and !empty($r['public_email'])
+                and empty($r['isp'])){
 
            \Yii::$app->mailer->compose('layouts/congratulation',$r)
                 ->setFrom('happy@paruram.ru')
