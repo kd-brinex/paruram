@@ -41,7 +41,13 @@ $this->params['breadcrumbs'][] = $this->title; ?>
                             }
                         ],
 
-                        'text',
+                        [
+                            'attribute'=>'text','format'=>'raw',
+                            'value' => function ($data) {
+
+                                return substr($data['text'],0,35).'...';
+                            }
+                        ],
                         'isp'
                     ],
 
