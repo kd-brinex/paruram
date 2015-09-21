@@ -3,8 +3,24 @@ namespace app\modules\user\controllers;
 use dektrium\user\controllers\SecurityController as BaseController;
 use dektrium\user\models\Account;
 use yii\helpers\Url;
+use dektrium\user\models\LoginForm;
 class SecurityController extends BaseController
 {
+    public function actionLogin()
+    {
+        $model = \Yii::createObject(LoginForm::className());
+
+        $this->performAjaxValidation($model);
+
+        if ($model->load(\Yii::$app->getRequest()->post()) && $model->login()) {
+            return $this->redirect('/userpovod');
+        }
+
+        return $this->render('login', [
+            'model'  => $model,
+            'module' => $this->module,
+        ]);
+    }
     public function authenticate($client)
     {
         $attributes = $client->getUserAttributes();
