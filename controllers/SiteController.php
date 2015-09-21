@@ -20,12 +20,17 @@ class SiteController extends Controller
         return [
             'access' => [
                 'class' => AccessControl::className(),
-                'only' => ['logout'],
+                'only' => ['logout','userpovod'],
                 'rules' => [
                     [
-                        'actions' => ['logout'],
+                        'actions' => ['logout','userpovod','index'],
                         'allow' => true,
                         'roles' => ['@'],
+                    ],
+                    [
+                        'actions' => ['index'],
+                        'allow' => true,
+                        'roles' => ['?'],
                     ],
                 ],
             ],
@@ -51,11 +56,14 @@ class SiteController extends Controller
             ],
         ];
     }
-
     public function actionIndex()
     {
+        return $this->render('index');
+    }
+    public function actionUserpovod()
+    {
         //Если гость то выводим список праздников
-        if (\Yii::$app->user->isGuest) {
+//        if (\Yii::$app->user->isGuest) {
 //            $model=new PovodSearch();
 //            $provider=$model->search([]);
 //            $columns=[
@@ -63,12 +71,13 @@ class SiteController extends Controller
 //                'name',
 //                'description',
 //            ];
-            return $this->redirect('login');
-        } //Если зашел пользователь то
-        else {
+//            return $this->redirect('login');
+//        } //Если зашел пользователь то
+//        else {
 
             $model = new FrendpovodSearch();
             $id=Yii::$app->user->id;
+//        var_dump($id);die;
             $provider = $model->searchPovod(['user_id'=>$id]);
 //            var_dump($provider->models[0]);die;
             $columns = [
@@ -83,8 +92,8 @@ class SiteController extends Controller
 //                'description',
             ];
            $vars = ['frendpovod' => ['provider' => $provider, 'columns' => $columns]];
-            return $this->render('index', $vars);
-        }
+            return $this->render('userpovod', $vars);
+//        }
 
 
 
