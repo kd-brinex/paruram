@@ -21,15 +21,12 @@ class FrendsSearch extends Frends
      * @inheritdoc
      */
     public $sexname;
-    public $fullname;
-    public $psevdoname;
     public $providerlogo;
     public $valid;
     public function rules()
     {
         return [
             [['id', 'user_id', 'enable', 'sex'], 'integer'],
-            [['fullname'], 'safe'],
         ];
     }
 
@@ -63,9 +60,9 @@ class FrendsSearch extends Frends
         }
 
 
-        $query->andFilterWhere(['like', 'fname', $this->fullname]);
-        $query->orFilterWhere(['like', 'name', $this->fullname]);
-        $query->orFilterWhere(['like', 'oname', $this->fullname]);
+
+        $query->orFilterWhere(['like', 'name', $this->name]);
+
         $user_id = Yii::$app->user->identity->getId();
         $query->andFilterWhere(['=', 'user_id', $user_id]);
 
