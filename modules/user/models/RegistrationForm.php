@@ -21,13 +21,32 @@ use dektrium\user\models\RegistrationForm as BaseModel;
  */
 class RegistrationForm extends BaseModel
 {
-
     public function rules()
     {
-        $rules=parent::rules();
-        $rules[1] =['username', 'match', 'pattern' => '/^[-a-zA-Z0-9_-а-яА-Я\.@]+$/'];
-        return $rules;
+        return [
+            ['username', 'filter', 'filter' => 'trim'],
+            ['username', 'match', 'pattern' => '/^[-a-zA-Z0-9_-а-яА-Я\.@]+$/'],
+            ['username', 'required'],
+            ['username', 'unique', 'targetClass' => $this->module->modelMap['User'],
+                'message' => \Yii::t('user', 'This username has already been taken')],
+            ['username', 'string', 'min' => 3, 'max' => 20],
+
+            ['email', 'filter', 'filter' => 'trim'],
+            ['email', 'required'],
+            ['email', 'email'],
+            ['email', 'unique', 'targetClass' => $this->module->modelMap['User'],
+                'message' => \Yii::t('user', 'This email address has already been taken')],
+
+            ['password', 'required', 'skipOnEmpty' => $this->module->enableGeneratingPassword],
+            ['password', 'string', 'min' => 6],
+        ];
     }
+//    public function rules()
+//    {
+//        $rules=parent::rules();
+//        $rules[1] =['username', 'match', 'pattern' => '/^[-a-zA-Z0-9_-а-яА-Я\.@]+$/'];
+//        return $rules;
+//    }
 
 
 }
