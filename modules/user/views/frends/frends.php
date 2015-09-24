@@ -43,50 +43,27 @@ $this->params['breadcrumbs'][] = $this->title;
                     <?= GridView::widget([
                         'dataProvider' => $dataProvider,
                         'filterModel' => $searchModel,
-//                      'dataColumnClass' => ['class'=>'col-md-2'],
                         'columns' => [
-//                            ['class' => 'yii\grid\SerialColumn'],
-
-//            'id',
-//                            'name',
-//                            [
-////                                'class' => DataColumn::className(),
-//                                'attribute' => 'name',
-//                                'format' => 'text',
-//                                'options' => ['class'=>'col-md-1'],
-////                                'label' => 'Name',
-//                            ],
-                            [
+                        [
                                 'attribute' => 'bothday',
                                 'format' => 'date',
-//                                'options' => ['class'=>'col-xs-2'],
                             ],
                             [
-                                'attribute' => 'fullname',
+                                'attribute' => 'name',
                                 'format' => 'text',
-//                                'options' => ['class'=>'col-xs-3'],
                             ],
                             [
                               'attribute'  => 'email',
                                 'format'=>'email',
-//                                'options'=>['class'=>'col-lg-1 hidden-xs']
                             ],
                             [
                               'attribute'  => 'valid',
                                 'format'=>'boolean',
-//                                'options'=>['class'=>'col-xs-1']
-                            ],
-//            'email:email',
-//            'valid:boolean',
 
+                            ],
                             ['class' => 'yii\grid\ActionColumn',
-//                                'header'=>'Изменить',
-//                                'options' => ['class'=>'col-md-1 '],
                                 'buttons' => [
-//                                 'view'=>function($url,$model,$key){
-//                                return Html::a($model->fullname,'view?id='.$key);
-//                             }  ,
-                                    'update' => function ($url, $model, $key) {
+                                           'update' => function ($url, $model, $key) {
                                         return '';
                                     },
                                     'delete' => function ($url, $model, $key) {

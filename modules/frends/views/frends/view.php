@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $this yii\web\View */
 /* @var $model app\modules\frends\models\Frends */
 
-$this->title = $model->fullname;
+$this->title = $model->name;
 //$this->params['breadcrumbs'][] = ['label' => 'Друзья', 'url' => ['index']];
 //$this->params['breadcrumbs'][] = $this->title;
 ?>
@@ -30,11 +30,8 @@ $this->title = $model->fullname;
     <?= DetailView::widget([
         'model' => $model,
         'attributes' => [
-//            'id',
-            'fullname',
-            'psevdoname',
+            'name',
             'bothday:date',
-//            'user_id',
             'email:email',
             'enable:boolean',
             'sexname'

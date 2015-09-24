@@ -14,10 +14,8 @@ use yii\jui\DatePicker;
 
     <?php $form = ActiveForm::begin(); ?>
 
-    <?= $form->field($model, 'fname')->textInput(['maxlength' => 25]) ?>
-    <?= $form->field($model, 'name')->textInput(['maxlength' => 25]) ?>
-    <?= $form->field($model, 'oname')->textInput(['maxlength' => 25]) ?>
-    <?= $form->field($model, 'prefics')->textInput(['maxlength' => 45]) ?>
+
+    <?= $form->field($model, 'name')->textInput(['maxlength' => 45]) ?>
     <?= $form->field($model, 'sex')->dropDownList([1=>'женский',2=>'мужской']) ?>
     <?= $form->field($model,'bothday')->widget(DatePicker::className(),[
         'language' => 'ru',
