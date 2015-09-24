@@ -52,7 +52,6 @@ $config = [
             'rules'=>[
                 ''=>'site/index',
                 'userpovod'=>'site/userpovod',
-//            ''=>'frends/frendpovod/listall',
                 'profile' => 'user/settings/profile',
                 'login'=>'user/security/login',
                 'register'=>'user/registration/register',
@@ -60,17 +59,13 @@ $config = [
                 'contact'=>'site/contact',
                 'gii'=>'gii/index',
                 'frends'=>'frends/frends',
-                'frend/<id:\w+>'=>'user/frends/view',
+//                'frend/<id:\w+>'=>'user/frends/view',
                 'frendpovod'=>'frends/frendpovod',
                 'pupdate'=>'frends/frends/pupdate',
-                'povod/<id:\d+>'=>'admin/povod/povod',
-                'blank/<id:\d+>'=>'admin/image/blank',
+//                'povod/<id:\d+>'=>'admin/povod/povod',
+//                'blank/<id:\d+>'=>'admin/image/blank',
                 'admin'=>'admin/admin',
-
-
-//                'icsfile/<file:\w+>'=>'admin/povod/povod/icsfile',
-
-		'amp'=>'/amp/index.php',
+        		'amp'=>'/amp/index.php',
             ]
         ],
         'authManager' => [

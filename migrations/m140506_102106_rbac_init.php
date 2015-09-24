@@ -23,7 +23,7 @@ class m140506_102106_rbac_init extends \yii\db\Migration
      */
     protected function getAuthManager()
     {
-//        $authManager = \Yii::$app->getAuthManager();
+        $authManager = \Yii::$app->getAuthManager();
         $authManager = \Yii::$app->components;
         var_dump($authManager);die;
         if (!$authManager instanceof DbManager) {
