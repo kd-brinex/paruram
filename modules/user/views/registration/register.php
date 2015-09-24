@@ -34,7 +34,7 @@ $this->params['breadcrumbs'][] = $this->title;
                     'enableClientValidation' => false
                 ]); ?>
 
-                <?= $form->field($model, 'username') ?>
+                <?php echo $form->field($model, 'username') ?>
 
                 <?= $form->field($model, 'email') ?>
 

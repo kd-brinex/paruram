@@ -28,4 +28,5 @@ phpunit.phar
 
 tests/_output/*
 web/image
+web/assets
 runtime/debug/*
