@@ -14,6 +14,8 @@ return [
         'gii' => 'yii\gii\Module',
     ],
     'components' => [
+        'authManager' => [
+            'class' => 'dektrium\rbac\components\DbManager'],
         'cache' => [
             'class' => 'yii\caching\FileCache',
         ],
