@@ -13,7 +13,7 @@ class SecurityController extends BaseController
         $this->performAjaxValidation($model);
 
         if ($model->load(\Yii::$app->getRequest()->post()) && $model->login()) {
-            return $this->redirect('/userpovod');
+            return $this->goBack();
         }
 
         return $this->render('login', [

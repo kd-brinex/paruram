@@ -13,6 +13,7 @@ $config = [
         'app\modules\user\Bootstrap',
     ],
     'components' => [
+
         'authClientCollection' => [
             'class' => 'yii\authclient\Collection',
             'clients' => [
@@ -72,6 +73,8 @@ $config = [
 		'amp'=>'/amp/index.php',
             ]
         ],
+        'authManager' => [
+            'class' => 'dektrium\rbac\components\DbManager'],
         'mailer' => [
             'class' => 'yii\swiftmailer\Mailer',
 //            'useFileTransport' => true,
@@ -117,6 +120,7 @@ $config = [
                 ],
             ],
         ],
+
         'db' => $db,
         'view' => [
             'renderers' => [
@@ -148,7 +152,9 @@ $config = [
     'params' => $params,
 
     'modules' => [
-
+        'rbac' => [
+            'class' => 'dektrium\rbac\Module',
+        ],
        'frends'=>[
             'class'=>'app\modules\frends\Frends'
         ],
